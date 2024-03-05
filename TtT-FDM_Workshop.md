@@ -144,7 +144,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ![Goals today](images/targets.png) <!-- width="200px" align="right" -->
 
-Ich möchte mit Ihnen erreichen, dass Sie am Ende des Workshops ...
+Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 * ... beschreiben können, welche Themenaspekte zum Themenkomplex FDM gehören.  
 * ... beschreiben können, weshalb FDM für Forschungsprozesse und GWP von Bedeutung ist.
