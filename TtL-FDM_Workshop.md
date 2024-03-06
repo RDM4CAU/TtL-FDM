@@ -383,7 +383,7 @@ Ablaufpläne helfen dabei...
 
 > Ein Beispiel könnte so aussehen:
 >
-> [Bild](images/Planungsraster.png)
+> ![Bild](images/Planungsraster.png)
 
 Ein runterladbares Beispiel finden Sie hier: [Ablaufplan: Introduction to Git&GitLab](https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/tree/main/course_materials?ref_type=heads)
 
