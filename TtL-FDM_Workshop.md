@@ -1,6 +1,6 @@
 <!--
 
-author:   Britta Petersen
+author:   Britta Petersen, Linda Zollitsch
 email:    b.petersen@rz.uni-kiel.de
 version:  0.1.0
 language: en
@@ -22,7 +22,9 @@ comment:  This document provides a brief introduction to research data managemen
 >
 > This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
 
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="50%" width="50%"></center>
+<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
+
+<div style="page-break-after: always;"></div>
 
 ## Warm up
 
@@ -127,6 +129,8 @@ comment:  This document provides a brief introduction to research data managemen
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## Workshop Regeln
 
 ![Workshop rules](images\BeNice.jpg) <!-- width="250px" align="right" -->
@@ -139,6 +143,8 @@ comment:  This document provides a brief introduction to research data managemen
 - Beteiligen Sie sich aktiv.
 - Fehler zulassen -> positive Fehlerkultur.
 - Geben Sie Bescheid, wenn Sie eine Pause benötigen.
+
+<div style="page-break-after: always;"></div>
 
 ## Ziele dieses Workshops
 
@@ -153,6 +159,8 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 * ... ausgiebig über Ansätze zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutieren haben.
 * ... auch ein bisschen Spaß hatten.
 
+<div style="page-break-after: always;"></div>
+
 ## Limitationen
 
 ![Goals today](images/limitations.png) <!-- width="250px" align="right" -->
@@ -164,6 +172,8 @@ Wir werden uns keine speziellen Tools anschauen.
 Fachspezifische Aspekte werden nicht behandelt, dürfen von Ihnen aber sehr gerne in die Diskussionen eingebracht werden.
 
 Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/vertiefende Workshopthemen auf.
+
+<div style="page-break-after: always;"></div>
 
 ## Agenda
 
@@ -183,6 +193,8 @@ Unsere Agenda für heute
 ---
 
 ** Wir machen eine Stunde Mittagspause**
+
+<div style="page-break-after: always;"></div>
 
 # Allgemeine didaktische Hinweise
 
@@ -205,6 +217,7 @@ Bei der Planung einer Lehrveranstaltung müssen Sie immer drei wichtige Fragen b
         /____\
   Zeit⏳       Zielgruppe👥
 ```
+<div style="page-break-after: always;"></div>
 
 ## Rahmenbedingungen einer Lehrveranstaltung
 
@@ -240,6 +253,9 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
                                                 |
                                         teaching methods
 ```
+
+<div style="page-break-after: always;"></div>
+
 ## Phasen einer Lerneinheit
 
 <!-- style="width: 80%;background-color: palegrey;"-->
@@ -272,6 +288,8 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
 '----------------------------------------------------------------------'
 
 ```
+<div style="page-break-after: always;"></div>
+
 ## Planungshilfen
 
 Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich sein:
@@ -293,6 +311,8 @@ Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich se
 
   - offen lizensiert und nachnutzbar aufbereitetes Lehr-/Lernmaterial (OER) 
 
+<div style="page-break-after: always;"></div>
+
 ### Checklist
 
 Checklisten können helfen, sich auf eine Lehrveranstaltung vorzubereiten. 
@@ -301,11 +321,9 @@ Checklisten können helfen, sich auf eine Lehrveranstaltung vorzubereiten.
 # Checklist: Planning a workshop
 
 ## People involved
-
 - Who is responsible and who else is involved (e.g. aditional technical support)?
 
 ## Who is the audience?
-
 - Who is your audience?
 - Prior knowledge and experiences?
 - What motivates people to participate?
@@ -313,26 +331,21 @@ Checklisten können helfen, sich auf eine Lehrveranstaltung vorzubereiten.
 - ...
 
 ## What is the topic?
-
 - What is the core topic of your workshop?
 - How can you break down a complex topic into manageable learning bites?
 
 ## Learning objectives
-
 Define clear, comprehensible and achievable goals.
 
 - What knowledge and what skills should participants have acquired at the end of the workshop?
 
 ## Time
-
 - How much time do you have?
 
 ## Formal requirements
-
 - Are there any formalties to consider?
 
 ## Type of implementation
-
 - Do you conduct your workshop as face-to-face event, online, hybrid or blended?
 
 - [ ] face-to-face
@@ -341,34 +354,28 @@ Define clear, comprehensible and achievable goals.
 - [ ] blended
 
 ## Required material
-
 - List the required material (e.g. handouts, presentation, videos, paper and markers)
 
 ## Technical aspects
-
 - What technical aspects do you need to take into account for preparation and implementation of your workshop?
 - What kind of OS and softwares will you be working with?
 - Is it necessary to prepare the devices used (e.g. installation of programs)?
 - Any preparations with regard to authorization and authentication for certain systems necessary?
 
 ## Methods and social forms
-
 - What kind of teaching methods do you plan to use?
 - In which social forms will participants work?
 
 ## Assessment
-
 - Do you plan an assessment?
 - Which form of assessment do you plan?
 
 ## Feedback/Evaluation
-
 - How do you plan to collect feedback?
 - Will you use tools to evaluate?
 ```
 
 ### Ablaufpläne
-
 Ablaufpläne helfen dabei, eine Veranstaltung Schritt für Schritt zu planen.
 
 Ablaufpläne helfen dabei...
@@ -380,14 +387,13 @@ Ablaufpläne helfen dabei...
 - die Veranstaltung an jemanden abgeben zu können
 - ...
 
-
 > Ein Beispiel könnte so aussehen:
 >
 > ![Bild](images/Planungsraster.png)
 
 Ein runterladbares Beispiel finden Sie hier: [Ablaufplan: Introduction to Git&GitLab](https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/tree/main/course_materials?ref_type=heads)
 
-
+<div style="page-break-after: always;"></div>
 
 ## Die Frage nach dem Wie?
 
@@ -415,6 +421,8 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und w
 
 <!-- markdownlint-restore -->
 
+<div style="page-break-after: always;"></div>
+
 ### Motivation
 
 {{0-4}}
@@ -441,6 +449,7 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und w
 ```
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 {{2}}
 ********************************************************************************
@@ -469,6 +478,7 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und w
 >**Was denken Sie? Welche Maßnahmen können die Motivation der Lernenden steigern? Wie können wir als Lehrende auf die Bedürfnisse der Lernenden eingehen?**
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 ### Aktivierung
 
@@ -506,6 +516,8 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und w
 ```
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{1-2}}
 ********************************************************************************
@@ -550,6 +562,7 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
 
 # Forschungsdatenmanagement in der Lehre
 
@@ -579,6 +592,8 @@ Es existieren auch Forderungen von Studierendenseite:
 ![Bild](images/FDMArgumente_Studis.png "Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020")
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ## Förderer und andere wichtige Player
 
@@ -616,6 +631,7 @@ Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruk
 Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 {{2-3}}
 ********************************************************************************
@@ -647,6 +663,8 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## Berufliche Perspektiven aufzeigen
 
 > Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
@@ -658,6 +676,8 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 > * Data Collector
 >
 > Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
+
+<div style="page-break-after: always;"></div>
 
 # Orientierung im Themenbereich FDM
 
@@ -675,12 +695,16 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 >
 > Geben Sie unter https://answergarden.ch/2861448 Begriffe ein, die Sie mit dem Begriff Forschungsdatenmanagement verbinden. Sie dürfen so viele Eingaben machen, wie Sie möchten.
 
+<div style="page-break-after: always;"></div>
+
 {{1}}
 ********************************************************************************
 
 <iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
@@ -704,6 +728,8 @@ Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 Sie haben ~10 Minuten Zeit.
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Begriffsdefinition Forschungsdatenmanagement
 
 {{1}}
@@ -715,6 +741,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 >(*forschungsdaten.info, letzter Zugriff 29.11.2022*)
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 ## Begriffsdefinition Forschungsdaten
 
@@ -740,6 +767,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 > (*University of Camebridge PrePARe Project*)
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 ### Beispiele für Forschungsdaten
 
@@ -760,6 +788,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 - Textkorpora und Annotationen
 - Topographie-Daten
 - Abschriften
+
+<div style="page-break-after: always;"></div>
 
 ## Forschungsdatenlebenszyklus
 
@@ -830,6 +860,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # Erste Schritte im FDM
 
 Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
@@ -840,6 +872,8 @@ Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 * Forschungsdaten dokumentieren
 * Nachnutzung von Forschungsdaten
 * FAIR-Prinzipien
+
+<div style="page-break-after: always;"></div>
 
 ## Strukturierte Ordner- und Dateibenennung
 
@@ -854,6 +888,7 @@ Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 </div>
 
 ---
+
 {{1}}
 ********************************************************************************
 <img src="images/Dateibenennung_bad.png" alt="comic"  style="float:right"/>
@@ -865,6 +900,8 @@ Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 ---
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{2}}
 ********************************************************************************
@@ -879,6 +916,8 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 * Automatisierungsprozesse zu ermöglichen.
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### Ordnerstrukturen
 
@@ -924,6 +963,8 @@ Beispiel Ordnerstruktur:
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### Dateibenennung
 
 Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Forschungsdatenmanagement.
@@ -944,6 +985,7 @@ Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 * Führende Null(en) bei Nummerierungen verwenden
 
 * Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY_MM_DD)
+
 
 {{1}}
 ********************************************************************************
@@ -966,6 +1008,8 @@ Beispiele für Benennungskonventionen:
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### Versionierung
 
 {{0-1}}
@@ -974,6 +1018,8 @@ Beispiele für Benennungskonventionen:
 ![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{1-2}}
 ********************************************************************************
@@ -989,6 +1035,8 @@ Beispiele für Benennungskonventionen:
 > * <p style="color:#9a047f">***Rohdaten immer separat und ggf. schreibgeschützt abspeichern***</p>
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{2-3}}
 ********************************************************************************
@@ -1011,6 +1059,7 @@ Die Versionierung kann als Bestandteil des Dateinamens definiert werden und dabe
 
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 {{3-4}}
 ********************************************************************************
@@ -1027,6 +1076,7 @@ Die Versionierung kann als Bestandteil des Dateinamens definiert werden und dabe
 Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als separate Datei angelegt werden.
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 {{4-5}}
 ********************************************************************************
@@ -1038,6 +1088,8 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 {{5}}
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 **Beispiel eines dokumentierten Versionierungsschemas:**
 
 ![Bild](images/OstData_Versionierungsschema.png)
@@ -1045,6 +1097,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 https://zenodo.org/record/6076538#.Y4pE63bMJPa
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 #### Softwaregestützte Versionierung
 
@@ -1056,6 +1109,8 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 * GitLab: https://about.gitlab.com
 * Bitbucket: https://bitbucket.org
 * Gitea: https://gitea.io/en-us
+
+<div style="page-break-after: always;"></div>
 
 #### Gitlab RZ CAU
 
@@ -1092,6 +1147,8 @@ Eine explizite Aktivierung ist für die Registrierung nicht erforderlich.
 Dies gilt auch für Studierende.
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{3}}
 ********************************************************************************
@@ -1133,6 +1190,8 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### ~~Einzelarbeit~~: Dateibenennungskonvention für Abgaben
 
 <div style="text-align:center">
@@ -1154,6 +1213,8 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >
 >Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
 
+<div style="page-break-after: always;"></div>
+
 ## Formate
 
 **Mit welchen Dateinformaten arbeiten Sie?**
@@ -1169,6 +1230,8 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### ~~Beispiel~~: CSV vs XLSX
 
@@ -1187,6 +1250,8 @@ Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textba
 
 -> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
 
+<div style="page-break-after: always;"></div>
+
 ## Datendokumentation & Datenqualität
 
 ><p style="color:#9a047f">*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*</p>
@@ -1195,6 +1260,8 @@ Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textba
 
 {{1}}
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 **Kurzer Rechercheauftrag**:
 
@@ -1237,6 +1304,8 @@ Warum ist Datendokumentation wichtig?
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### ~~Gruppenarbeit~~: Datendokumentation & Datenqualität
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
@@ -1254,6 +1323,8 @@ Warum ist Datendokumentation wichtig?
 >https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
 >
 >Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
+
+<div style="page-break-after: always;"></div>
 
 ### Grundlegende Bestandteile einer Datendokumentation
 
@@ -1278,6 +1349,8 @@ Warum ist Datendokumentation wichtig?
 * Kodierung fehlende Werte / Gründe für fehlende Werte
 * Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
 * Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
+
+<div style="page-break-after: always;"></div>
 
 ### Dokumentationsformen
 
@@ -1308,6 +1381,8 @@ Beispiele für Data Dictionary und Codebook
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## Nachnutzung von Forschungsdaten
 
 >Welche Kenntnisse und Fähigkeiten brauchen Ihre Studierenden, um Forschungsdaten nachnutzen zu können?
@@ -1324,6 +1399,8 @@ Wer Daten nachnutzen möchte, muss zunächst einen passenden Datensatz finden:
 - Google: Stichwort und „data set“ bzw. Google Dataset Search
 
 Eine schöne Übersicht über Open Access Repositorien finden Sie hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
+
+<div style="page-break-after: always;"></div>
 
 ### Forschungsdaten zitieren
 
@@ -1350,6 +1427,8 @@ Ein gefundener Datensatz muss korrekt zitiert werden:
 >Risan, Patrick (2017): Accommodating Trauma in Police Interviews. An Exploration of Rapport in Investigative Interviews of Traumatized Victims, 2013. NSD - Norwegian Centre for Research Data. https://doi.org/10.13140/RG.2.2.34005.12001
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### Rechtslage einschätzen 
 
@@ -1383,6 +1462,8 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## FAIR-Prinzipien
 
 ![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!-- width="150px" align="right" -->
@@ -1392,6 +1473,9 @@ Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten la
 Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.  
 
 ---
+
+<div style="page-break-after: always;"></div>
+
 {{1}}
 >**F**indable
 
@@ -1409,6 +1493,8 @@ F4. (Meta)data are registered or indexed in a searchable resource
 
 ***************
 
+<div style="page-break-after: always;"></div>
+
 {{1}}
 >**A**ccessible
 
@@ -1425,6 +1511,7 @@ A1.2 The protocol allows for an authentication and authorisation procedure, wher
 A2. Metadata are accessible, even when the data are no longer available
 
 ******************
+<div style="page-break-after: always;"></div>
 
 {{1}}
 >**I**nteroperable
@@ -1440,6 +1527,7 @@ I2. (Meta)data use vocabularies that follow FAIR principles
 I3. (Meta)data include qualified references to other (meta)data
 
 **********************
+<div style="page-break-after: always;"></div>
 
 {{1}}
 >**R**eusable
@@ -1490,6 +1578,7 @@ Movie time!
 ---
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 {{2-3}}
 ********************************************************************************
@@ -1497,7 +1586,7 @@ Movie time!
 <iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
-
+<div style="page-break-after: always;"></div>
 
 {{3}}
 ********************************************************************************
@@ -1516,6 +1605,7 @@ Movie time!
 > - ….
 
 ********************************************************************************
+<div style="page-break-after: always;"></div>
 
 ### ~~World-Café~~: FAIR-Prinzipien
 
@@ -1555,6 +1645,8 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
 {{0}}
@@ -1571,6 +1663,8 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{1}}
 ********************************************************************************
 
@@ -1584,11 +1678,13 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >**Gruppenarbeit**
 >
->Lösen Sie die Aufgaben in folgendem Word-Dokument: <A HREF="downloads/2023_FDM_EscapeGame_Aufgaben.docx" download>2023\_FDM\_EscapeGame\_Aufgaben.docx</A>
+>Lösen Sie die Aufgaben in folgendem Word-Dokument: <A HREF="downloads/TtL-FDM_EscapeGame_Aufgaben.docx" download>2023\_FDM\_EscapeGame\_Aufgaben.docx</A>
 >
->Mit dem ermittelten Passwort können Sie die Schatzkiste öffnen: <A HREF="downloads\2023_FDM_EscapeGame_Schatzkiste.docx" download>2023\_FDM\_EscapeGame\_Schatzkiste.docx</A>
+>Mit dem ermittelten Passwort können Sie die Schatzkiste öffnen: <A HREF="downloads/TtL-FDM_EscapeGame_Schatzkiste.docx" download>2023\_FDM\_EscapeGame\_Schatzkiste.docx</A>
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### ~~Reflexion~~: Escape-Game
 
@@ -1609,17 +1705,23 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 > Notieren Sie Ihre Ideen gerne auch auf dem Miro-Board:
 >https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
 
+<div style="page-break-after: always;"></div>
+
 # Themen- und Vertiefungswünsche
 
 >**Gemeinschaftsarbeit im Plenum**
 >
 >Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764543457520234&cot=14
 
+<div style="page-break-after: always;"></div>
+
 # ~~Fragen und Anmerkungen~~
 
 >Wir haben es fast geschafft!
 >
 >Haben Sie noch Fragen oder Anmerkungen?
+
+<div style="page-break-after: always;"></div>
 
 # ~~Einzelarbeit~~: One-Minute-Paper
 
@@ -1629,6 +1731,8 @@ Notieren Sie sich die für Sie wichtigsten Punkte unseres heutigen Workshops.
 
 Sie haben genau eine Minute Zeit.
 
+<div style="page-break-after: always;"></div>
+
 # ~~Feedback~~: Na, wie war´s?
 
 >![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
@@ -1637,34 +1741,58 @@ Sie haben genau eine Minute Zeit.
 >
 >Was antworten Sie?
 
+<div style="page-break-after: always;"></div>
+
 # Herzlichen Dank!
 
 ![Bild](images\rdmCAU.png) <!-- width="250px" align="right" -->
 
 Mehr zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
-# Quellen
+<div style="page-break-after: always;"></div>
 
-Positionspapier zu FAIR und Open Data im physikalischen Praktikum, ZaPF, 2020, online unter https://zapfev.de/resolutionen/wise20/opendata/opendata.pdf
+# Quellen
+Biernacka, K., Buchholz, P., Danker, S. A., Dolzycka, D., Engelhardt, C., Helbig, K., Jacob, J., Neumann, J., Odebrecht, C., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wiljes, C., & Wuttke, U. (2021). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 4). Zenodo. https://doi.org/10.5281/zenodo.5773203 
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Engelhardt, C., Biernacka, K., Coffey, A., Cornet, R., Danciu, A., Demchenko, Y., Downes, S., Erdmann, C., Garbuglia, F., Germer, K., Helbig, K., Hellström, M., Hettne, K., Hibbert, D., Jetten, M., Karimova, Y., Kryger Hansen, K., Kuusniemi, M. E., Letizia, V., … Zhou, B. (2022). D7.4 How to be FAIR with your data. A teaching and training handbook for higher education institutions (V1.2.1). Zenodo. https://doi.org/10.5281/zenodo.6674301
 
 Jaeger, Philipp, & Bode, Janice. (2021). Redet über die Daten! - Forschungsdatenmanagement und Hochschullehre in der Physik und darüber hinaus. Zenodo. https://doi.org/10.5281/zenodo.5168524
 
 Klump, J., Wyborn, L., Downs, R., Asmi, A., Wu, M., Ryder, G., & Martin, J. (2020). Principles and best practices in data versioning for all data sets big and small. Version 1.1. Research Data Alliance. [DOI: 10.15497/RDA00042](https://doi.org/10.15497/RDA00042).
 
-https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
+Petersen, B., Engelhardt, C., Hörner, T., Jacob, J., Kvetnaya, T., Mühlichen, A., Schranzhofer, H., Schulz, S., Slowig, B., Trautwein-Bruns, U., Voigt, A., & Wiljes, C. (2023). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) für die Zielgruppen Studierende, PhDs und Data Stewards (Version 2). Zenodo. https://doi.org/10.5281/zenodo.8010617
 
-https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Schulungsunterlagen/Schulungsunterlagen_FDM_VertiefungDatenorganisation_Folien.pdf
+Positionspapier zu FAIR und Open Data im physikalischen Praktikum, ZaPF, 2020, online unter https://zapfev.de/resolutionen/wise20/opendata/opendata.pdf
 
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American psychologist, 55(1), 68.
+
+Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic psychological needs in motivation, development, and wellness. Guilford Publications.
 https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
-
-https://mantra.ed.ac.uk/
-
-https://learn.opengeoedu.de/
 
 https://ddi-lifecycle-3-2-documentation.readthedocs.io/en/latest/generalstructures/versioning.html
 
-https://www.forschungsdaten-bildung.de/dateien-benennen#DateiorganisationOrdnerstruktur
+https://de.creativecommons.net/was-ist-cc/ 
+
+https://force11.org/info/the-fair-data-principles/ 
+
+https://forschungsdaten.info/
+
+https://learn.opengeoedu.de/
 
 https://mantra.ed.ac.uk/
 
 https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf
+
+https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Schulungsunterlagen/Schulungsunterlagen_FDM_VertiefungDatenorganisation_Folien.pdf
+
+https://www.forschungsdaten-bildung.de
+
+https://www.gida-global.org/care 
+
+https://www.nfdi.de/
+
+https://opendata.uni-kiel.de/content/index.xml 
+
+https://opendata.schleswig-holstein.de/dataset 
