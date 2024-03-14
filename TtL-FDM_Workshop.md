@@ -133,7 +133,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Workshop Regeln
 
-![Workshop rules](images\BeNice.jpg) <!-- width="250px" align="right" -->
+![Workshop rules](/images/BeNice.jpg) <!-- width="250px" align="right" -->
 
 - Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
 - Fragen Sie bei Unklarheiten nach.
@@ -147,7 +147,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Ziele dieses Workshops
 
-![Goals today](images/targets.png) <!-- width="200px" align="right" -->
+![Goals today](/images/targets.png) <!-- width="200px" align="right" -->
 
 Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
@@ -162,7 +162,7 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 ## Limitationen
 
-![Goals today](images/limitations.png) <!-- width="250px" align="right" -->
+![Goals today](/images/limitations.png) <!-- width="250px" align="right" -->
 
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln.
 
@@ -176,7 +176,7 @@ Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/verti
 
 ## Agenda
 
-![Bild](images\Fachlandkarte_TTL_halb_2022.jpg "Illustration: Cleo Michelsen")<!-- width="450px" align="right" -->
+![Bild](/images/Fachlandkarte_TTL_halb_2022.jpg "Illustration: Cleo Michelsen")<!-- width="450px" align="right" -->
 
 Unsere Agenda für heute
 
@@ -388,7 +388,7 @@ Ablaufpläne helfen dabei...
 
 > Ein Beispiel könnte so aussehen:
 >
-> ![Bild](images/Planungsraster.png)
+> ![Bild](/images/Planungsraster.png)
 
 Ein runterladbares Beispiel finden Sie hier: [Ablaufplan: Introduction to Git&GitLab](https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/tree/main/course_materials?ref_type=heads)
 
@@ -567,7 +567,7 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 {{0-1}}
 ********************************************************************************
-![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+![Bild](/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
 **Warum sollten wir den Themenkomplex FDM in die Lehre integrieren?**
 
@@ -579,7 +579,7 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 {{1-2}}
 ********************************************************************************
 
-![Bild](images/FDMArgumente_4.png)
+![Bild](/images/FDMArgumente_4.png)
 
 ********************************************************************************
 
@@ -588,7 +588,7 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 Es existieren auch Forderungen von Studierendenseite:
 
-![Bild](images/FDMArgumente_Studis.png "Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020")
+![Bild](/images/FDMArgumente_Studis.png "Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020")
 
 ********************************************************************************
 
@@ -615,7 +615,7 @@ Es existieren auch Forderungen von Studierendenseite:
 Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
 
 ---
-![Bild](images/BMBF-logo.png) <!-- width="150px" align="right" -->
+![Bild](/images/BMBF-logo.png) <!-- width="150px" align="right" -->
 
 Das **Bundesministerium für Bildung und Forschung (BMBF)**:
 
@@ -623,7 +623,7 @@ Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruk
 
 ---
 
-![Bild](images/European-Commission-logo.png) <!-- width="150px" align="right" -->
+![Bild](/images/European-Commission-logo.png) <!-- width="150px" align="right" -->
 
 **Europäische Kommission (EC):**
 
@@ -637,7 +637,7 @@ Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschun
 
 ---
 
-![Bild](images/nfdi_logo.png) <!-- width="150px" align="right" -->
+![Bild](/images/nfdi_logo.png) <!-- width="150px" align="right" -->
 
 **Nationale Forschungsdateninfrastruktur (NFDIs)**:
 
@@ -645,7 +645,7 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 
 [**NFDI e. V.**](https://www.nfdi.de/)
 
-![Bild](images/screenshot_nfdi.jpg)
+![Bild](/images/screenshot_nfdi.jpg)
 
 ********************************************************************************
 
@@ -686,7 +686,7 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 ## ~~Wordcloud~~: Forschungsdatenmanagement
 
-![Bild](images/FragezeichenTyp.jpg) <!-- width="80px" align="right" -->
+![Bild](/images/FragezeichenTyp.jpg) <!-- width="80px" align="right" -->
 
 **Was genau ist mit dem Begriff Forschungsdatenmanagement gemeint?**
 
@@ -707,7 +707,7 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
-![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
 
 **Kleingruppenarbeit in Break-Outs:**
 ---
@@ -770,7 +770,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ### Beispiele für Forschungsdaten
 
-![Bild](images\forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Bild](/images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 - Audio- und Videoaufzeichnungen
 - Tagebücher
@@ -792,13 +792,13 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ## Forschungsdatenlebenszyklus
 
-![Bild](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="350px" align="right" -->
+![Bild](/images/FDM_Zyklus_klein_ohneText.jpg) <!-- width="350px" align="right" -->
 
 <P><SMALL>Illustration: Cleo Michelsen, basierend auf dem Forschungsdatenlebenszyklus des UK Data Service</SMALL></P>
 
 {{1}}
 ********************************************************************************
-![Bild](images\Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](/images/Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Planung**:
 
@@ -816,7 +816,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 {{2}}
 ********************************************************************************
-![Bild](images\erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](/images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Erhebung und Analyse**:
 
@@ -832,7 +832,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{3}}
 ********************************************************************************
 
-![Bild](images\veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](/images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Archivierung & Veröffentlichung**:
 
@@ -847,7 +847,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{4}}
 ********************************************************************************
 
-![Bild](images\nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](/images/nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Nachnutzung**:
 
@@ -958,7 +958,7 @@ Es gilt außerdem:
 ********************************************************************************
 Beispiel Ordnerstruktur:
 
-![Bild](images/Abb_OrdnerstrukturArchproject_2022_bp.png)<!-- width="350px" -->
+![Bild](/images/Abb_OrdnerstrukturArchproject_2022_bp.png)<!-- width="350px" -->
 
 ********************************************************************************
 
@@ -1003,7 +1003,7 @@ Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 ********************************************************************************
 Beispiele für Benennungskonventionen:
 
-![Bild](images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
+![Bild](/images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
 
 ********************************************************************************
 
@@ -1014,7 +1014,7 @@ Beispiele für Benennungskonventionen:
 {{0-1}}
 ********************************************************************************
 
-![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+![Bild](/images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
 
 ********************************************************************************
 
@@ -1080,7 +1080,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 {{4-5}}
 ********************************************************************************
 **Beispiel für eine Versionsinformation innerhalb eines Dokuments:**
-![Bild](images/versionsdoku-beispiel-rda_2.png)
+![Bild](/images/versionsdoku-beispiel-rda_2.png)
 
 ********************************************************************************
 
@@ -1091,7 +1091,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 **Beispiel eines dokumentierten Versionierungsschemas:**
 
-![Bild](images/OstData_Versionierungsschema.png)
+![Bild](/images/OstData_Versionierungsschema.png)
 
 https://zenodo.org/record/6076538#.Y4pE63bMJPa
 
@@ -1225,7 +1225,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 **Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
 
-![Bild](images/formate.png)
+![Bild](/images/formate.png)
 
 
 ********************************************************************************
@@ -1307,7 +1307,7 @@ Warum ist Datendokumentation wichtig?
 
 ### ~~Gruppenarbeit~~: Datendokumentation & Datenqualität
 
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Kleingruppenarbeit**
 >
@@ -1367,7 +1367,7 @@ Folgende Dokumentationsformen kommen für eine Datendokumentation in Betracht:
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-![Bild](images/datendoku_readme-beispiel.png)
+![Bild](/images/datendoku_readme-beispiel.png)
 
 ********************************************************************************
 
@@ -1376,7 +1376,7 @@ https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
 Beispiele für Data Dictionary und Codebook
 
-![Bild](images/datendoku_dictionary-codebook.png)
+![Bild](/images/datendoku_dictionary-codebook.png)
 
 ********************************************************************************
 
@@ -1465,7 +1465,7 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 
 ## FAIR-Prinzipien
 
-![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!-- width="150px" align="right" -->
+![Bild](/images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!-- width="150px" align="right" -->
 
 Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
 
@@ -1549,7 +1549,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 {{0-1}}
 ********************************************************************************
 
-![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
 
 **Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
 
@@ -1605,7 +1605,7 @@ Movie time!
 
 ### ~~World-Café~~: FAIR-Prinzipien
 
-![Bild](images/worldcafe.jpg)<!-- width="350px" align="right" -->
+![Bild](/images/worldcafe.jpg)<!-- width="350px" align="right" -->
 
 {{1-2}}
 ********************************************************************************
@@ -1692,7 +1692,7 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 # Reflexion zur Integration in die Lehre
 
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung von FDM-Aspekten sinnvoll und möglich wäre.
 >
@@ -1729,7 +1729,7 @@ Sie haben genau eine Minute Zeit.
 
 # ~~Feedback~~: Na, wie war´s?
 
->![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+>![Bild](/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 >
 >Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Forschungsdatenmanagement teilgenommen haben und fragen: "Na, wie war's"?
 >
@@ -1738,7 +1738,7 @@ Sie haben genau eine Minute Zeit.
 
 # Herzlichen Dank!
 
-![Bild](images\rdmCAU.png) <!-- width="250px" align="right" -->
+![Bild](/images/rdmCAU.png) <!-- width="250px" align="right" -->
 
 Mehr zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
