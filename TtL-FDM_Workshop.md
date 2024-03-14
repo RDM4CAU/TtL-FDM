@@ -133,7 +133,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Workshop Regeln
 
-<right><img src="/images/BeNice.jpg" alt="Workshop rules" width="250"></right>
+<img src="/images/BeNice.jpg" alt="Workshop rules" width="250" align="right">
 
 
 ![Workshop rules](/images/BeNice.jpg) <!-- width="250px" align="right" -->
@@ -149,6 +149,8 @@ comment:  This document provides a brief introduction to research data managemen
 
 
 ## Ziele dieses Workshops
+
+<img src="/images/targets.png"> alt="Goals today" width="200" align="right">
 
 ![Goals today](/images/targets.png) <!-- width="200px" align="right" -->
 
