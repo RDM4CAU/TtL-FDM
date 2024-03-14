@@ -133,7 +133,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Workshop Regeln
 
-![Workshop rules](/images/BeNice.jpg) <!-- width="250px" align="right" -->
+<img src="/images/BeNice.jpg" alt="Workshop rules" width="250" align="right">
 
 - Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
 - Fragen Sie bei Unklarheiten nach.
@@ -147,7 +147,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Ziele dieses Workshops
 
-![Goals today](/images/targets.png) <!-- width="200px" align="right" -->
+<img src="/images/targets.png" alt="Goals today" width="200" align="right">
 
 Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
@@ -162,7 +162,7 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 ## Limitationen
 
-![Goals today](./images/limitations.png) <!-- width="250px" align="right" -->
+<img src="/images/limitations.png" alt="Limitations" width="250" align="right">
 
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln.
 
@@ -176,7 +176,8 @@ Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/verti
 
 ## Agenda
 
-![Bild](./images/Fachlandkarte_TTL_halb_2022.jpg "Illustration: Cleo Michelsen")<!-- width="450px" align="right" -->
+<img src="/images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="450" align="right">
+Illustration: Cleo Michelsen
 
 Unsere Agenda für heute
 
