@@ -133,9 +133,6 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Workshop Regeln
 
-<img src="/images/BeNice.jpg" alt="Workshop rules" width="250" align="right">
-
-
 ![Workshop rules](/images/BeNice.jpg) <!-- width="250px" align="right" -->
 
 - Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
