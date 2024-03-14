@@ -709,7 +709,7 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
-![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
+<img src="/images/kurzberichte.png" width="150" align="right">
 
 **Kleingruppenarbeit in Break-Outs:**
 ---
@@ -772,7 +772,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ### Beispiele für Forschungsdaten
 
-![Bild](/images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+<img src="/images/forschungsdatenBSP.png" width="350" align="right">
 
 - Audio- und Videoaufzeichnungen
 - Tagebücher
@@ -794,13 +794,13 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ## Forschungsdatenlebenszyklus
 
-![Bild](/images/FDM_Zyklus_klein_ohneText.jpg) <!-- width="350px" align="right" -->
+<img src="/images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
 
 <P><SMALL>Illustration: Cleo Michelsen, basierend auf dem Forschungsdatenlebenszyklus des UK Data Service</SMALL></P>
 
 {{1}}
 ********************************************************************************
-![Bild](/images/Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+<img src="/images/Planung_fdm-zyklus_2022.png" width="150" align="right">
 
 **Planung**:
 
@@ -818,7 +818,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 {{2}}
 ********************************************************************************
-![Bild](/images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+<img src="/images/erhebung-analyse_fdm-zyklus_2022.png" width="150" align="right">
 
 **Erhebung und Analyse**:
 
@@ -834,7 +834,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{3}}
 ********************************************************************************
 
-![Bild](/images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+<img src="/images/veroeffentl-archiv_fdm-zyklus_2022.png" width="150" align="right">
 
 **Archivierung & Veröffentlichung**:
 
@@ -849,7 +849,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{4}}
 ********************************************************************************
 
-![Bild](/images/nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+<img src="/images/nachnutzung-fdm-zyklus_2022.png" width="150" align="right">
 
 **Nachnutzung**:
 
@@ -960,7 +960,7 @@ Es gilt außerdem:
 ********************************************************************************
 Beispiel Ordnerstruktur:
 
-![Bild](/images/Abb_OrdnerstrukturArchproject_2022_bp.png)<!-- width="350px" -->
+<img src="/images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="350">
 
 ********************************************************************************
 
@@ -1005,7 +1005,7 @@ Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 ********************************************************************************
 Beispiele für Benennungskonventionen:
 
-![Bild](/images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
+<img src="/images/Abb_Beispiele-Benennungskonvention_2022_bp.png">
 
 ********************************************************************************
 
@@ -1016,7 +1016,7 @@ Beispiele für Benennungskonventionen:
 {{0-1}}
 ********************************************************************************
 
-![Bild](/images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+<img src="/images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg"> Illustration: Cleo Michelsen
 
 ********************************************************************************
 
@@ -1082,7 +1082,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 {{4-5}}
 ********************************************************************************
 **Beispiel für eine Versionsinformation innerhalb eines Dokuments:**
-![Bild](/images/versionsdoku-beispiel-rda_2.png)
+<img src="/images/versionsdoku-beispiel-rda_2.png">
 
 ********************************************************************************
 
@@ -1093,7 +1093,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 **Beispiel eines dokumentierten Versionierungsschemas:**
 
-![Bild](/images/OstData_Versionierungsschema.png)
+<img src="/images/OstData_Versionierungsschema.png">
 
 https://zenodo.org/record/6076538#.Y4pE63bMJPa
 
@@ -1227,8 +1227,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 **Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
 
-![Bild](/images/formate.png)
-
+<img src="/images/formate.png">
 
 ********************************************************************************
 
@@ -1309,7 +1308,7 @@ Warum ist Datendokumentation wichtig?
 
 ### ~~Gruppenarbeit~~: Datendokumentation & Datenqualität
 
->![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
+> <img src="/images/kurzberichte.png" width="150" align="right">
 >
 >**Kleingruppenarbeit**
 >
@@ -1369,7 +1368,7 @@ Folgende Dokumentationsformen kommen für eine Datendokumentation in Betracht:
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-![Bild](/images/datendoku_readme-beispiel.png)
+<img src="/images/datendoku_readme-beispiel.png">
 
 ********************************************************************************
 
@@ -1378,7 +1377,7 @@ https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
 Beispiele für Data Dictionary und Codebook
 
-![Bild](/images/datendoku_dictionary-codebook.png)
+<img src="/images/datendoku_dictionary-codebook.png">
 
 ********************************************************************************
 
@@ -1467,7 +1466,7 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 
 ## FAIR-Prinzipien
 
-![Bild](/images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!-- width="150px" align="right" -->
+<img src="/images/fair2.jpg" width="150" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
 
 Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
 
@@ -1551,7 +1550,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 {{0-1}}
 ********************************************************************************
 
-![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
+<img src="/images/kurzberichte.png" width="150" align="right">
 
 **Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
 
@@ -1607,7 +1606,7 @@ Movie time!
 
 ### ~~World-Café~~: FAIR-Prinzipien
 
-![Bild](/images/worldcafe.jpg)<!-- width="350px" align="right" -->
+<img src="/images/worldcafe.jpg" width="350" align="right">
 
 {{1-2}}
 ********************************************************************************
@@ -1694,7 +1693,7 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 # Reflexion zur Integration in die Lehre
 
->![Bild](/images/kurzberichte.png) <!-- width="150px" align="right" -->
+> <img src="/images/kurzberichte.png" width="150" align="right">
 >
 >Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung von FDM-Aspekten sinnvoll und möglich wäre.
 >
@@ -1731,7 +1730,7 @@ Sie haben genau eine Minute Zeit.
 
 # ~~Feedback~~: Na, wie war´s?
 
->![Bild](/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+> <img src="/images/FragezeichenTyp.jpg"width="100" align="right">
 >
 >Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Forschungsdatenmanagement teilgenommen haben und fragen: "Na, wie war's"?
 >
@@ -1740,7 +1739,7 @@ Sie haben genau eine Minute Zeit.
 
 # Herzlichen Dank!
 
-![Bild](/images/rdmCAU.png) <!-- width="250px" align="right" -->
+<img src="/images/rdmCAU.png" width="250" align="right">
 
 Mehr zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
