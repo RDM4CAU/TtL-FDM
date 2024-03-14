@@ -144,7 +144,6 @@ comment:  This document provides a brief introduction to research data managemen
 - Fehler zulassen -> positive Fehlerkultur.
 - Geben Sie Bescheid, wenn Sie eine Pause benötigen.
 
-<div style="page-break-after: always;"></div>
 
 ## Ziele dieses Workshops
 
@@ -522,7 +521,7 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und w
 {{1-2}}
 ********************************************************************************
 
-Verschiedene Aktivierungsmethoden eine Variation von Sozial- und Arbeitsformen einbeziehen
+Verschiedene Aktivierungsmethoden und eine Variation von Sozial- und Arbeitsformen einbeziehen
 ---
 
 - Sie haben einen positiven Effekt auf das Lernen
@@ -741,7 +740,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 >(*forschungsdaten.info, letzter Zugriff 29.11.2022*)
 
 ********************************************************************************
-<div style="page-break-after: always;"></div>
+
 
 ## Begriffsdefinition Forschungsdaten
 
@@ -1474,7 +1473,6 @@ Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, 
 
 ---
 
-<div style="page-break-after: always;"></div>
 
 {{1}}
 >**F**indable
@@ -1511,7 +1509,6 @@ A1.2 The protocol allows for an authentication and authorisation procedure, wher
 A2. Metadata are accessible, even when the data are no longer available
 
 ******************
-<div style="page-break-after: always;"></div>
 
 {{1}}
 >**I**nteroperable
@@ -1527,7 +1524,6 @@ I2. (Meta)data use vocabularies that follow FAIR principles
 I3. (Meta)data include qualified references to other (meta)data
 
 **********************
-<div style="page-break-after: always;"></div>
 
 {{1}}
 >**R**eusable
@@ -1713,7 +1709,6 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764543457520234&cot=14
 
-<div style="page-break-after: always;"></div>
 
 # ~~Fragen und Anmerkungen~~
 
@@ -1721,7 +1716,6 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >Haben Sie noch Fragen oder Anmerkungen?
 
-<div style="page-break-after: always;"></div>
 
 # ~~Einzelarbeit~~: One-Minute-Paper
 
@@ -1741,7 +1735,6 @@ Sie haben genau eine Minute Zeit.
 >
 >Was antworten Sie?
 
-<div style="page-break-after: always;"></div>
 
 # Herzlichen Dank!
 
