@@ -176,7 +176,7 @@ Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/verti
 
 ## Agenda
 
-<img src="/images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="450" align="right">
+<img src="/images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="250" align="right">
 Illustration: Cleo Michelsen
 
 Unsere Agenda für heute
@@ -389,7 +389,7 @@ Ablaufpläne helfen dabei...
 
 > Ein Beispiel könnte so aussehen:
 >
-> ![Bild](/images/Planungsraster.png)
+> <img src="/images/Planungsraster.png">
 
 Ein runterladbares Beispiel finden Sie hier: [Ablaufplan: Introduction to Git&GitLab](https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/tree/main/course_materials?ref_type=heads)
 
@@ -568,7 +568,7 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 {{0-1}}
 ********************************************************************************
-![Bild](/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+<img src="/images/FragezeichenTyp.jpg" width="100" align="right">
 
 **Warum sollten wir den Themenkomplex FDM in die Lehre integrieren?**
 
@@ -580,7 +580,7 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 {{1-2}}
 ********************************************************************************
 
-![Bild](/images/FDMArgumente_4.png)
+<img src="/images/FDMArgumente_4.png">
 
 ********************************************************************************
 
@@ -589,7 +589,8 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 Es existieren auch Forderungen von Studierendenseite:
 
-![Bild](/images/FDMArgumente_Studis.png "Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020")
+<img src="/images/FDMArgumente_Studis.png">
+"Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020"
 
 ********************************************************************************
 
@@ -616,7 +617,7 @@ Es existieren auch Forderungen von Studierendenseite:
 Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
 
 ---
-![Bild](/images/BMBF-logo.png) <!-- width="150px" align="right" -->
+<img src="/images/BMBF-logo.png" width="150" align="right">
 
 Das **Bundesministerium für Bildung und Forschung (BMBF)**:
 
@@ -624,7 +625,7 @@ Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruk
 
 ---
 
-![Bild](/images/European-Commission-logo.png) <!-- width="150px" align="right" -->
+<img src="/images/European-Commission-logo.png" width="150" align="right">
 
 **Europäische Kommission (EC):**
 
@@ -638,7 +639,7 @@ Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschun
 
 ---
 
-![Bild](/images/nfdi_logo.png) <!-- width="150px" align="right" -->
+<img src="/images/nfdi_logo.png" width="150" align="right">
 
 **Nationale Forschungsdateninfrastruktur (NFDIs)**:
 
@@ -646,7 +647,7 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 
 [**NFDI e. V.**](https://www.nfdi.de/)
 
-![Bild](/images/screenshot_nfdi.jpg)
+<img src="/images/screenshot_nfdi.jpg">
 
 ********************************************************************************
 
