@@ -147,8 +147,6 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Ziele dieses Workshops
 
-<img src="/images/targets.png"> alt="Goals today" width="200" align="right">
-
 ![Goals today](/images/targets.png) <!-- width="200px" align="right" -->
 
 Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
@@ -164,7 +162,7 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 ## Limitationen
 
-![Goals today](/images/limitations.png) <!-- width="250px" align="right" -->
+![Goals today](./images/limitations.png) <!-- width="250px" align="right" -->
 
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln.
 
@@ -178,7 +176,7 @@ Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/verti
 
 ## Agenda
 
-![Bild](/images/Fachlandkarte_TTL_halb_2022.jpg "Illustration: Cleo Michelsen")<!-- width="450px" align="right" -->
+![Bild](./images/Fachlandkarte_TTL_halb_2022.jpg "Illustration: Cleo Michelsen")<!-- width="450px" align="right" -->
 
 Unsere Agenda für heute
 
