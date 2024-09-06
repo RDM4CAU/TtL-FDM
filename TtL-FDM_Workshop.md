@@ -151,11 +151,11 @@ comment:  This document provides a brief introduction to research data managemen
 
 Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
-* ... beschreiben können, welche Themenaspekte zum Themenkomplex FDM gehören.  
-* ... beschreiben können, weshalb FDM für Forschungsprozesse und GWP von Bedeutung ist.
+* ... erläutern können, welche Aspekte zum Themenkomplex FDM gehören.  
+* ... Grundprinzipien des FDM und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
 * ... Themenaspekte aus dem FDM identifizieren, die in die eigene Lehre integriert werden können.
 * ... erste Ansätze und Ideen zur Integration von FDM-Aspekten in die eigene Lehre entwickeln.
-* ... ausgiebig über Ansätze zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutieren haben.
+* ... über Ansätze zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutieren haben.
 * ... auch ein bisschen Spaß hatten.
 
 <div style="page-break-after: always;"></div>
@@ -164,7 +164,7 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 <img src="/images/limitations.png" alt="Limitations" width="250" align="right">
 
-Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln.
+Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln können.
 
 Wir werden uns keine speziellen Tools anschauen.
 
@@ -184,15 +184,30 @@ Unsere Agenda für heute
 - Ankommen: Workshop Regeln, Warm-up, Erwartungen, Ziele und Limitationen
 - Allgemeine didaktische Hinweise
 - Überblick über das Themenspektrum FDM
-- Nähere Betrachtung von einzelnen Themenaspekten
+- Nähere Betrachtung von ausgewählten Themenaspekten
 - Übungen ausprobieren und eigene Ideen/Übungen/Aufgabenstellungen entwickeln
-- Lehr-/Lernmaterialien und Methoden suchen und finden
+- FDM an der CAU
 - Offene Fragen/Wünsche
 - Feedback
 
 ---
 
 ** Wir machen eine Stunde Mittagspause**
+
+<div style="page-break-after: always;"></div>
+
+# Einstieg
+![Bild](/images/FragezeichenTyp.jpg) <!-- width="80px" align="right" -->
+
+> **Gruppenarbeit**: 
+>
+>Stellen Sie sich einander vor und berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind. 
+>
+>Tauschen Sie sich darüber aus, warum Sie heute hier sind.
+>
+>Was spricht aus Ihrer Sicht für die Vermittlung von Kenntnissen und Fähigkeiten im Bereich FDM an Studierende?
+>
+>Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 
 <div style="page-break-after: always;"></div>
 
@@ -563,122 +578,6 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 <div style="page-break-after: always;"></div>
 
-# Forschungsdatenmanagement in der Lehre
-
-{{0-1}}
-********************************************************************************
-<img src="/images/FragezeichenTyp.jpg" width="100" align="right">
-
-**Warum sollten wir den Themenkomplex FDM in die Lehre integrieren?**
-
-* Forschungsdatenmanagement/Data Literacy sind in allen wissenschaftlichen Disziplinen ein in den letzten Jahren immer mehr diskutiertes Thema.
-
-* Nachdem zunächst die Aus- und Weiterbildung von Forschenden und Infrastrukturmitarbeitenden im Bereich FDM fokussiert wurde, wird heute zunehmend auch eine Integration des Themenbereichs in die Lehre gefordert:
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
-<img src="/images/FDMArgumente_4.png">
-
-********************************************************************************
-
-{{2}}
-********************************************************************************
-
-Es existieren auch Forderungen von Studierendenseite:
-
-<img src="/images/FDMArgumente_Studis.png">
-"Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020"
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-## Förderer und andere wichtige Player
-
-{{0-2}}
-********************************************************************************
-
-**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
-
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
----
-
-![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/DFG-logo-blau.svg/506px-DFG-logo-blau.svg.png) <!-- width="100px" align="right" -->
-
-**Deutsche Forschungsgemeinschaft (DFG)**:
-
-Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
-
----
-<img src="/images/BMBF-logo.png" width="150" align="right">
-
-Das **Bundesministerium für Bildung und Forschung (BMBF)**:
-
-Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
-
----
-
-<img src="/images/European-Commission-logo.png" width="150" align="right">
-
-**Europäische Kommission (EC):**
-
-Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-{{2-3}}
-********************************************************************************
-
----
-
-<img src="/images/nfdi_logo.png" width="150" align="right">
-
-**Nationale Forschungsdateninfrastruktur (NFDIs)**:
-
-Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
-
-[**NFDI e. V.**](https://www.nfdi.de/)
-
-<img src="/images/screenshot_nfdi.jpg">
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
----
-
-**Kurzer Rechercheauftrag**:
-
-Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
-
-[**NFDI e. V.**](https://www.nfdi.de/)
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-## Berufliche Perspektiven aufzeigen
-
-> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
->
-> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
->
-> * Data Steward,
-> * Data Curator und/oder
-> * Data Collector
->
-> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
-
-<div style="page-break-after: always;"></div>
-
 # Orientierung im Themenbereich FDM
 
 Der Themenbereich Forschungsdatenmanagement ist komplex. 
@@ -864,20 +763,99 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <div style="page-break-after: always;"></div>
 
+## FAIR-Prinzipien
+
+<img src="/images/fair2.jpg" width="150" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
+
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
+
+Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.  
+
+---
+
+
+{{1}}
+>**F**indable
+
+{{2-3}}
+****************
+Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein. Maschinenlesbare Metadaten sind für das automatische Auffinden von Datensätzen und Diensten unerlässlich und daher ein wesentlicher Bestandteil des FAIRification-Prozesses.
+
+F1. (Meta)data are assigned a globally unique and persistent identifier
+
+F2. Data are described with rich metadata (defined by R1 below)
+
+F3. Metadata clearly and explicitly include the identifier of the data they describe
+
+F4. (Meta)data are registered or indexed in a searchable resource
+
+***************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+>**A**ccessible
+
+{{3-4}}
+***********************
+Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
+
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+
+A1.1 The protocol is open, free, and universally implementable
+
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
+
+******************
+
+{{1}}
+>**I**nteroperable
+
+{{4-5}}
+**********************
+Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
+
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+
+I2. (Meta)data use vocabularies that follow FAIR principles
+
+I3. (Meta)data include qualified references to other (meta)data
+
+**********************
+
+{{1}}
+>**R**eusable
+
+{{5-6}}
+***************
+Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
+
+R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+
+R1.1. (Meta)data are released with a clear and accessible data usage license
+
+R1.2. (Meta)data are associated with detailed provenance
+
+R1.3. (Meta)data meet domain-relevant community standards
+
+**************
+
+<div style="page-break-after: always;"></div>
+
 # Erste Schritte im FDM
 
 Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 
-* Forschungsdaten ordnen und strukturieren
-* Versionierung
-* Formate
-* Forschungsdaten dokumentieren
+* Dateibenennung & Versionierung
+* Dokumentation von Forschungsdaten 
 * Nachnutzung von Forschungsdaten
 * FAIR-Prinzipien
 
 <div style="page-break-after: always;"></div>
 
-## Strukturierte Ordner- und Dateibenennung
+## Ordner- und Dateibenennung
 
 <div style="text-align:center">
 ><p style="color:#9a047f">**Es mag banal erscheinen, aber eine strukturierte Ordner- und Dateibenennung ist ein erster Schritt im Forschungsdatenmanagement!**</p>
@@ -1217,43 +1195,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
-## Formate
-
-**Mit welchen Dateinformaten arbeiten Sie?**
-
-<iframe src="https://answergarden.ch/embed/3189718" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
-
-{{2}}
-********************************************************************************
-
-**Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
-
-<img src="/images/formate.png">
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-### ~~Beispiel~~: CSV vs XLSX
-
-Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber z. B. XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
-
-1. Öffenen Sie ein Tabellenkalkulationsprogramm, z. B. Excel
-2. Erstellen Sie eine neue Datei
-3. Geben Sie A, B, C in die Zellen A1 bis C1 ein
-4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
-5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
-6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
-7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
-8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
-9. Was passiert, wenn Sie die Datei jetzt in Ihrem Tabellenkalulationsprogramm öffnen?
-10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
-
--> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
-
-<div style="page-break-after: always;"></div>
-
-## Datendokumentation & Datenqualität
+## Datendokumentation & Datenqualität 📝
 
 ><p style="color:#9a047f">*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*</p>
 >
@@ -1355,13 +1297,13 @@ Warum ist Datendokumentation wichtig?
 
 ### Dokumentationsformen
 
-Folgende Dokumentationsformen kommen für eine Datendokumentation in Betracht:
+Daten können auf verschiedene Weise dokumentiert werden:  
 
-* README Files
+* [README Files](https://forschungsdaten.info/praxis-kompakt/glossar/#c269859)
 * Data Dictionaries
 * Codebooks
-* Electronic Lab Notebooks
-* Artikel in einem Data Journal
+* [Electronic Lab Notebooks](https://forschungsdaten.info/praxis-kompakt/glossar/#c451620)
+* [Artikel in einem Data Journal](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/)
 
 {{1}}
 ********************************************************************************
@@ -1384,7 +1326,7 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
-## Nachnutzung von Forschungsdaten
+## Nachnutzung von Forschungsdaten ♻️
 
 >Welche Kenntnisse und Fähigkeiten brauchen Ihre Studierenden, um Forschungsdaten nachnutzen zu können?
 
@@ -1465,7 +1407,7 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 
 <div style="page-break-after: always;"></div>
 
-## FAIR-Prinzipien
+## FAIR-Prinzipien 🟣
 
 <img src="/images/fair2.jpg" width="150" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
 
@@ -1546,7 +1488,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
-## ~~Diskussion~~: Nutzen von Forschungsdatenmanagement und FAIRen Daten
+### ~~Diskussion~~: Nutzen von Forschungsdatenmanagement und FAIRen Daten
 
 {{0-1}}
 ********************************************************************************
@@ -1645,6 +1587,90 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 
 <div style="page-break-after: always;"></div>
 
+## Datenmanagementpläne
+{{0-1}}
+**********
+
+>**Datenmanagementpläne beinhalten …**
+>
+> - … alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojekts hinreichend beschreiben und dokumentieren.
+>
+> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung“^2^
+
+<small>^2^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
+
+*********
+
+{{1-2}}
+**********
+
+>**Bestandteile eines DMP**
+>
+> - Administrative Informationen (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+>
+> - Projekt- und Datensatzbeschreibung
+>
+> - Datentypen, -formate, -umfang
+>
+> - Angaben zu Metadaten und Standards
+>
+> - Datenaustausch und -zugang
+>
+> - Archivierung und Sicherung der Daten
+>
+> - Verantwortlichkeiten und Rechtliche Aspekte
+>
+> - Kosten
+
+**********
+{{1-2}}
+**********
+
+>**Anforderungen der Förderorganisationen**
+
+
+**********
+
+## Speicher & Backup
+
+## Publikation 
+
+## Dateiformate
+
+**Mit welchen Dateinformaten arbeiten Sie?**
+
+<iframe src="https://answergarden.ch/embed/3189718" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
+
+{{2}}
+********************************************************************************
+
+**Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
+
+<img src="/images/formate.png">
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+### ~~Beispiel~~: CSV vs XLSX
+
+Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber z. B. XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
+
+1. Öffenen Sie ein Tabellenkalkulationsprogramm, z. B. Excel
+2. Erstellen Sie eine neue Datei
+3. Geben Sie A, B, C in die Zellen A1 bis C1 ein
+4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
+5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
+6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
+7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
+8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
+9. Was passiert, wenn Sie die Datei jetzt in Ihrem Tabellenkalulationsprogramm öffnen?
+10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
+
+-> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
+
+<div style="page-break-after: always;"></div>
+
 ## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
 {{0}}
@@ -1692,16 +1718,89 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
 
-# Reflexion zur Integration in die Lehre
+# Förderer und andere wichtige Player
 
-> <img src="/images/kurzberichte.png" width="150" align="right">
+{{0-2}}
+********************************************************************************
+
+**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+---
+
+![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/DFG-logo-blau.svg/506px-DFG-logo-blau.svg.png) <!-- width="100px" align="right" -->
+
+**Deutsche Forschungsgemeinschaft (DFG)**:
+
+Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
+
+---
+<img src="/images/BMBF-logo.png" width="150" align="right">
+
+Das **Bundesministerium für Bildung und Forschung (BMBF)**:
+
+Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
+
+---
+
+<img src="/images/European-Commission-logo.png" width="150" align="right">
+
+**Europäische Kommission (EC):**
+
+Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
+
+********************************************************************************
+<div style="page-break-after: always;"></div>
+
+{{2-3}}
+********************************************************************************
+
+---
+
+<img src="/images/nfdi_logo.png" width="150" align="right">
+
+**Nationale Forschungsdateninfrastruktur (NFDIs)**:
+
+Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+<img src="/images/screenshot_nfdi.jpg">
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+---
+
+**Kurzer Rechercheauftrag**:
+
+Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+# Berufliche Perspektiven aufzeigen
+
+> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
 >
->Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung von FDM-Aspekten sinnvoll und möglich wäre.
+> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
 >
->Brainstormen Sie zu möglichen Unsetzungsszenarien, Sensibilisierungsübungen, Aufgabenstellungen u. ä..
+> * Data Steward,
+> * Data Curator und/oder
+> * Data Collector
 >
-> Notieren Sie Ihre Ideen gerne auch auf dem Miro-Board:
->https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
+> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
+
+<div style="page-break-after: always;"></div>
 
 <div style="page-break-after: always;"></div>
 
