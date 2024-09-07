@@ -769,8 +769,30 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
 
-Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.  
+Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.
 
+{{1-2}}
+**********
+
+>**Bestandteile eines DMP**
+>
+> - Administrative Informationen (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+>
+> - Projekt- und Datensatzbeschreibung
+>
+> - Datentypen, -formate, -umfang
+>
+> - Angaben zu Metadaten und Standards
+>
+> - Datenaustausch und -zugang
+>
+> - Archivierung und Sicherung der Daten
+>
+> - Verantwortlichkeiten und Rechtliche Aspekte
+>
+> - Kosten
+
+**********
 ---
 
 
@@ -1588,6 +1610,7 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 <div style="page-break-after: always;"></div>
 
 ## Datenmanagementpläne
+
 {{0-1}}
 **********
 
@@ -1595,18 +1618,25 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 >
 > - … alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojekts hinreichend beschreiben und dokumentieren.
 >
-> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung“^2^
-
-<small>^2^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
+> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung“^1^
+>
+><small>^1^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
 
 *********
-
 {{1-2}}
 **********
 
->**Bestandteile eines DMP**
+>Der Datenmanagementplan dokumentiert die (geplante) Erhebung, Speicherung, Dokumentation, Pflege, Verarbeitung, Weitergabe, Veröffentlichung und Aufbewahrung der Daten, ebenso wie die erforderlichen Ressourcen, rechtlichen Randbedingungen und verantwortlichen Personen. Somit trägt ein DMP zur Qualität, langfristigen Nutzbarkeit und Sicherheit der Daten bei und unterstützt zum Beispiel bei der Umsetzung der FAIR-Prinzipien.^2^ 
 >
-> - Administrative Informationen (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+><small>^2^ [Forschungsdaten.info](https://forschungsdaten.info/praxis-kompakt/glossar/#c269828)</small>
+
+*********
+
+### Bestandteile eines DMP
+
+>**Ein DMP sollte Informationen zu...**
+>
+> - Administration (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
 >
 > - Projekt- und Datensatzbeschreibung
 >
@@ -1621,19 +1651,247 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 > - Verantwortlichkeiten und Rechtliche Aspekte
 >
 > - Kosten
+>
+>**beeinhalten.**
+>
+>**--> Der Umfang kann zwischen wenigen Absätzen und mehreren Seiten variieren!**
 
-**********
-{{1-2}}
-**********
+### Anforderungen der Förderorganisationen
 
->**Anforderungen der Förderorganisationen**
+| Förderorganisation | Forderung                              | Abgabe bei Antrag                            | Inhalt                  | Bericht          |
+| ------------------ | -------------------------------------- | -------------------------------------------- | ----------------------- | ---------------- |
+| DFG                | Angaben zum Umgang mit Forschungsdaten | als integraler Bestandteil des Antragstextes | DFG-Checkliste          | Projektende      |
+| BMBF               | Plan erforderlich je nach Förderlinie  | ja, wenn erforderlich                        | programmabhängig        | programmabhängig |
+| EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
+| VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template“    | living document  | 
 
+### DMP templates & tools
 
-**********
+> - Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.datamanagement.uni-kiel.de/de/service/materialien
+
+> Weiterführende Informationen sowie eine Liste zu unterstützenden **DMP-Tools** stellt [**forschungsdaten.info**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/) zur Verfügung.
 
 ## Speicher & Backup
 
+{{0-1}}
+Wo und wie speichern wir unsere Forschungsdaten?
+---
+
+<div style="float:right; width:40%;">
+  <img src="../Intro-to-RDM/images/backup.png" alt="No back up? No mercy!">
+</div>
+
+
+{{1-3}}
+****************
+> **Unterschiedliche Speichermedien haben Vor- und Nachteile...**
+
+****************
+
+{{2-3}}
+****************
+> **...beispielsweise bzgl. der Lebensdauer**:
+
+![Lebensdauer](https://forschungsdaten.info/fileadmin/kooperationen/bwfdm/fdm/2-organisieren-und-aufbereiten/2-lebensdauer-von-daten/lebensdauer.png)
+
+****************
+
+{{3-4}}
+****************
+> **Grundsätzlich immer auch an ein Backup denken!**
+>
+>- min. 3 Kopien einer Datei
+>- min. 2 verschiedene Medien
+>- von denen min. ein Medium remote ist
+>- Backup in regelmäßigen Intervallen
+
+****************
+
+{{4}}
+*****************
+Besondere Aufmerksamkeit bei sensiblen Daten:
+---
+
+> **Schützen Sie sensible Daten!**
+>
+>- Hardware (z. B. in einem abschießbaren Raum gelagert)
+>- Dateiverschlüsselung
+>- Passwortsicherheit
+>- Mindestens zwei Personen sollten Zugang zu Ihren Daten haben
+
+*****************
+
+<div style="page-break-after: always;"></div>
+
+### Backup vs. Langzeitarchivierung
+
+| Back up                                                                          | Long-term storage             |
+| -------------------------------------------------------------------------------- | ----------------------------- |
+| Automatic backup of all data   | Storage of only selected data |
+| All versions                                                                     | Final version only            |
+|   to prevent data loss <br>(technical, e.g. defective, <br>or human, e.g. accidentally deleted) | Integrity backup <br> (e. g. regular check for modified or damaged data, <br>file system consitency)      |
+|                                                                                  | Long-term storage             |
+|                                                                                  | Searchability                 |
+
+<div style="page-break-after: always;"></div>
+
+
 ## Publikation 
+
+Wie können Sie Ihre Daten veröffentlichen und weitergeben?
+----
+
+{{1}}
+********************
+> Ergänzung zu einem von peer-review Artikel („enhanced publication“)
+********************
+
+{{2-3}}
+****************
+- als Ergänzung zu dem zugehörigen Artikel
+- als alleinstehenden Datensatz in einem Repository mit einem Link zum entsprechenden Artikel.
+
+<div style="width:100%;">
+  <img src="../Intro-to-RDM/images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+</div>
+
+**********************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+********************
+> Unabhängiges Informationsobjekt in einem Repositorium
+********************
+
+{{3-4}}
+********************
+
+* disziplinspezifische Repositorien, z.B. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
+
+* fächerübergreifende Repositorien, z. B. [ZENODO](https://zenodo.org/)
+
+* institutionelle Repositorien, z. B. [Refubium](https://www.fu-berlin.de/sites/open_access/refubium/index.html), [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml)
+
+Beispiel:
+
+<div style="float:left; width:45%;">
+<img src="../Intro-to-RDM/images/Example_Pangaea.jpg" alt="Example Pangea">
+<sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
+
+</div>
+
+<div style="float:right; width:45%;">
+
+<div style="width:100%;">
+  <img src="../Intro-to-RDM/images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
+</div>
+
+</div>
+
+*********************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+********************
+> Data journals
+
+********************
+
+{{4-5}}
+***************************
+
+- detaillierte Beschreibung von Forschungsdaten
+
+- teilweise peer-reviewed
+
+Beispiel:
+
+<div style="float:left; width:45%;">
+<img src="../Intro-to-RDM/images/example-ESSdata.png" alt="Example Data journal">
+<sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
+
+</div>
+
+<div style="float:right; width:45%;">
+
+<div style="width:100%;">
+  <img src="../Intro-to-RDM/images/example-datainbrief.png" alt="Example Data journal">
+  <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
+</div>
+
+</div>
+
+***************************
+
+<div style="page-break-after: always;"></div>
+
+### Repositorien
+{{0-2}}
+**Was ist ein Repositorium?**
+
+{{1-2}}
+****************
+>*"Ein Repositorium (lateinisch repositorium, ‚Lagerhaus‘) ist ein verwalteter Ort zur Aufbewahrung geordneter Dokumente, die der Öffentlichkeit oder einem begrenzten Benutzerkreis zugänglich sind. Ein Archiv (lat. archivum, 'Aktenschrank') hingegen verwaltet nur historische Dokumente. „*
+>>*"Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten...möglichst dauerhaft speichern und organisieren...um die Auffindbarkeit und Zugänglichkeit der Daten zu gewährleisten... “*
+>
+>^Quelle: Esther Asef, Katarzyna Biernacka, Elisabeth Böker,Sarah Ann Danker, Juliane Jacob, Janna Neumann, Britta Petersen, Jessica Rex und Ute Trautwein-Bruns (2021): Data Sharing interaktiv vermitteln^
+************************
+
+<div style="page-break-after: always;"></div>
+
+{{2-5}}
+**Wie das passende Repositorium finden?**
+
+{{3-4}}
+***************
+
+<div style="float:left; width:45%;">
+
+**re3data.org**
+
+- Sammlung von Repositorien
+- Weltweit
+- Verschiedene Disziplinen
+- Forscher, Förderer, Verlage und Institutionen
+
+</div>
+
+<div style="float:right; width:45%;">
+<img src="../Intro-to-RDM/images/re3data.jpg" alt="re3data">
+<sub>Source: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021</sub>
+</div>
+
+***************
+
+
+<div style="page-break-after: always;"></div>
+
+{{4-5}}
+*************
+
+<div style="float:left; width:45%;">
+
+**risources.dfg.de**
+
+- Angebot der DFG
+- Informationsportal
+- Deutschlandweit
+- Forschungsinfrastrukturen
+
+</div>
+
+<div style="float:right; width:45%;">
+<img src="../Intro-to-RDM/images/RIsourcesDFG.jpg" alt="re3data">
+<sub>Source: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021</sub>
+</div>
+
+************
+
+<div style="page-break-after: always;"></div>
+
 
 ## Dateiformate
 
