@@ -1192,6 +1192,38 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
+# Gruppenarbeiten
+
+{{0-1}}
+*********
+<img src="/images/kurzberichte.png" width="150" align="right">
+
+>**Wir gehen in eine größere Gruppenarbeit**.
+>
+>Wir werden 3 Break-Out-Räume, in denen Sie in Gruppen zu verschiedenen Themen arbeiten, erstellen:
+>
+>- **Break-Out I: Dokumentation**
+>
+>- **Break-Out II: Nachnutzung**
+>
+>- **Break-Out III: FAIR-Prinzipien**
+
+*********
+
+{{1}}
+*********
+
+**Ablauf der Arbeitsphase:**
+
+| Schritte |   Zeit   |
+| -------- |----------|
+| Ankommen, Aufgabenstellung erfassen, Materialien bearbeiten     | ~10 Min. | 
+| Aufgabe ausprobieren     | ~15 Min. | 
+| Reflexion zu Integration in eigene Lehre/ Ideen entwickeln     | ~15 Min. | 
+| Präsentation vorbereiten   | ~10 Min. | 
+
+*********
+
 ## Datendokumentation & Datenqualität 📝
 Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig. 
 
@@ -1206,6 +1238,8 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 >- VerbundFDB: https://www.forschungsdaten-bildung.de/daten-dokumentieren 
 >
 >- forschungsdaten.info: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/ 
+>
+>Überfliegen Sie die beiden Artikel und beantworten Sie folgende Frage:
 
 >**Welche der folgenden Argumente für die Datendokumentation werden in den Beiträgen genannt?**
 >
@@ -1216,7 +1250,7 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 >- [[ ]] Ohne Dokumentation sind Daten unbrauchbar.
 
 ### Dokumentation & GWP
-**Darüberhinaus gehört eine angemessene Dokumentation gehört zur guten wissenschaftlichen Praxis!** 
+**Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!** 
 
 ><p style="color:#9a047f">*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*</p>
 >
@@ -1242,38 +1276,35 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 
 ### Dokumentationsformen
 
-Daten können auf verschiedene Weise dokumentiert werden:  
+Daten können auf verschiedene Weise dokumentiert werden. Dabei muss ggf. für jedes Forschungsprojekt individuell entschieden werden, welche Dokumentationsform am geeignetsten ist. Gegebenenfalls kann eine Kombination von verschiedenen Dokumentationsformen nötig sein.
 
-* [README Files](https://forschungsdaten.info/praxis-kompakt/glossar/#c269859)
-* Data Dictionaries
-* Codebooks
-* [Electronic Lab Notebooks](https://forschungsdaten.info/praxis-kompakt/glossar/#c451620)
-* [Artikel in einem Data Journal](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/)
+Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/) zählt unterschiedliche Formate für eine Dokumentation auf.
 
-Gegebenenfalls kann ist eine Kombination von verschiedenen Dokumentationsformen nötig.
+>**Welche der folgenden Formate werden als mögliche Dokumentationsformen in dem Artikel genannt?** 
+>
+>[[x]] ReadMe-Datei
+>[[ ]] College-Block, kariert
+>[[x]] Elektronisches Laborbuch
+>[[ ]] Messenger-Gruppe
+>[[x]] (projektinternes) Wiki
+>[[ ]] Artikel in einem Data Journal
+>[[x]] in der Datei selber bzw. in den Metainformationen der Datei.
 
-{{1}}
-********************************************************************************
+#### Beispiele
 
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-<img src="/images/datendoku_readme-beispiel.png">
+<img src="../TtL-FDM/images/datendoku_readme-beispiel.png">
 
-********************************************************************************
-
-{{2}}
-********************************************************************************
 
 Beispiele für Data Dictionary und Codebook
 
-<img src="/images/datendoku_dictionary-codebook.png">
-
-********************************************************************************
+<img src="../TtL-FDM/images/datendoku_dictionary-codebook.png">
 
 <div style="page-break-after: always;"></div>
 
-### ~~Gruppenarbeit~~: Datendokumentation
+### ~~Aufgabe~~: Datendokumentation
 
 > <img src="/images/kurzberichte.png" width="150" align="right">
 >
