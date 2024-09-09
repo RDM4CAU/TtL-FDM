@@ -1797,7 +1797,7 @@ Wo und wie speichern wir unsere Forschungsdaten?
 ---
 
 <div style="float:right; width:40%;">
-  <img src="../TtL-FDM/images/backup.png" alt="No back up? No mercy!">
+  <img src="images/backup.png" alt="No back up? No mercy!">
 </div>
 
 
@@ -1871,7 +1871,7 @@ Wie können Sie Daten veröffentlichen und weitergeben werden?
 - als alleinstehenden Datensatz in einem Repository mit einem Link zum entsprechenden Artikel.
 
 <div style="width:100%;">
-  <img src="../TtL-FDM/images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+  <img src="images/Example_R-R-Article.jpg" alt="Example R-R-Article">
 </div>
 
 **********************
@@ -1895,7 +1895,7 @@ Wie können Sie Daten veröffentlichen und weitergeben werden?
 Beispiel:
 
 <div style="float:left; width:45%;">
-<img src="../TtL-FDM/images/Example_Pangaea.jpg" alt="Example Pangea">
+<img src="images/Example_Pangaea.jpg" alt="Example Pangea">
 <sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
 
 </div>
@@ -1903,7 +1903,7 @@ Beispiel:
 <div style="float:right; width:45%;">
 
 <div style="width:100%;">
-  <img src="../TtL-FDM/images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <img src="images/Example_Zenodo.jpg" alt="Example Zenodo">
   <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
 </div>
 
@@ -1929,7 +1929,7 @@ Beispiel:
 Beispiel:
 
 <div style="float:left; width:45%;">
-<img src="../TtL-FDM/images/example-datainbrief.png" alt="Example Data journal">
+<img src="images/example-datainbrief.png" alt="Example Data journal">
 <sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
 
 </div>
@@ -1937,7 +1937,7 @@ Beispiel:
 <div style="float:right; width:45%;">
 
 <div style="width:100%;">
-  <img src="../TtL-FDM/images/example-datainbrief.png" alt="Example Data journal">
+  <img src="images/example-datainbrief.png" alt="Example Data journal">
   <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
 </div>
 
