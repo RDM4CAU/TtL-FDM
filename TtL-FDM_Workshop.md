@@ -1412,13 +1412,13 @@ Im Sinne der guten wissenschaftlichen Praxis müssen Forschungsdaten wie jede an
 
 Verschiedene Gruppen und wissenschaftliche Communities haben sich damit beschäftigt, Guidelines und Empfehlungen zur Zitation von Forschungsdaten zu erstellen. 
 
-Hervorzuheben sind hier insbesondere die Empfehlung der Initiative [**Force11**](https://force11.org/) sowie des internationalen Registrierungsservice [**DataCite**](https://schema.datacite.org/)
+Hervorzuheben sind hier insbesondere die Empfehlung der Initiative [**Force11**](https://force11.org/) sowie des internationalen Registrierungsservice [**DataCite**](https://schema.datacite.org/).
 
 Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
-- **Nach FORCE11-Empfehlung**: Autor:in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
+>- **Nach FORCE11-Empfehlung**: Autor:in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
 
-- **Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
+>- **Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
 
 ---
 
@@ -1442,7 +1442,7 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 ********************************************************************************
 >Für die Identifikation von elektronischen Textpublikationen existieren mittlerweile diverse Systeme von persistenten Identifikatoren. 
 >
->Die ZBW listet eine Reihe von existierenden Identifikatoren auf: https://auffinden-zitieren-dokumentieren.de/zitieren/ 
+>Die ZBW nennt eine Reihe von existierenden Identifikatoren: https://auffinden-zitieren-dokumentieren.de/zitieren/ 
 >
 >**Welches ist laut des ZBW-Artikels das am häufigsten verwendete System für persistente Identifikatoren?**
 
@@ -1461,11 +1461,22 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
-Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen. 
+
+Die am häufigsten verwendeten Lizenzen sind:
+
+- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
+- GNU General Public License (GPL) / für Software konzipiert
+- Open Data Commons (ODC) / für Datenbanken konzipiert
+- Community Data License Agreement / für Daten konzipiert
+
+Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
 
 <div style="width:75%;">
 ![CCLizenzen](https://herrmayr.de/wp-content/uploads/2019/12/%C3%9Cbersicht_CC_Lizenzen-1024x529.png "Die Creative Commons Lizenzen im Überblick (Quelle: Symbole von Creative Commons Schweiz CC BY 4.0; Tabelle von Burgert/TU München CC BY 4.0)")
 </div>
+
+Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
 
 ---
 
@@ -1476,12 +1487,25 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 >Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/e-learning-technik-in-der-lehre/open-educational-resources/creative-commons/
 >
 >1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht? 
->2. Welches Problem ergibt sich, wenn wir genau jene Abbildung in diese Präsentation einbauen würden? 
+>
+> [[ ]] CC0
+> [[ ]] CCBY
+> [[x]] CCBYSA
+> [[ ]] CCBYSAND
 
 ********************************************************************************
 
 {{2}}
 ********************************************************************************
+
+>2. Welches Problem ergibt sich, wenn die Abbildung der RUB in einer Präsentation verwendet wird, die CCBY veröffentlicht werden soll?  
+>
+> [[ ]] keins
+> [[x]] Es ist nicht möglich die Präsentation CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
+> [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
+> [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
+
+
 >**Lösung**:
 >
 >1. [CCBYSA](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -1497,17 +1521,17 @@ Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.cre
 >
 >Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen. 
 >
->Die Ausrichtung des Standes soll im Monat Mai erfolgen. 
+>Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen. 
 >
->Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Strandübergang Seebrücke** zur Auswahl. 
+>Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl. 
 >
->Der Infostand soll planen eine 2-stündige Aktion. 
+>Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
 >
 >Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. 
 >
 >Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
 >
->Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board.
+>Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze. 
 
 <div style="page-break-after: always;"></div>
 
@@ -1534,7 +1558,6 @@ Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten la
 Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.  
 
 ---
-
 
 {{1}}
 >**F**indable
@@ -1774,7 +1797,7 @@ Wo und wie speichern wir unsere Forschungsdaten?
 ---
 
 <div style="float:right; width:40%;">
-  <img src="../Intro-to-RDM/images/backup.png" alt="No back up? No mercy!">
+  <img src="../TtL-FDM/images/backup.png" alt="No back up? No mercy!">
 </div>
 
 
@@ -1848,7 +1871,7 @@ Wie können Sie Daten veröffentlichen und weitergeben werden?
 - als alleinstehenden Datensatz in einem Repository mit einem Link zum entsprechenden Artikel.
 
 <div style="width:100%;">
-  <img src="../Intro-to-RDM/images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+  <img src="../TtL-FDM/images/Example_R-R-Article.jpg" alt="Example R-R-Article">
 </div>
 
 **********************
@@ -1872,7 +1895,7 @@ Wie können Sie Daten veröffentlichen und weitergeben werden?
 Beispiel:
 
 <div style="float:left; width:45%;">
-<img src="../Intro-to-RDM/images/Example_Pangaea.jpg" alt="Example Pangea">
+<img src="../TtL-FDM/images/Example_Pangaea.jpg" alt="Example Pangea">
 <sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
 
 </div>
@@ -1880,7 +1903,7 @@ Beispiel:
 <div style="float:right; width:45%;">
 
 <div style="width:100%;">
-  <img src="../Intro-to-RDM/images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <img src="../TtL-FDM/images/Example_Zenodo.jpg" alt="Example Zenodo">
   <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
 </div>
 
@@ -1906,7 +1929,7 @@ Beispiel:
 Beispiel:
 
 <div style="float:left; width:45%;">
-<img src="../Intro-to-RDM/images/example-ESSdata.png" alt="Example Data journal">
+<img src="../TtL-FDM/images/example-datainbrief.png" alt="Example Data journal">
 <sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
 
 </div>
@@ -1914,7 +1937,7 @@ Beispiel:
 <div style="float:right; width:45%;">
 
 <div style="width:100%;">
-  <img src="../Intro-to-RDM/images/example-datainbrief.png" alt="Example Data journal">
+  <img src="../TtL-FDM/images/example-datainbrief.png" alt="Example Data journal">
   <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
 </div>
 
