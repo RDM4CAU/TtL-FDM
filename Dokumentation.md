@@ -6,7 +6,7 @@
 
 >**Wir gehen in eine größere Gruppenarbeit**.
 >
->Wir werden 3 Break-Out-Räume, in denen Sie in Gruppen zu verschiedenen Themen arbeiten, erstellen:
+>Wir werden 3 Break-Out-Räume erstellen, in denen Sie in Gruppen zu verschiedenen Themen arbeiten:
 >
 >- **Break-Out I: Dokumentation**
 >
@@ -25,7 +25,7 @@
 | -------- |----------|
 | Ankommen, Aufgabenstellung erfassen, Materialien bearbeiten     | ~10 Min. | 
 | Aufgabe ausprobieren     | ~15 Min. | 
-| Reflexion zu Integration in eigene Lehre/ Ideen entwickeln     | ~15 Min. | 
+| Reflexion zu Integration in eigene Lehre / Ideen entwickeln     | ~15 Min. | 
 | Präsentation vorbereiten   | ~10 Min. | 
 
 *********
@@ -169,7 +169,7 @@ Beispiele für Data Dictionary und Codebook
 >
 >Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Datendokumentation thematisiert werden könnte (oder bereits thematisiert wird).  
 >
->Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zum Thema Datendokumentation.
+>Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen / Übungen zum Thema Datendokumentation.
 >
 >Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
 
