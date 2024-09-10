@@ -113,7 +113,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 ********************************************************************************
 >**Aufgabe**: 
 >
->Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/e-learning-technik-in-der-lehre/open-educational-resources/creative-commons/
+>Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/lehrformate-methoden/open-educational-resources/creative-commons/
 >
 >1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht? 
 >
@@ -133,12 +133,6 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 > [[x]] Es ist nicht möglich die Präsentation CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
 > [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
 > [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
-
-
->**Lösung**:
->
->1. [CCBYSA](https://creativecommons.org/licenses/by-sa/4.0/)
->2. Diese Präsentation ist unter CCBY lizensiert. CCBYSA sieht jedoch vor, dass nur **unter gleichen Bedingungen** nachgenutzt werden darf.  
 
 ********************************************************************************
 

@@ -13,6 +13,10 @@ comment:  This document provides a brief introduction to research data managemen
 -->
 
 # Train-the-Lecturer Forschungsdatenmanagement
+<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
+
+<div style="page-break-after: always;"></div>
+
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
@@ -22,9 +26,6 @@ comment:  This document provides a brief introduction to research data managemen
 >
 > This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
 
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
-
-<div style="page-break-after: always;"></div>
 
 ## Warm up
 
@@ -853,7 +854,8 @@ Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 <div style="page-break-after: always;"></div>
 
 ## Ordner- und Dateibenennung
-
+{{0-1}}
+********************************************************************************
 <div style="text-align:center">
 ><p style="color:#9a047f">**Es mag banal erscheinen, aber eine strukturierte Ordner- und Dateibenennung ist ein erster Schritt im Forschungsdatenmanagement!**</p>
 </div>
@@ -864,9 +866,9 @@ Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 <P><SMALL>https://xkcd.com/1459. Shared under CC-BY-NC License</SMALL></P>
 </div>
 
----
+********************************************************************************
 
-{{1}}
+{{1-2}}
 ********************************************************************************
 <img src="images/Dateibenennung_bad.png" alt="comic"  style="float:right"/>
 
@@ -898,6 +900,9 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
 ### Ordnerstrukturen
 
+{{0-1}}
+********************************************************************************
+
 Folgende Punkte können bei der Erstellung einer nachvollziehbaren Ordnerstruktur helfen:
 
 * Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen
@@ -918,9 +923,9 @@ Folgende Punkte können bei der Erstellung einer nachvollziehbaren Ordnerstruktu
 
 * Nicht mehr benötigte Dateien werden regelmäßig gelöscht
 
----
+********************************************************************************
 
-{{1}}
+{{1-2}}
 ********************************************************************************
 
 Es gilt außerdem:
@@ -943,7 +948,8 @@ Beispiel Ordnerstruktur:
 <div style="page-break-after: always;"></div>
 
 ### Dateibenennung
-
+{{0-1}}
+********************************************************************************
 Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Forschungsdatenmanagement.
 
 Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
@@ -962,9 +968,9 @@ Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 * Führende Null(en) bei Nummerierungen verwenden
 
 * Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY_MM_DD)
+********************************************************************************
 
-
-{{1}}
+{{1-2}}
 ********************************************************************************
 
 **Es gilt außerdem:**
@@ -1295,12 +1301,12 @@ Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-<img src="../TtL-FDM/images/datendoku_readme-beispiel.png">
+<img src="images/datendoku_readme-beispiel.png">
 
 
 Beispiele für Data Dictionary und Codebook
 
-<img src="../TtL-FDM/images/datendoku_dictionary-codebook.png">
+<img src="images/datendoku_dictionary-codebook.png">
 
 <div style="page-break-after: always;"></div>
 
@@ -1484,7 +1490,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 ********************************************************************************
 >**Aufgabe**: 
 >
->Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/e-learning-technik-in-der-lehre/open-educational-resources/creative-commons/
+>Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/lehrformate-methoden/open-educational-resources/creative-commons/
 >
 >1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht? 
 >
@@ -1504,12 +1510,6 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 > [[x]] Es ist nicht möglich die Präsentation CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
 > [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
 > [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
-
-
->**Lösung**:
->
->1. [CCBYSA](https://creativecommons.org/licenses/by-sa/4.0/)
->2. Diese Präsentation ist unter CCBY lizensiert. CCBYSA sieht jedoch vor, dass nur **unter gleichen Bedingungen** nachgenutzt werden darf.  
 
 ********************************************************************************
 
@@ -1640,8 +1640,6 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 * Welchen Nutzen/welche Vorteile haben gutes Forschungsdatenmanagement und FAIRe Daten (für Forschende, für die Gesellschaft?)?
 * Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
-
->* Sammeln Sie Ihre Punkte gerne bereits während das Video läuft auf **ONCOO-Karten**: https://www.oncoo.de/jzvb
 
 ---
 
