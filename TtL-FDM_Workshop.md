@@ -156,7 +156,7 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 * ... Grundprinzipien des FDM und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
 * ... Themenaspekte aus dem FDM identifizieren, die in die eigene Lehre integriert werden können.
 * ... erste Ansätze und Ideen zur Integration von FDM-Aspekten in die eigene Lehre entwickeln.
-* ... über Ansätze zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutieren haben.
+* ... über Ansätze zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutiert haben.
 * ... auch ein bisschen Spaß hatten.
 
 <div style="page-break-after: always;"></div>
@@ -1206,7 +1206,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 >**Wir gehen in eine größere Gruppenarbeit**.
 >
->Wir werden 3 Break-Out-Räume, in denen Sie in Gruppen zu verschiedenen Themen arbeiten, erstellen:
+>Wir werden 2-3 Break-Out-Räume erstellen, in denen Sie in Gruppen zu verschiedenen Themen arbeiten:
 >
 >- **Break-Out I: Dokumentation**
 >
@@ -1379,7 +1379,7 @@ Beispiele für Data Dictionary und Codebook
 
 Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlchen Arbeit. 
 
-Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein: Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden, sie können als Vergleichswerte diehnen, für Meta-Analysen verwendet oder in ganz anderen Kontexten neu analysiert werden.  
+Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein: Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden, sie können als Vergleichswerte dienen, für Meta-Analysen verwendet oder in ganz anderen Kontexten neu analysiert werden.  
 
 >Auf der Seite [**forschungsdaten.info**](https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/) werden verschiedene mögliche Nachnutzungsformen aufgelistet. 
 >
@@ -1527,7 +1527,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 >
 >Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
 >
->Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. 
+>Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. 
 >
 >Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
 >
