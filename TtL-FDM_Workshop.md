@@ -1338,7 +1338,7 @@ Beispiele für Data Dictionary und Codebook
 
 **Eine gute Datendokumentation enthält Informationen zu:**
 
-* Kontext: Projekthistorie, Absicht/ Zielsetzung, Hypothesen, ...
+* Kontext: Projekthistorie, Absicht/Zielsetzung, Hypothesen, ...
 * Methoden: Sampling, Umstände der Erhebung, technische Rahmenbedingungen, ...
 * Datenstrukturen, Beziehungen zwischen Objekten
 * Wertebereiche, Qualitätskriterien, Gültigkeit
@@ -1350,12 +1350,12 @@ Beispiele für Data Dictionary und Codebook
 
 **Fokus Datenqualität**:
 
-* Erläuterung der verwendeten Terminologie, ggf. Definitionen / kontrollierten Vokabularen und Ontologien bzw. Thesauri
+* Erläuterung der verwendeten Terminologie, ggf. Definitionen/kontrollierten Vokabularen und Ontologien bzw. Thesauri
 * ggf. vordefinierte Wertebereiche, Format-Vorgaben (z.B. Datum YYYY-MM-DD)
 * Aussagekräftige Bezeichnungen von Spaltenköpfen (Sonderzeichen vermeiden)
 * Namen, Bezeichnungen für Variablen, Einheiten und ihre Werte dokumentieren
-* Erklärungen für Codes /Klassifikationsschemata
-* Kodierung fehlende Werte / Gründe für fehlende Werte
+* Erklärungen für Codes/Klassifikationsschemata
+* Kodierung fehlende Werte/Gründe für fehlende Werte
 * Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
 * Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
 
