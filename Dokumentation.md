@@ -101,12 +101,12 @@ Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-<img src="../TtL-FDM/images/datendoku_readme-beispiel.png">
+<img src="images/datendoku_readme-beispiel.png">
 
 
 Beispiele für Data Dictionary und Codebook
 
-<img src="../TtL-FDM/images/datendoku_dictionary-codebook.png">
+<img src="images/datendoku_dictionary-codebook.png">
 
 <div style="page-break-after: always;"></div>
 
