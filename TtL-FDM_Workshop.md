@@ -26,6 +26,7 @@ comment:  This document provides a brief introduction to research data managemen
 >
 > This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
 
+<div style="page-break-after: always;"></div>
 
 ## Warm up
 
@@ -281,7 +282,6 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
 |conditions. Explain access and technical requirements, references     |
 |to related materials/LMS course, other references                     |
 +----------------------------------------------------------------------+
-
 .----------------------------------------------------------------------.
 | Teaching unit                                                        |
 | +----------------.  .--------------------------.  .----------------+ |
@@ -297,7 +297,6 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
 |                                                                      |
 |      -----------------learning objectives----------------->          |
 '----------------------------------------------------------------------'
-
 +----------------------------------------------------------------------+
 | Follow-up: save results, share minutes with participants,            |
 | evaluate feedback, reflection                                        |
@@ -390,6 +389,8 @@ Define clear, comprehensible and achievable goals.
 - How do you plan to collect feedback?
 - Will you use tools to evaluate?
 ```
+
+<div style="page-break-after: always;"></div>
 
 ### Ablaufpläne
 Ablaufpläne helfen dabei, eine Veranstaltung Schritt für Schritt zu planen.
@@ -642,6 +643,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
 
 ## Begriffsdefinition Forschungsdaten
 
@@ -697,6 +699,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <P><SMALL>Illustration: Cleo Michelsen, basierend auf dem Forschungsdatenlebenszyklus des UK Data Service</SMALL></P>
 
+<div style="page-break-after: always;"></div>
+
 {{1}}
 ********************************************************************************
 <img src="/images/Planung_fdm-zyklus_2022.png" width="150" align="right">
@@ -714,6 +718,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 ---
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{2}}
 ********************************************************************************
@@ -747,6 +753,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 ---
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{4}}
 ********************************************************************************
 
@@ -772,6 +780,8 @@ Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten la
 
 Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.
 
+<div style="page-break-after: always;"></div>
+
 {{1}}
 >**F**indable
 
@@ -789,7 +799,6 @@ F4. (Meta)data are registered or indexed in a searchable resource
 
 ***************
 
-<div style="page-break-after: always;"></div>
 
 {{1}}
 >**A**ccessible
@@ -807,6 +816,8 @@ A1.2 The protocol allows for an authentication and authorisation procedure, wher
 A2. Metadata are accessible, even when the data are no longer available
 
 ******************
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 >**I**nteroperable
@@ -1230,12 +1241,16 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 *********
 
+<div style="page-break-after: always;"></div>
+
 ## Datendokumentation & Datenqualität 📝
 Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig. 
 
 Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden. 
 
 Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
+
+<div style="page-break-after: always;"></div>
 
 ### Warum dokumentieren?
 
@@ -1254,6 +1269,8 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 >- [[x]] Dokumentation zielt auf Erhalt der Interpretierbarkeit und Nachvollziehbarkeit der Daten.
 >- [[x]] Dokumentation trägt zu Sichtbarkeit und Wiederauffindbarkeit von Daten bei.
 >- [[ ]] Ohne Dokumentation sind Daten unbrauchbar.
+
+<div style="page-break-after: always;"></div>
 
 ### Dokumentation & GWP
 **Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!** 
@@ -1295,6 +1312,8 @@ Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten
 >[[x]] (projektinternes) Wiki
 >[[ ]] Artikel in einem Data Journal
 >[[x]] in der Datei selber bzw. in den Metainformationen der Datei.
+
+<div style="page-break-after: always;"></div>
 
 #### Beispiele
 
@@ -1387,6 +1406,8 @@ Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhän
 >
 >Dokumentieren Sie auf dem Miro-Board.
 
+<div style="page-break-after: always;"></div>
+
 ### Forschungsdaten finden
 
 >**Wer Daten nachnutzen möchte, muss zunächst einen passenden Datensatz finden!**
@@ -1428,6 +1449,9 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
+
 {{1}}
 ********************************************************************************
 >**Aufgabe**: 
@@ -1460,7 +1484,6 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 ********************************************************************************
 
-
 <div style="page-break-after: always;"></div>
 
 ### Rechtslage einschätzen 
@@ -1485,6 +1508,7 @@ Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](http
 Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
 
 ---
+<div style="page-break-after: always;"></div>
 
 {{1}}
 ********************************************************************************
@@ -1512,6 +1536,8 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 > [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### ~~Aufgabe~~: Nachnutzung
 
@@ -1749,6 +1775,8 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 
 *********
 
+<div style="page-break-after: always;"></div>
+
 ### Bestandteile eines DMP
 
 >**Ein DMP sollte Informationen zu...**
@@ -1773,6 +1801,8 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 >
 >**--> Der Umfang kann zwischen wenigen Absätzen und mehreren Seiten variieren!**
 
+<div style="page-break-after: always;"></div>
+
 ### Anforderungen der Förderorganisationen
 
 | Förderorganisation | Forderung                              | Abgabe bei Antrag                            | Inhalt                  | Bericht          |
@@ -1782,11 +1812,15 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 | EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
 | VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template“    | living document  | 
 
+<div style="page-break-after: always;"></div>
+
 ### DMP templates & tools
 
 > - Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.datamanagement.uni-kiel.de/de/service/materialien
 
 > Weiterführende Informationen sowie eine Liste zu unterstützenden **DMP-Tools** stellt [**forschungsdaten.info**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/) zur Verfügung.
+
+<div style="page-break-after: always;"></div>
 
 ## Speicher & Backup
 
@@ -1812,6 +1846,8 @@ Wo und wie speichern wir unsere Forschungsdaten?
 ![Lebensdauer](https://forschungsdaten.info/fileadmin/kooperationen/bwfdm/fdm/2-organisieren-und-aufbereiten/2-lebensdauer-von-daten/lebensdauer.png)
 
 ****************
+
+<div style="page-break-after: always;"></div>
 
 {{3-4}}
 ****************
@@ -2093,6 +2129,8 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
 
+<div style="page-break-after: always;"></div>
+
 # Förderer und andere wichtige Player
 
 {{0-2}}
@@ -2177,14 +2215,13 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 
 <div style="page-break-after: always;"></div>
 
-<div style="page-break-after: always;"></div>
-
 # Themen- und Vertiefungswünsche
 
 >**Gemeinschaftsarbeit im Plenum**
 >
 >Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764543457520234&cot=14
 
+<div style="page-break-after: always;"></div>
 
 # ~~Fragen und Anmerkungen~~
 
@@ -2192,6 +2229,7 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 >
 >Haben Sie noch Fragen oder Anmerkungen?
 
+<div style="page-break-after: always;"></div>
 
 # ~~Einzelarbeit~~: One-Minute-Paper
 
@@ -2211,6 +2249,7 @@ Sie haben genau eine Minute Zeit.
 >
 >Was antworten Sie?
 
+<div style="page-break-after: always;"></div>
 
 # Herzlichen Dank!
 
