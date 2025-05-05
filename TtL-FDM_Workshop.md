@@ -1417,7 +1417,7 @@ Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 - In **Fachrepositorien** (z.B. https://www.fidgeo.de/daten-publikationen/daten-publikationen) und **fachübergreifenden Repositorien** (z. B. https://zenodo.org/)
 - In **institutionellen Repositorien** (z.B. https://opendata.uni-kiel.de/content/index.xml) 
 - In Repositorien für **offene Verwaltungsdaten** (z. B. https://opendata.schleswig-holstein.de/dataset)
-- Mittels **(Meta)suchmaschinen** (z. B. B2FIND http://b2find.eudat.eu, gesisDataSearch http://datasearch.gesis.org/start, Mendeley Data https://data.mendeley.com/)
+- Mittels **(Meta)suchmaschinen** (z. B. B2FIND http://b2find.eudat.eu gesisDataSearch http://datasearch.gesis.org/start Mendeley Data https://data.mendeley.com/)
 - Recherche in **bibliothekarischen Suchmaschinen** (z. B. BASE https://www.base-search.net/Search/Advanced)
 - Google: Stichwort und „data set“ bzw. Google Dataset Search
 - Eine Sammlung verschiedener Open Access Repositorien finden Sie auch hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
