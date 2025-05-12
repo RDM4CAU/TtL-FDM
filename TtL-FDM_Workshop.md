@@ -3,7 +3,7 @@
 author:   Britta Petersen, Linda Zollitsch
 email:    b.petersen@rz.uni-kiel.de
 version:  0.1.0
-language: en
+language: de
 narrator: UK English Female
 
 icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
@@ -168,7 +168,7 @@ Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln können.
 
-Wir werden uns keine speziellen Tools anschauen.
+Wir werden uns keine speziellen Software-Tools anschauen.
 
 Fachspezifische Aspekte werden nicht behandelt, dürfen von Ihnen aber sehr gerne in die Diskussionen eingebracht werden.
 
@@ -214,6 +214,20 @@ Unsere Agenda für heute
 <div style="page-break-after: always;"></div>
 
 # Allgemeine didaktische Hinweise
+
+<!--- 
+Kurze Einführung in didaktische Rahmenbedingungen
+
+Methode: Vortrag im Plenum
+
+Lernziele (LZM-FDM):
+
+Lernende können organisatorische Aspekte eines didaktischen Szenarios benennen. (LZ-ID: 06\_001\_1109)
+
+Lernende können Methoden zur Auswahl und Strukturierung von Lerninhalten benennen. (LZ-ID: 06\_001\_1111)
+
+Lernende können Bedingungen für ein anregendes Lehren und Lernen benennen. (LZ-ID: 06\_001\_1107) 
+--->
 
 Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine didaktische Hinweise:
 
@@ -582,6 +596,18 @@ Eine kleine Auswahl haben wir Ihnen mitgebracht:
 
 # Orientierung im Themenbereich FDM
 
+<!---
+Orientierung im Themenbereich FDM, Grundbegriffe im FDM
+
+Lernziele (LZM-FDM):
+Lernende können	den Begriff Forschungsdaten	erläutern.(LZ-ID: 01_001_0007)
+
+Lernende können	Beispiele für Forschungsdaten	benennen. (LZ-ID: 01_001_0008)
+
+Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
+
+--->
+
 Der Themenbereich Forschungsdatenmanagement ist komplex. 
 
 Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
@@ -694,6 +720,9 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 <div style="page-break-after: always;"></div>
 
 ## Forschungsdatenlebenszyklus
+<!---
+Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005_0079)
+--->
 
 <img src="/images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
 
@@ -773,6 +802,12 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 <div style="page-break-after: always;"></div>
 
 ## FAIR-Prinzipien
+
+<!---
+Lernende können	die FAIR-Prinzipien	benennen. (LZ-ID: 01_007_0117)
+Lernende können	die FAIR-Prinzipien	erläutern. LZ-ID: 01_007_0118)
+--->
+
 
 <img src="/images/fair2.jpg" width="250" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
 
