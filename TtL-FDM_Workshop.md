@@ -639,7 +639,7 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 **Kleingruppenarbeit in Break-Outs:**
 ---
-Überfliegen Sie die in der [Lernzielmatrix](https://zenodo.org/record/7034478#.Y4X_3HbMJPY) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
+Überfliegen Sie die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
 
 * Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
 * Sind Aspekte aufgeführt, die Sie nicht erwartet hätten?
@@ -1271,7 +1271,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 | -------- |----------|
 | Ankommen, Aufgabenstellung erfassen, Materialien bearbeiten     | ~10 Min. | 
 | Aufgabe ausprobieren     | ~15 Min. | 
-| Reflexion zu Integration in eigene Lehre/ Ideen entwickeln     | ~15 Min. | 
+| Reflexion zu Integration in eigene Lehre / Ideen entwickeln     | ~15 Min. | 
 | Präsentation vorbereiten   | ~10 Min. | 
 
 *********
@@ -1431,7 +1431,7 @@ Beispiele für Data Dictionary und Codebook
 
 ## Nachnutzung von Forschungsdaten ♻️
 
-Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlchen Arbeit. 
+Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit. 
 
 Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein: Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden, sie können als Vergleichswerte dienen, für Meta-Analysen verwendet oder in ganz anderen Kontexten neu analysiert werden.  
 
@@ -1588,7 +1588,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 >
 >Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
 >
->Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. 
+>Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
 >
 >Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
 >
