@@ -1822,22 +1822,22 @@ Beispiel:
 
 #### Open Data at Kiel University
 
->**Information and services @Kiel University:**
+>**Information und services @Kiel University:**
 >
->* No guidelines for promoting Open Data at Kiel University :-(
->* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) provides information, help and services.
->* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) is the Open Data Repository of Kiel University (CAU)
+>* Es gibt keine Richtlinien zur Förderung von Open Data an der CAU :-(
+>* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) stellt Informationen, Hilfe und Dienstleistungen bereit
+>* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) ist das Open Data Repository der CAU
 
 ### Textpublikation
 
 #### Open Access at Kiel University
 
->**Information and services @Kiel University:**
+>**Information und services @Kiel University:**
 >
->* [Guidelines for promoting Open Access at Kiel University](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
->* [University Library](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
->   * [Funding of OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
->* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
+>* [Richtlinien zur Förderung von Open Access an der CAU](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
+>* [Universitätsbibliothek](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
+>   * [Finanzierung von OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
+>* [MACAU ist das Open Access Repository der CAU](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
 
 <div style="page-break-after: always;"></div>
 
