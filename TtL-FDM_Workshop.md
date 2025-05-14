@@ -612,26 +612,6 @@ Der Themenbereich Forschungsdatenmanagement ist komplex.
 
 Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
-## ~~Wordcloud~~: Forschungsdatenmanagement
-
-![Bild](/images/FragezeichenTyp.jpg) <!-- width="80px" align="right" -->
-
-**Was genau ist mit dem Begriff Forschungsdatenmanagement gemeint?**
-
-> Was denken Sie? Welche Inhaltsaspekte gehören zum Themenspektrum FDM?
->
-> Geben Sie unter https://answergarden.ch/2861448 Begriffe ein, die Sie mit dem Begriff Forschungsdatenmanagement verbinden. Sie dürfen so viele Eingaben machen, wie Sie möchten.
-
-<div style="page-break-after: always;"></div>
-
-{{1}}
-********************************************************************************
-
-<iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
@@ -895,7 +875,6 @@ Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 * Dateibenennung & Versionierung
 * Dokumentation von Forschungsdaten 
 * Nachnutzung von Forschungsdaten
-* FAIR-Prinzipien
 
 <div style="page-break-after: always;"></div>
 
@@ -1252,13 +1231,12 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 >**Wir gehen in eine größere Gruppenarbeit**.
 >
->Wir werden 2-3 Break-Out-Räume erstellen, in denen Sie in Gruppen zu verschiedenen Themen arbeiten:
+>Wir werden Break-Out-Räume erstellen, in denen Sie in Gruppen zu verschiedenen Themen arbeiten:
 >
 >- **Break-Out I: Dokumentation**
 >
 >- **Break-Out II: Nachnutzung**
->
->- **Break-Out III: FAIR-Prinzipien**
+
 
 *********
 
@@ -1610,182 +1588,6 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 
 <div style="page-break-after: always;"></div>
 
-## FAIR-Prinzipien 🟣
-
-<img src="/images/fair2.jpg" width="150" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
-
-Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
-
-Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.  
-
----
-
-{{1}}
->**F**indable
-
-{{2-3}}
-****************
-Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein. Maschinenlesbare Metadaten sind für das automatische Auffinden von Datensätzen und Diensten unerlässlich und daher ein wesentlicher Bestandteil des FAIRification-Prozesses.
-
-F1. (Meta)data are assigned a globally unique and persistent identifier
-
-F2. Data are described with rich metadata (defined by R1 below)
-
-F3. Metadata clearly and explicitly include the identifier of the data they describe
-
-F4. (Meta)data are registered or indexed in a searchable resource
-
-***************
-
-<div style="page-break-after: always;"></div>
-
-{{1}}
->**A**ccessible
-
-{{3-4}}
-***********************
-Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
-
-A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-
-A1.1 The protocol is open, free, and universally implementable
-
-A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-
-A2. Metadata are accessible, even when the data are no longer available
-
-******************
-
-{{1}}
->**I**nteroperable
-
-{{4-5}}
-**********************
-Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
-
-I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-
-I2. (Meta)data use vocabularies that follow FAIR principles
-
-I3. (Meta)data include qualified references to other (meta)data
-
-**********************
-
-{{1}}
->**R**eusable
-
-{{5-6}}
-***************
-Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
-
-R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
-
-R1.1. (Meta)data are released with a clear and accessible data usage license
-
-R1.2. (Meta)data are associated with detailed provenance
-
-R1.3. (Meta)data meet domain-relevant community standards
-
-**************
-
-<div style="page-break-after: always;"></div>
-
-### ~~Diskussion~~: Nutzen von Forschungsdatenmanagement und FAIRen Daten
-
-{{0-1}}
-********************************************************************************
-
-<img src="/images/kurzberichte.png" width="150" align="right">
-
-**Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
-
-* Welchen Nutzen/welche Vorteile haben gutes Forschungsdatenmanagement und FAIRe Daten (für Forschende, für die Gesellschaft?)?
-* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
-
----
-
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
-Movie time!
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-{{2-3}}
-********************************************************************************
-
-<iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-{{3}}
-********************************************************************************
->**Gutes Forschungsdatenmanagement trägt bei zu ...**
->
-> - Reproduzierbarkeit von Ergebnissen (GWP)
-> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
-> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
-> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
-> - Erleichterung der Zusammenarbeit
-> - Vorbeugung von Datenverlusten
-> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
-> - Transfer der Daten in zukünftige Projekte
-> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
-> - Erfüllung von Auflagen der Drittmittelgeber
-> - ….
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-### ~~World-Café~~: FAIR-Prinzipien
-
-<img src="/images/worldcafe.jpg" width="350" align="right">
-
-{{1-2}}
-********************************************************************************
-
-Das World-Cafe ist eine aktivierende Methode aus der Präsenzlehre, kann aber in den virtuellen Raum übertragen werden.
-
-**Rolle der Lehrperson:** erläutern, anregen, begleiten
-
-**Rolle der Lernenden:** reflektieren, diskutieren, argumentieren, aktiv an Gesprächen teilnehmen und Gesprächsrunden leiten
-
-**Online Break-Out statt Tisch**:
-Anstelle der Gruppenarbeit an Tischen werden Break-Out Räume erstellt
-Als „Flipchart-Ersatz“ eignet sich z. B. das Conceptboard. Einfache Pads (z. B. ZUM-Pad, EduPad) funktionieren aber auch.
-
-**Ablauf virtuell**:
-Erläuterung der Methode World-Cafe sowie kurze Vorstellung der Diskussionsthemen und Benennung der Gastgeber.
-Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Verschiebung“ der Gastgeber.  
-
-********************************************************************************
-
-{{2}}
-********************************************************************************
-
-**Mögliches Setting für ein FAIR World-Café**:
-
-**Tisch 1**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Auffindbarkeit** von Daten angesprochen hat. Wie können Auffindbarkeitsprobleme gelöst werden? 
-
-**Tisch 2**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Zugänglichkeit** von Daten angesprochen hat. Wie können Zugänglichkeitsprobleme gelöst werden? 
-
-**Tisch 3**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Interoperabilität** von Daten angesprochen hat. Wie können Interoperabilitätsprobleme gelöst werden? 
-
-**Tisch 4**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Nachnutzbarkeit** von Daten angesprochen hat. Wie können Nachnutzbarkeitsprobleme gelöst werden? 
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
 
 ## Datenmanagementpläne
 
@@ -1924,8 +1726,10 @@ Besondere Aufmerksamkeit bei sensiblen Daten:
 <div style="page-break-after: always;"></div>
 
 
-## Datenpublikation
+## Publikation
 
+
+### Datenpublikation
 Wie können Sie Daten veröffentlichen und weitergeben werden?
 ----
 
@@ -2015,6 +1819,28 @@ Beispiel:
 ***************************
 
 <div style="page-break-after: always;"></div>
+
+#### Open Data at Kiel University
+
+>**Information and services @Kiel University:**
+>
+>* No guidelines for promoting Open Data at Kiel University :-(
+>* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) provides information, help and services.
+>* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) is the Open Data Repository of Kiel University (CAU)
+
+### Textpublikation
+
+#### Open Access at Kiel University
+
+>**Information and services @Kiel University:**
+>
+>* [Guidelines for promoting Open Access at Kiel University](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
+>* [University Library](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
+>   * [Funding of OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
+>* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
+
+<div style="page-break-after: always;"></div>
+
 
 ### Repositorien
 {{0-2}}
@@ -2117,6 +1943,49 @@ Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textba
 
 <div style="page-break-after: always;"></div>
 
+## Wrap Up
+
+{{0-1}}
+********************************************************************************
+
+<img src="/images/kurzberichte.png" width="150" align="right">
+
+**Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
+
+* Welchen Nutzen/welche Vorteile haben gutes Forschungsdatenmanagement und FAIRe Daten (für Forschende, für die Gesellschaft?)?
+* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
+
+Movie time!
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+********************************************************************************
+<div style="page-break-after: always;"></div>
+
+
+{{1}}
+********************************************************************************
+>**Gutes Forschungsdatenmanagement trägt bei zu ...**
+>
+> - Reproduzierbarkeit von Ergebnissen (GWP)
+> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
+> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
+> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
+> - Erleichterung der Zusammenarbeit
+> - Vorbeugung von Datenverlusten
+> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
+> - Transfer der Daten in zukünftige Projekte
+> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
+> - Erfüllung von Auflagen der Drittmittelgeber
+> - ….
+
+********************************************************************************
+<div style="page-break-after: always;"></div>
+
 ## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
 {{0}}
@@ -2165,6 +2034,8 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
 
 <div style="page-break-after: always;"></div>
+
+
 
 # Förderer und andere wichtige Player
 
@@ -2249,6 +2120,122 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 > Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
 
 <div style="page-break-after: always;"></div>
+
+# FDM an der CAU
+
+{{0-1}}
+***********
+
+<div style="width: 50%; float:right">
+![services](../DMP/images/cau-services.png)
+</div>
+
+website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
+
+e-mail: info@fdm.uni-kiel.de  
+
+***********
+
+{{1-2}}
+***********
+**Beratung**
+
+<div style="width: 20%; float:right">
+![working](../DMP/images/consultation.png)
+</div>
+
+* proposal consulting
+
+* data strategy development
+
+* DMP consulting
+
+* technical consulting (storage, backup, tools, etc.)
+
+* support for peer reviews
+
+* assistance with data publication
+***********
+
+{{2-3}}
+***********
+**Training & Teaching support**
+
+<div style="width: 20%; float:right">
+![working](../DMP/images/training.png)
+</div>
+
+* workshops
+
+ * via Graduate Center, Continuing Professional Development Center
+ * small groups
+ * different target groups
+ * general RDM basics
+ * Specialization, e.g. Introduction to Git (on demand)
+
+* teaching support on demand
+***********
+
+{{3-4}}
+***********
+**RDM Infrastructure**
+
+<div style="width: 20%; float:right">
+![working](../DMP/images/infrastructure.png)
+</div>
+
+* RDM services
+
+* consulting on tools and services
+
+* contact with specialist departments of the CAU
+***********
+
+
+{{4-5}}
+***********
+**Networking**
+
+<div style="width: 20%; float:right">
+![working](../DMP/images/networking.png)
+</div>
+
+* local networking at CAU via [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
+
+* regional networking via [FDM-SH](https://fdm-sh.de/)
+
+* active networking in different relevant national working groups (e. g. NFDI, DINI/nesor AG Forschungsdaten, GoFAIR)
+
+* International networking: e. g. RDA
+***********
+
+{{5-6}}
+***********
+**Contact**
+
+<div style="width: 20%; float:right">
+![team](../DMP/images/team.png)
+</div>
+
+Feel free to contact us:
+
+>**DMP Consulting:**
+>
+>Thilo Paul-Stüwe
+>paul-stueve@rz.uni-kiel.de
+>
+>Andreas Christ
+>christ@ub.uni-kiel.de 
+
+>**Workshops & teaching support:**
+>
+>Britta Petersen
+>b.petersen@rz.uni-kiel.de 
+>
+>Linda Zollisch 
+>zollitsch@ub-uni-kiel.de
+
+***********
 
 # Themen- und Vertiefungswünsche
 
