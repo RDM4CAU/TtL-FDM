@@ -2173,7 +2173,7 @@ e-mail: info@fdm.uni-kiel.de
 
 {{3-4}}
 ***********
-**RDM Infrastruktur**
+**FDM Infrastruktur**
 
 <div style="width: 20%; float:right">
 ![working](./images/infrastructure.png)
