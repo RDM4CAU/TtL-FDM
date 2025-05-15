@@ -2141,51 +2141,49 @@ e-mail: info@fdm.uni-kiel.de
 ![working](./images/consultation.png)
 </div>
 
-* proposal consulting
+* Antragsberatung
 
-* data strategy development
+* DMP Beratung
 
-* DMP consulting
+* technische Beratung (Storage, backup, tools, usw.)
 
-* technical consulting (storage, backup, tools, etc.)
+* Unterstützung bei Peer Reviews
 
-* support for peer reviews
-
-* assistance with data publication
+* Hilfe bei der Datenpublikation
 ***********
 
 {{2-3}}
 ***********
-**Training & Teaching support**
+**Unterstützung bei Training & Lehre**
 
 <div style="width: 20%; float:right">
 ![working](./images/training.png)
 </div>
 
-* workshops
+* Workshops
 
- * via Graduate Center, Continuing Professional Development Center
- * small groups
- * different target groups
- * general RDM basics
- * Specialization, e.g. Introduction to Git (on demand)
+ * beim Graduate Center, Wissenschaftliche Weiterbildung
+ * kleine Gruppen
+ * unterschiedliche Zielgruppen
+ * grundsätzliche FDM-Grundlagen
+ * Spezialisation, z.B. Einführung in Git (auf Anfrage)
 
-* teaching support on demand
+* technische Unterstützung auf Anfrage
 ***********
 
 {{3-4}}
 ***********
-**RDM Infrastructure**
+**RDM Infrastruktur**
 
 <div style="width: 20%; float:right">
 ![working](./images/infrastructure.png)
 </div>
 
-* RDM services
+* FDM Services
 
-* consulting on tools and services
+* Beratung zu Tools und Services
 
-* contact with specialist departments of the CAU
+* Kontakt mit den Fachbereichen der CAU
 ***********
 
 
@@ -2197,26 +2195,26 @@ e-mail: info@fdm.uni-kiel.de
 ![working](./images/networking.png)
 </div>
 
-* local networking at CAU via [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
+* lokale Netzwerke an der CAU durch die [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
 
-* regional networking via [FDM-SH](https://fdm-sh.de/)
+* regionale Netzwerke durch [FDM-SH](https://fdm-sh.de/)
 
-* active networking in different relevant national working groups (e. g. NFDI, DINI/nesor AG Forschungsdaten, GoFAIR)
+* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen (e. g. NFDI, DINI/nesor AG Forschungsdaten, GoFAIR)
 
-* International networking: e. g. RDA
+* Internationale Netzwerke: e. g. RDA
 ***********
 
 {{5-6}}
 ***********
-**Contact**
+**Kontakt**
 
 <div style="width: 20%; float:right">
 ![team](./images/team.png)
 </div>
 
-Feel free to contact us:
+Zögern Sie nicht, uns zu kontaktieren:
 
->**DMP Consulting:**
+>**DMP Beratung:**
 >
 >Thilo Paul-Stüwe
 >paul-stueve@rz.uni-kiel.de
@@ -2224,7 +2222,7 @@ Feel free to contact us:
 >Andreas Christ
 >christ@ub.uni-kiel.de 
 
->**Workshops & teaching support:**
+>**Workshops & Lehrunterstützung:**
 >
 >Britta Petersen
 >b.petersen@rz.uni-kiel.de 
