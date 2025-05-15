@@ -2145,7 +2145,7 @@ e-mail: info@fdm.uni-kiel.de
 
 * DMP Beratung
 
-* technische Beratung (Storage, backup, tools, usw.)
+* technische Beratung (Storage, Backup, Tools, usw.)
 
 * Unterstützung bei Peer Reviews
 
@@ -2199,7 +2199,7 @@ e-mail: info@fdm.uni-kiel.de
 
 * regionale Netzwerke durch [FDM-SH](https://fdm-sh.de/)
 
-* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen (e. g. NFDI, DINI/nesor AG Forschungsdaten, GoFAIR)
+* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen (e. g. NFDI, DINI/nestor AG Forschungsdaten, GoFAIR)
 
 * Internationale Netzwerke: e. g. RDA
 ***********
