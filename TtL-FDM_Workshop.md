@@ -1715,13 +1715,13 @@ Besondere Aufmerksamkeit bei sensiblen Daten:
 
 ### Backup vs. Langzeitarchivierung
 
-| Back up                                                                          | Long-term storage             |
+| Back up                                                                          | Langzeit Speicherung            |
 | -------------------------------------------------------------------------------- | ----------------------------- |
-| Automatic backup of all data   | Storage of only selected data |
-| All versions                                                                     | Final version only            |
-|   to prevent data loss <br>(technical, e.g. defective, <br>or human, e.g. accidentally deleted) | Integrity backup <br> (e. g. regular check for modified or damaged data, <br>file system consitency)      |
-|                                                                                  | Long-term storage             |
-|                                                                                  | Searchability                 |
+| Automatisches Backup von allen Daten   | Speicherung von ausgewählten Daten |
+| All Versionen                                                                     | Nur die finale Version            |
+|   zur Verhinderung von Datenverlust <br>(technisch, z.B. Defekt, oder menschlich, z.B. versehentlich gelöscht) | Integritätssicherung <br> (z. B. regelmäßige Überprüfung auf modifizierte oder beschädigte Daten, <br>Dateisystemkonsistenz)      |
+|                                                                                  | Langzeitspeicherung             |
+|                                                                                  | Durchsuchbar                 |
 
 <div style="page-break-after: always;"></div>
 
