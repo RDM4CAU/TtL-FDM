@@ -2124,7 +2124,7 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 ***********
 
 <div style="width: 50%; float:right">
-![services](../DMP/images/cau-services.png)
+![services](../cau-services.png)
 </div>
 
 website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
@@ -2138,7 +2138,7 @@ e-mail: info@fdm.uni-kiel.de
 **Beratung**
 
 <div style="width: 20%; float:right">
-![working](../DMP/images/consultation.png)
+![working](../consultation.png)
 </div>
 
 * proposal consulting
@@ -2159,7 +2159,7 @@ e-mail: info@fdm.uni-kiel.de
 **Training & Teaching support**
 
 <div style="width: 20%; float:right">
-![working](../DMP/images/training.png)
+![working](../training.png)
 </div>
 
 * workshops
@@ -2178,7 +2178,7 @@ e-mail: info@fdm.uni-kiel.de
 **RDM Infrastructure**
 
 <div style="width: 20%; float:right">
-![working](../DMP/images/infrastructure.png)
+![working](../images/infrastructure.png)
 </div>
 
 * RDM services
@@ -2194,7 +2194,7 @@ e-mail: info@fdm.uni-kiel.de
 **Networking**
 
 <div style="width: 20%; float:right">
-![working](../DMP/images/networking.png)
+![working](../networking.png)
 </div>
 
 * local networking at CAU via [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
