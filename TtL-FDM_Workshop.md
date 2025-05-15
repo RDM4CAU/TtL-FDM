@@ -2201,7 +2201,7 @@ e-mail: info@fdm.uni-kiel.de
 
 * Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen (e. g. NFDI, DINI/nestor AG Forschungsdaten, GoFAIR)
 
-* Internationale Netzwerke: e. g. RDA
+* Internationale Netzwerke: z.B. RDA
 ***********
 
 {{5-6}}
