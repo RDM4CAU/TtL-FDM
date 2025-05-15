@@ -1950,10 +1950,7 @@ Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textba
 
 <img src="/images/kurzberichte.png" width="150" align="right">
 
-**Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
-
-* Welchen Nutzen/welche Vorteile haben gutes Forschungsdatenmanagement und FAIRe Daten (für Forschende, für die Gesellschaft?)?
-* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
+**Wir schauen uns ein kurzes Video an. Dies verdeutlicht nochmal die Gründe, warum Forschungsdatenmanagement wichtig ist.**
 
 Movie time!
 
