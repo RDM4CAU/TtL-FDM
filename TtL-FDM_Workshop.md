@@ -12,6 +12,13 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
+<script input="button">
+alert("Disclaimer: Please note that you are leaving the CAU net once you open this presentation in your browser. This presentation includes links to other third party websites and services. These sites are not under our control. RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies. Please read third party privacy and security policies closely.")
+
+"Disclaimer"
+</script>
+
+
 # Train-the-Lecturer Forschungsdatenmanagement
 <center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
 
