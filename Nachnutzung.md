@@ -1,6 +1,6 @@
 ## Nachnutzung von Forschungsdaten ♻️
 
-Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlchen Arbeit. 
+Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit. 
 
 Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein: Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden, sie können als Vergleichswerte dienen, für Meta-Analysen verwendet oder in ganz anderen Kontexten neu analysiert werden.  
 
@@ -19,7 +19,7 @@ Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 - In **Fachrepositorien** (z.B. https://www.fidgeo.de/daten-publikationen/daten-publikationen) und **fachübergreifenden Repositorien** (z. B. https://zenodo.org/)
 - In **institutionellen Repositorien** (z.B. https://opendata.uni-kiel.de/content/index.xml) 
 - In Repositorien für **offene Verwaltungsdaten** (z. B. https://opendata.schleswig-holstein.de/dataset)
-- Mittels **(Meta)suchmaschinen** (z. B. B2FIND http://b2find.eudat.eu, gesisDataSearch http://datasearch.gesis.org/start, Mendeley Data https://data.mendeley.com/)
+- Mittels **(Meta)suchmaschinen** (z. B. B2FIND http://b2find.eudat.eu gesisDataSearch http://datasearch.gesis.org/start Mendeley Data https://data.mendeley.com/)
 - Recherche in **bibliothekarischen Suchmaschinen** (z. B. BASE https://www.base-search.net/Search/Advanced)
 - Google: Stichwort und „data set“ bzw. Google Dataset Search
 - Eine Sammlung verschiedener Open Access Repositorien finden Sie auch hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
@@ -150,7 +150,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 >
 >Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
 >
->Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. 
+>Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
 >
 >Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
 >
