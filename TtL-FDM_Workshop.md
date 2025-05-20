@@ -1303,15 +1303,15 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 >>
 >>**...kurzer Rechercheauftrag**:
 >>
->>Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https://zenodo.org/records/6472827) beschäftigt sich mit der Dokumentation?
+>>Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https://zenodo.org/records/14281892) beschäftigt sich mit der Dokumentation?
 >>
 >>Leitlinie [[12]]
 *******
 ><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
-„Wissenschaftlerinnen und Wissenschaftler dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
+„Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
 </p>
 >
-><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. https://doi.org/10.5281/zenodo.6472827, S. 17.  
+><P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
 </SMALL></P>
 *******
 
