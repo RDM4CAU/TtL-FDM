@@ -1,4 +1,58 @@
-## Nachnutzung von Forschungsdaten ♻️
+# Gruppenarbeit - Nachnutzung
+
+**Ablauf:**
+
+| Schritte |   Zeit   |
+| -------- |----------|
+| **Break-Out**: Aufgabe ausprobieren     | ~15 Min. | 
+| Plenumsphase     | ~10 Min. | 
+| **Break-Out**: Selbstlernmaterial; Reflexion/Diskussion Integration in eigene Lehre / Ideen entwickeln     | ~15 Min. | 
+| Kurzpräsentation vorbereiten   | ~5 Min. |
+| Plenumsphase   | ~10 Min. |  
+
+*********
+
+<div style="page-break-after: always;"></div>
+
+## ~~Aufgabe ausprobieren~~: Nachnutzung ♻️
+
+> <img src="/images/kurzberichte.png" width="150" align="right">
+>
+>**Kleingruppenarbeit**
+>
+>Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen. 
+>
+>Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen. 
+>
+>Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl. 
+>
+>Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
+>
+>Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
+>
+>Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
+>
+>Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze. 
+
+<div style="page-break-after: always;"></div>
+
+## ~~Gruppenarbeit~~: Datennachnutzung in der Lehre ♻️
+
+> <img src="/images/kurzberichte.png" width="150" align="right">
+>
+>**Kleingruppenarbeit**
+>
+>Schauen Sie sich gemeinsam oder in Einzelarbeit kurz das folgende kurze [Selbstlernmaterial](#selbstlernabschnitt-nachnutzung-️) an.
+>
+>Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
+>
+>Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Thema Nachnutzung von Forschungsdaten.
+>
+>Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
+
+<div style="page-break-after: always;"></div>
+
+## Selbstlernabschnitt Nachnutzung ♻️
 
 Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit. 
 
@@ -9,6 +63,8 @@ Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhän
 >**Tauschen Sie sich kurz miteinander aus**: Haben Sie selbst schon Forschungsdaten nachgenutzt? Welche Formen der Nachnutzung kennen und nutzen Sie selbst? Fallen Ihnen Nachnutzungsformen ein, die durch die Liste auf forschungsdaten.info nicht abgedeckt sind?
 >
 >Dokumentieren Sie auf dem Miro-Board.
+
+<div style="page-break-after: always;"></div>
 
 ### Forschungsdaten finden
 
@@ -51,6 +107,9 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
+
 {{1}}
 ********************************************************************************
 >**Aufgabe**: 
@@ -83,14 +142,13 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 ********************************************************************************
 
-
 <div style="page-break-after: always;"></div>
 
 ### Rechtslage einschätzen 
 
 Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
-Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen. 
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen. 
 
 Die am häufigsten verwendeten Lizenzen sind:
 
@@ -108,6 +166,7 @@ Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](http
 Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
 
 ---
+<div style="page-break-after: always;"></div>
 
 {{1}}
 ********************************************************************************
@@ -127,47 +186,13 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 {{2}}
 ********************************************************************************
 
->2. Welches Problem ergibt sich, wenn die Abbildung der RUB in einer Präsentation verwendet wird, die CCBY veröffentlicht werden soll?  
+>2. Welches Problem ergibt sich, wenn die Abbildung der RUB im Rahmen eines Projektes verändert und in der veränderten Form unter der Lizenz CCBY veröffentlicht werden soll?  
 >
 > [[ ]] keins
-> [[x]] Es ist nicht möglich die Präsentation CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
+> [[x]] Eine Veröffentlichung unter CCBY ist nicht möglich, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
 > [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
-> [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
+> [[ ]] Die Abbildung darf nur unverändert verwendet werden.
 
 ********************************************************************************
-
-### ~~Aufgabe~~: Nachnutzung
-
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen. 
->
->Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen. 
->
->Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl. 
->
->Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
->
->Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
->
->Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
->
->Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze. 
-
-<div style="page-break-after: always;"></div>
-
-### ~~Gruppenarbeit~~: Reflexion Lehre
-
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
->
->Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zum Thema Nachnutzung.
->
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
 
 <div style="page-break-after: always;"></div>

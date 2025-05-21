@@ -1236,13 +1236,13 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 *********
 <img src="/images/kurzberichte.png" width="150" align="right">
 
->**Wir gehen in eine größere Gruppenarbeit**.
+>**Wir gehen nochmal in Gruppenarbeiten**.
 >
->Wir werden Break-Out-Räume erstellen, in denen Sie in Gruppen zu verschiedenen Themen arbeiten:
+>Wir schauen uns folgende Themen an
 >
->- **Break-Out I: Dokumentation**
+>- **Dokumentation**
 >
->- **Break-Out II: Nachnutzung**
+>- **Nachnutzung**
 
 
 *********
@@ -1250,20 +1250,90 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 {{1}}
 *********
 
-**Ablauf der Arbeitsphase:**
+**Ablauf:**
 
 | Schritte |   Zeit   |
 | -------- |----------|
-| Ankommen, Aufgabenstellung erfassen, Materialien bearbeiten     | ~10 Min. | 
-| Aufgabe ausprobieren     | ~15 Min. | 
-| Reflexion zu Integration in eigene Lehre / Ideen entwickeln     | ~15 Min. | 
-| Präsentation vorbereiten   | ~10 Min. | 
+| **Break-Out**: Aufgabe ausprobieren     | ~15 Min. | 
+| Plenumsphase     | ~10 Min. | 
+| **Break-Out**: Selbstlernmaterial; Reflexion/Diskussion Integration in eigene Lehre / Ideen entwickeln     | ~15 Min. | 
+| Kurzpräsentation vorbereiten   | ~5 Min. |
+| Plenumsphase   | ~10 Min. |  
 
 *********
 
 <div style="page-break-after: always;"></div>
 
-## Datendokumentation & Datenqualität 📝
+## ~~Aufgabe ausprobieren~~: Datendokumentation 📝
+
+> <img src="/images/kurzberichte.png" width="150" align="right">
+>
+>**Kleingruppenarbeit**
+>
+>Sie arbeiten in einem Verbundprojekt und erhalten einen Datensatz in Form einer Excel-Tabelle von einem Projektpartner.
+>
+>Bitte diskutieren Sie in Ihrer Gruppe:
+>
+>* Spekulieren Sie, um was für Daten es sich handeln könnte.
+>* Welche Informationen benötigen Sie, um mit diesem Datensatz arbeiten zu können?
+>* Was fällt Ihnen hinsichtlich der Datenqualität an diesem Datensatz auf?
+>* Welche Schritte wären erfoderlich, um diesen Datensatz für Ihre Arbeit berücksichtigen zu können?
+>
+>Notieren Sie die wichtigsten Punkte Ihrer Diskussionen auf dem Miro-Board:
+>https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
+>
+>Erarbeiten Sie eine Liste an Informationen, die in einer guten Datendokumentation enthalten sein sollten.
+>
+>Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
+
+<div style="page-break-after: always;"></div>
+
+### Bestandteile einer Datendokumentation
+
+**Eine gute Datendokumentation enthält Informationen zu:**
+
+* Kontext: Projekthistorie, Absicht/Zielsetzung, Hypothesen, ...
+* Methoden: Sampling, Umstände der Erhebung, technische Rahmenbedingungen, ...
+* Datenstrukturen, Beziehungen zwischen Objekten
+* Wertebereiche, Qualitätskriterien, Gültigkeit
+* Änderungen im Projektverlauf, Versionierung
+* Informationen zu Datenzugang und Nutzungsbedingungen
+* Informationen zu Kontaktmöglichkeiten
+
+---
+
+**Fokus Datenqualität**:
+
+* Erläuterung der verwendeten Terminologie, ggf. Definitionen/kontrollierten Vokabularen und Ontologien bzw. Thesauri
+* ggf. vordefinierte Wertebereiche, Format-Vorgaben (z.B. Datum YYYY-MM-DD)
+* Aussagekräftige Bezeichnungen von Spaltenköpfen (Sonderzeichen vermeiden)
+* Namen, Bezeichnungen für Variablen, Einheiten und ihre Werte dokumentieren
+* Erklärungen für Codes/Klassifikationsschemata
+* Kodierung fehlende Werte/Gründe für fehlende Werte
+* Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
+* Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
+
+<div style="page-break-after: always;"></div>
+
+## ~~Gruppenarbeit~~: Datendokumentation in der Lehre 📝
+
+> <img src="/images/kurzberichte.png" width="150" align="right">
+>
+>**Kleingruppenarbeit**
+>
+>Schauen Sie sich gemeinsam oder in Einzelarbeit kurz das folgende kurze [Selbstlernmaterial](#selbstlernabschnitt---datendokumentation-) an.
+>
+>Tauschen Sie sich dann in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Datendokumentation thematisiert werden könnte (oder bereits thematisiert wird).  
+>
+>Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Thema Datendokumentation.
+>
+>Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
+>
+>Bestimmen Sie eine Person, die Ihre Diskussion und Ihre Ideen im Plenum vorstellt. 
+
+<div style="page-break-after: always;"></div>
+
+## ~~Selbstlernabschnitt~~ - Datendokumentation 📝
 Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig. 
 
 Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden. 
@@ -1349,72 +1419,45 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
-### ~~Aufgabe~~: Datendokumentation
+## ~~Aufgabe ausprobieren~~: Nachnutzung ♻️
 
 > <img src="/images/kurzberichte.png" width="150" align="right">
 >
 >**Kleingruppenarbeit**
 >
->Sie arbeiten in einem Verbundprojekt und erhalten einen Datensatz in Form einer Excel-Tabelle von einem Projektpartner.
+>Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen. 
 >
->Bitte diskutieren Sie in Ihrer Gruppe:
+>Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen. 
 >
->* Spekulieren Sie, um was für Daten es sich handeln könnte.
->* Welche Informationen benötigen Sie, um mit diesem Datensatz arbeiten zu können?
->* Was fällt Ihnen hinsichtlich der Datenqualität an diesem Datensatz auf?
->* Welche Schritte wären erfoderlich, um diesen Datensatz für Ihre Arbeit berücksichtigen zu können?
+>Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl. 
 >
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen auf dem Miro-Board:
->https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
+>Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
 >
->Erarbeiten Sie eine Liste an Informationen, die in einer guten Datendokumentation enthalten sein sollten.
+>Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
 >
->Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
+>Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
+>
+>Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze. 
 
 <div style="page-break-after: always;"></div>
 
-### Bestandteile einer Datendokumentation
-
-**Eine gute Datendokumentation enthält Informationen zu:**
-
-* Kontext: Projekthistorie, Absicht/Zielsetzung, Hypothesen, ...
-* Methoden: Sampling, Umstände der Erhebung, technische Rahmenbedingungen, ...
-* Datenstrukturen, Beziehungen zwischen Objekten
-* Wertebereiche, Qualitätskriterien, Gültigkeit
-* Änderungen im Projektverlauf, Versionierung
-* Informationen zu Datenzugang und Nutzungsbedingungen
-* Informationen zu Kontaktmöglichkeiten
-
----
-
-**Fokus Datenqualität**:
-
-* Erläuterung der verwendeten Terminologie, ggf. Definitionen/kontrollierten Vokabularen und Ontologien bzw. Thesauri
-* ggf. vordefinierte Wertebereiche, Format-Vorgaben (z.B. Datum YYYY-MM-DD)
-* Aussagekräftige Bezeichnungen von Spaltenköpfen (Sonderzeichen vermeiden)
-* Namen, Bezeichnungen für Variablen, Einheiten und ihre Werte dokumentieren
-* Erklärungen für Codes/Klassifikationsschemata
-* Kodierung fehlende Werte/Gründe für fehlende Werte
-* Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
-* Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
-
-<div style="page-break-after: always;"></div>
-
-### ~~Gruppenarbeit~~: Reflexion Lehre
+## ~~Gruppenarbeit~~: Datennachnutzung in der Lehre ♻️
 
 > <img src="/images/kurzberichte.png" width="150" align="right">
 >
 >**Kleingruppenarbeit**
 >
->Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Datendokumentation thematisiert werden könnte (oder bereits thematisiert wird).  
+>Schauen Sie sich gemeinsam oder in Einzelarbeit kurz das folgende kurze [Selbstlernmaterial](#selbstlernabschnitt-nachnutzung-️) an.
 >
->Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zum Thema Datendokumentation.
+>Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
+>
+>Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Thema Nachnutzung von Forschungsdaten.
 >
 >Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
 
 <div style="page-break-after: always;"></div>
 
-## Nachnutzung von Forschungsdaten ♻️
+## Selbstlernabschnitt Nachnutzung ♻️
 
 Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit. 
 
@@ -1551,50 +1594,13 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 >2. Welches Problem ergibt sich, wenn die Abbildung der RUB im Rahmen eines Projektes verändert und in der veränderten Form unter der Lizenz CCBY veröffentlicht werden soll?  
 >
 > [[ ]] keins
-> [[x]] Es ist nicht möglich die veränderte Abbildung CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
+> [[x]] Eine Veröffentlichung unter CCBY ist nicht möglich, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
 > [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
-> [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
+> [[ ]] Die Abbildung darf nur unverändert verwendet werden.
 
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
-
-### ~~Aufgabe~~: Nachnutzung
-
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen. 
->
->Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen. 
->
->Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl. 
->
->Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
->
->Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
->
->Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
->
->Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze. 
-
-<div style="page-break-after: always;"></div>
-
-### ~~Gruppenarbeit~~: Reflexion Lehre
-
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
->
->Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zum Thema Nachnutzung.
->
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
-
-<div style="page-break-after: always;"></div>
-
 
 ## Datenmanagementpläne
 
@@ -2134,9 +2140,9 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 ![services](./images/cau-services.png)
 </div>
 
-website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
+website: https://www.fdm.uni-kiel.de/de
 
-e-mail: info@fdm.uni-kiel.de  
+e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 
 ***********
 
@@ -2204,9 +2210,15 @@ e-mail: info@fdm.uni-kiel.de
 
 * lokale Netzwerke an der CAU durch die [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
 
-* regionale Netzwerke durch [FDM-SH](https://fdm-sh.de/)
+* regionale Netzwerke durch [FDM-SH](https://fdm-sh.de/), insbesondere [AG Kompetenzentwicklung](https://fdm-sh.de/ags/)]
 
-* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen (e. g. NFDI, DINI/nestor AG Forschungsdaten, GoFAIR)
+* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen, e. g. 
+  
+  - [NFDI Sektion Training & Education](https://www.nfdi.de/section-edutrain/), 
+  
+  - [DINI/nestor AG Forschungsdaten UAG Schulungen/Fortbildungen](https://www.forschungsdaten.org/index.php/UAG_Schulungen/Fortbildungen), 
+  
+  - [GoFAIR](https://www.go-fair.org/))
 
 * Internationale Netzwerke: z.B. RDA
 ***********
