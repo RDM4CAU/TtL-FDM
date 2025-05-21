@@ -12,14 +12,14 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
+# Train-the-Lecturer Forschungsdatenmanagement
+
 <script input="button">
 alert("Disclaimer: Please note that you are leaving the CAU net once you open this presentation in your browser. This presentation includes links to other third party websites and services. These sites are not under our control. RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies. Please read third party privacy and security policies closely.")
 
 "Disclaimer"
 </script>
 
-
-# Train-the-Lecturer Forschungsdatenmanagement
 <center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
@@ -161,10 +161,10 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
 * ... erläutern können, welche Aspekte zum Themenkomplex FDM gehören.  
-* ... Grundprinzipien des FDM und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
+* ... Grundbegriffe des FDM benennen und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
 * ... Themenaspekte aus dem FDM identifizieren, die in die eigene Lehre integriert werden können.
-* ... erste Ansätze und Ideen zur Integration von FDM-Aspekten in die eigene Lehre entwickeln.
-* ... über Ansätze zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutiert haben.
+* ... erste Ideen zur Integration von FDM-Aspekten in die eigene Lehre entwickeln.
+* ... über Ideen zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutiert haben.
 * ... auch ein bisschen Spaß hatten.
 
 <div style="page-break-after: always;"></div>
@@ -193,8 +193,8 @@ Unsere Agenda für heute
 - Ankommen: Workshop Regeln, Warm-up, Erwartungen, Ziele und Limitationen
 - Allgemeine didaktische Hinweise
 - Überblick über das Themenspektrum FDM
-- Nähere Betrachtung von ausgewählten Themenaspekten
-- Übungen ausprobieren und eigene Ideen/Übungen/Aufgabenstellungen entwickeln
+- Betrachtung ausgewählter Themenaspekte
+- Ausprobieren und eigene Ideen/Übungen/Aufgabenstellungen entwickeln
 - FDM an der CAU
 - Offene Fragen/Wünsche
 - Feedback
@@ -1548,10 +1548,10 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 {{2}}
 ********************************************************************************
 
->2. Welches Problem ergibt sich, wenn die Abbildung der RUB in einer Präsentation verwendet wird, die CCBY veröffentlicht werden soll?  
+>2. Welches Problem ergibt sich, wenn die Abbildung der RUB im Rahmen eines Projektes verändert und in der veränderten Form unter der Lizenz CCBY veröffentlicht werden soll?  
 >
 > [[ ]] keins
-> [[x]] Es ist nicht möglich die Präsentation CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
+> [[x]] Es ist nicht möglich die veränderte Abbildung CCBY zu veröffentlichen, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
 > [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
 > [[ ]] Die Urheber der unter CCBYSA veröffentlichten Abbildung müssen vor Veröffentlichung der Präsentation informiert werden.
 
