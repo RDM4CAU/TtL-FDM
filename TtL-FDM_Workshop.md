@@ -1,7 +1,7 @@
 <!--
 
 author:   Britta Petersen, Linda Zollitsch
-email:    b.petersen@rz.uni-kiel.de
+email:    
 version:  0.1.0
 language: de
 narrator: UK English Female
@@ -279,7 +279,7 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
                    \                       \          /                  /
                .----------------.        +-----------------+       .--------------.
       time-----| administrativ  |--------| course planning |-------|  technical   |--- support
-               | aspects ⏳      |        +-----------------+       |  aspects     |
+               | aspects ⏳     |        +-----------------+       |  aspects     |
                '----------------'                |                 '--------------'
                  /        |                      |                         \
   learning location     formal                   |                          \
@@ -306,7 +306,7 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
 .----------------------------------------------------------------------.
 | Teaching unit                                                        |
 | +----------------.  .--------------------------.  .----------------+ |
-| | Entry      📖  |  | Working phase        👩‍💻  |  | Closing    🏁  | |
+| | Entry      📖  |  | Working phase       👩‍💻  |  | Closing    🏁  | |
 | |----------------|  |--------------------------|  |--------------- | |
 | | identify       |  | stimulate                |  | summarize      | |
 | | activate       |  | support                  |  | confirm        | |
