@@ -454,7 +454,7 @@ Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und w
 <!-- style="width: 100%;background-color:lightblue;"-->
 > | muss | sollte | könnte |
 > | ------------------------------ | -------- | -------- |
-> | Absolut notwendig, um <br> das Thema zu verstehen. | Es wäre sinnvoll <br>, diese Aspekte anzusprechen. | Wenn genügend Zeit zur Verfügung steht, wäre es schön, diese Aspekte zu behandeln. |
+> | Absolut notwendig, um <br> das Thema zu verstehen. | Es wäre sinnvoll, <br> diese Aspekte anzusprechen. | Wenn genügend Zeit zur Verfügung steht, wäre es schön, diese Aspekte zu behandeln. |
 > | ... | ... | ... |
 
 <!-- markdownlint-restore -->
@@ -635,7 +635,7 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 ---
 
-Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
+Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
 
 Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 
@@ -1226,7 +1226,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >2. die zu verwendenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
 >3. Vorgaben für  ggf. zu verwendende Abkürzungen.  
 >
->Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
+>Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764598772120838&cot=10.
 
 <div style="page-break-after: always;"></div>
 
@@ -1280,7 +1280,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >* Welche Schritte wären erfoderlich, um diesen Datensatz für Ihre Arbeit berücksichtigen zu können?
 >
 >Notieren Sie die wichtigsten Punkte Ihrer Diskussionen auf dem Miro-Board:
->https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
+>https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019033&cot=14
 >
 >Erarbeiten Sie eine Liste an Informationen, die in einer guten Datendokumentation enthalten sein sollten.
 >
