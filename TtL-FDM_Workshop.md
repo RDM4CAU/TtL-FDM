@@ -306,7 +306,7 @@ Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlic
 .----------------------------------------------------------------------.
 | Teaching unit                                                        |
 | +----------------.  .--------------------------.  .----------------+ |
-| | Entry      📖  |  | Working phase       👩‍💻  |  | Closing    🏁  | |
+| | Entry      📖  |  | Working phase        👩‍💻  |  | Closing    🏁  | |
 | |----------------|  |--------------------------|  |--------------- | |
 | | identify       |  | stimulate                |  | summarize      | |
 | | activate       |  | support                  |  | confirm        | |
