@@ -396,27 +396,6 @@ Der Themenbereich Forschungsdatenmanagement ist komplex.
 Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 
-## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
-
-<img src="/images/kurzberichte.png" width="150" align="right">
-
->**Kleingruppenarbeit in Break-Outs:**
->
->* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
->
->* Überfliegen Sie gemeinsam die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
->
->  * Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
->  * Sind Aspekte aufgeführt, die Sie nicht erwartet hätten?
->  * Fehlen Ihnen bestimmte Aspekte?
->  * Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
->
->* Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
->
->* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
-
-<div style="page-break-after: always;"></div>
-
 ## Begriffsdefinition Forschungsdatenmanagement
 
 {{1}}
@@ -1972,3 +1951,26 @@ https://www.nfdi.de/
 https://opendata.uni-kiel.de/content/index.xml 
 
 https://opendata.schleswig-holstein.de/dataset 
+
+
+
+## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
+
+<img src="/images/kurzberichte.png" width="150" align="right">
+
+>**Kleingruppenarbeit in Break-Outs:**
+>
+>* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
+>
+>* Überfliegen Sie gemeinsam die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
+>
+>  * Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
+>  * Sind Aspekte aufgeführt, die Sie nicht erwartet hätten?
+>  * Fehlen Ihnen bestimmte Aspekte?
+>  * Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
+>
+>* Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
+>
+>* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
+
+<div style="page-break-after: always;"></div>
