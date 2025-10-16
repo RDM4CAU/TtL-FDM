@@ -704,7 +704,48 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 # GWP & Open Science
 
-to do.
+## Gute Wissenschaftliche Praxis
+
+{{0-2}}
+********************************************************************************
+>"***Gute Wissenschaftliche Praxis*** oder ***Wissenschaftliche Integrität*** bildet die Grundlage einer vertrauenswürdigen Wissenschaft. Sie ist eine Ausprägung **wissenschaftlicher Selbstverpflichtung**, die den **respektvollen Umgang** miteinander, mit Studienteilnehmerinnen und -teilnehmern, Tieren, Kulturgütern und der Umwelt umfasst und das unerlässliche **Vertrauen der Gesellschaft in Wissenschaft** stärkt und fördert. (...) Die Wissenschaft selbst gewährleistet durch **redliches Denken** und **Handeln**, nicht zuletzt auch durch **organisations- und verfahrensrechtliche Regelungen**, gute wissenschaftliche Praxis."
+>
+> [*Leitlinien zur Sicherung guter wissenschaftlicher Praxis, DFG 2019*](https://zenodo.org/records/14281892), [*Verfahrensordnung zum Umgang mit wissenschaftlichem Fehlverhalten (VerfOwF), DFG 2024*](https://www.dfg.de/resource/blob/168578/caf3d827f4a743b6d23d14b79c90bfc6/dfg-80-01-v0819-de-data.pdf)
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+>***Gute wissenschaftliche Praxis (GWP)*** umfasst die grundlegenden **Werte** und **Normen** des professionellen wissenschaftlichen Arbeitens. Diese Grundsätze, wie beispielsweise die Wahrung von **Ehrlichkeit** & **Transparenz**, sind dabei zunächst einmal unabhängig von der Fachrichtung. Alle Wissenschaftler:innen tragen dabei die Verantwortung dafür, dass das eigene Verhalten diesen Standards entspricht.
+>
+>*(Saskia Kaiser, Jennifer Schlüß, 2025: "Einführung in die gute wissenschaftliche Praxis")*
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+Gute Wissenschaftliche Praxis...
+---
+
+> ...betrifft:
+>
+> * redliches Denken und Handeln Einzelner sowie
+> * organisations- und verfahrensrechtliche Regelungen
+
+> ...sorgt für:
+>
+> * Vertrauenswürdigkeit der Wissenschaft
+>
+> * Vertrauen der Gesellschaft in Wissenschaft
+
+> ...verlangt die Selbstverpflichtung zu respektvollem Umgang mit:
+>
+> * Studienteilnehmer:innen
+> * Tieren
+> * Kulturgütern und Umwelt
+
+********************************************************************************
 
 ## Publikation
 Wie können Sie Daten veröffentlichen und weitergeben werden?
