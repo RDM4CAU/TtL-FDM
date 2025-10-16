@@ -747,6 +747,101 @@ Gute Wissenschaftliche Praxis...
 
 ********************************************************************************
 
+## Was bedeutet Open Science?
+
+{{1-3}}
+********************************************************************************
+Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+![Bild](/UNESCO_OS.jpg) 
+
+(CC-BY 4.0, UNESCO)
+
+********************************************************************************
+
+{{3-4}}
+********************************************************************************
+
+>**Was:** Unter dem Begriff Open Science versteht man Strategien und Verfahren, die darauf abzielen, alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen.
+>
+>**Wieso:** Um Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen zu eröffnen.
+>
+>**Ziel:** Die Qualität der Forschung verbessern und die Forschungsförderung effizienter einsetzen. Open Science ist damit ein wichtiger Baustein, um gute wissenschaftliche Praxis zu sichern. Darüber hinaus soll der Wissenstransfer in Gesellschaft, Wirtschaft und Politik durch Offenheit und Transparenz verbessert werden.
+>
+>Open Science basiert auf vier Grundprinzipien:
+>
+>* <p style="color:#9a047f">Transparenz</p>
+>
+>* <p style="color:#9a047f">Reproduzierbarkeit</p>
+>
+>* <p style="color:#9a047f">Wiederverwendbarkeit</p>
+>
+>* <p style="color:#9a047f">Offene Kommunikation</p>
+>
+>(https://ag-openscience.de/open-science/)
+
+
+********************************************************************************
+
+{{4}}
+********************************************************************************
+
+"Ein zentrales Element von Open Science ist die Forderung nach Offenheit der digitalen Forschung und Lehre. Das bedeutet, dass Forschungsergebnisse, Forschungsdaten, Forschungsmethoden und -verfahren sowie Lehr- und Lerninhalte, Software und Werkzeuge kostenlos zur Verfügung stehen und nachgenutzt werden können"
+
+(Kunst, Sabine & Degkwitz, Andreas. (2019). Open Science - the new paradigm for research and education?. 10.18452/19871.)
+
+********************************************************************************
+
+## Open Science
+
+
+{{1-3}}
+********************************************************************************
+![ECoC](/ecoc_2023.png)
+(ALLEA (2023): The European Code of Conduct for Research Integrity)
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+![example](/ecoc_1.png)
+
+![example](/ecoc_2.png)
+(ALLEA (2023), S. 7)
+
+********************************************************************************
+
+{{3-4}}
+********************************************************************************
+Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
+
+![example](/DFG.png)
+
+********************************************************************************
+
+
+{{4-5}}
+********************************************************************************
+Leitlinien zur Förderung von Open Access an der CAU
+
+![example](/Leitlinie_OA_CAU.png)
+
+********************************************************************************
+
+{{5}}
+********************************************************************************
+Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 01.06.2022)
+
+![example](/Richtlinien_GWP_CAU.png)
+
+
+********************************************************************************
+
+
 ## Publikation
 Wie können Sie Daten veröffentlichen und weitergeben werden?
 ----
