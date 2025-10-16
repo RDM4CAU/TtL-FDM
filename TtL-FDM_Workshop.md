@@ -205,18 +205,43 @@ Unsere Agenda für heute
 
 <div style="page-break-after: always;"></div>
 
-# Einstieg
-![Bild](/images/FragezeichenTyp.jpg) <!-- width="80px" align="right" -->
+# Einstieg & Orientierung
 
-> **Gruppenarbeit**: 
+<!---
+Orientierung im Themenbereich FDM, Grundbegriffe im FDM
+
+Lernziele (LZM-FDM):
+Lernende können	den Begriff Forschungsdaten	erläutern.(LZ-ID: 01_001_0007)
+
+Lernende können	Beispiele für Forschungsdaten	benennen. (LZ-ID: 01_001_0008)
+
+Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
+
+--->
+
+<img src="images/FragezeichenTyp.jpg" width="150" align="right">
+
+Der Themenbereich Forschungsdatenmanagement ist komplex.
+
+Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
+
+## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
+
+<img src="/images/kurzberichte.png" width="150" align="right">
+
+>**Kleingruppenarbeit in Break-Outs:**
 >
->Stellen Sie sich einander vor und berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind. 
+>* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
 >
->Tauschen Sie sich darüber aus, warum Sie heute hier sind.
+>Überfliegen Sie die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
 >
->Was spricht aus Ihrer Sicht für die Vermittlung von Kenntnissen und Fähigkeiten im Bereich FDM an Studierende?
+>* Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
+>* Sind Aspekte aufgeführt, die Sie nicht erwartet hätten oder fehlen Ihnen bestimmte Aspekte?
+>* Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
+
+>Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
 >
->Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
+>* Bestimmen Sie eine Person, die Sie und Ihre Diskussion im Plenum kurz vorstellt.
 
 <div style="page-break-after: always;"></div>
 
@@ -342,262 +367,11 @@ Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich se
 
   - helfen bei der Feinplanung der Veranstaltung
   - helfen, während einer Veranstaltungsdurchführung organisiert zu bleiben
+  - dokumentieren die Veranstaltungen
 
 - **Vorhandenes Unterrichtsmaterial**
 
-  - offen lizensiert und nachnutzbar aufbereitetes Lehr-/Lernmaterial (OER) 
-
-<div style="page-break-after: always;"></div>
-
-### Checklist
-
-Checklisten können helfen, sich auf eine Lehrveranstaltung vorzubereiten. 
-
-```markdown
-# Checklist: Planning a workshop
-
-## People involved
-- Who is responsible and who else is involved (e.g. aditional technical support)?
-
-## Who is the audience?
-- Who is your audience?
-- Prior knowledge and experiences?
-- What motivates people to participate?
-- Any special needs to be considered?
-- ...
-
-## What is the topic?
-- What is the core topic of your workshop?
-- How can you break down a complex topic into manageable learning bites?
-
-## Learning objectives
-Define clear, comprehensible and achievable goals.
-
-- What knowledge and what skills should participants have acquired at the end of the workshop?
-
-## Time
-- How much time do you have?
-
-## Formal requirements
-- Are there any formalties to consider?
-
-## Type of implementation
-- Do you conduct your workshop as face-to-face event, online, hybrid or blended?
-
-- [ ] face-to-face
-- [ ] online
-- [ ] hybrid
-- [ ] blended
-
-## Required material
-- List the required material (e.g. handouts, presentation, videos, paper and markers)
-
-## Technical aspects
-- What technical aspects do you need to take into account for preparation and implementation of your workshop?
-- What kind of OS and softwares will you be working with?
-- Is it necessary to prepare the devices used (e.g. installation of programs)?
-- Any preparations with regard to authorization and authentication for certain systems necessary?
-
-## Methods and social forms
-- What kind of teaching methods do you plan to use?
-- In which social forms will participants work?
-
-## Assessment
-- Do you plan an assessment?
-- Which form of assessment do you plan?
-
-## Feedback/Evaluation
-- How do you plan to collect feedback?
-- Will you use tools to evaluate?
-```
-
-<div style="page-break-after: always;"></div>
-
-### Ablaufpläne
-Ablaufpläne helfen dabei, eine Veranstaltung Schritt für Schritt zu planen.
-
-Ablaufpläne helfen dabei...
-
-- das Zeitlimit einzuhalten
-- einen Überblick über die kommenden Schritte zu haben
-- die benötigten Materialien (z.B. über Links) zum richtigen Zeitpunkt zur Hand zu haben
-- Rollen zuzuweisen (Teamteaching)
-- die Veranstaltung an jemanden abgeben zu können
-- ...
-
-> Ein Beispiel könnte so aussehen:
->
-> <img src="/images/Planungsraster.png">
-
-Ein runterladbares Beispiel finden Sie hier: [Ablaufplan: Introduction to Git&GitLab](https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/tree/main/course_materials?ref_type=heads)
-
-<div style="page-break-after: always;"></div>
-
-## Die Frage nach dem Wie?
-
-### Prioritäten setzen
-
-> **Zeit ist immer ein limitierender Faktor! **
->
-> Wir müssen entscheiden, was wirklich nötig ist, um Lernziele in einer bestimmten Zeit zu erreichen, d.h. wir müssen
->
-> - Prioritäten setzen
-> - das Wesentliche aus den zu vermittelnden Inhalten herausfiltern.
-
-Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und weniger wichtige Inhalte zu erhalten
----
-
-<!-- markdownlint-capture -->
-
-<!-- markdownlint-disable MD033 -->
-
-<!-- style="width: 100%;background-color:lightblue;"-->
-> | muss | sollte | könnte |
-> | ------------------------------ | -------- | -------- |
-> | Absolut notwendig, um <br> das Thema zu verstehen. | Es wäre sinnvoll, <br> diese Aspekte anzusprechen. | Wenn genügend Zeit zur Verfügung steht, wäre es schön, diese Aspekte zu behandeln. |
-> | ... | ... | ... |
-
-<!-- markdownlint-restore -->
-
-<div style="page-break-after: always;"></div>
-
-### Motivation
-
-{{0-4}}
-********************************************************************************
-
-**Nach der Selbstbestimmungstheorie von Deci & Ryan (2008) wird die Motivation der Lernenden durch die Erfüllung bestimmter Bedürfnisse bestimmt:**
-
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
-<!-- style="width: 80%;background-color: palegrey;"-->
-``` ascii
-                 +----------+
-                / feeling of \
-      +--------+  competency  +---------+
-     / feeling  \            /  social   \
-    +of autonomy +----------+ integration +
-     \          /            \           /
-      '--------+  MOTIVATION  +---------'
-                \            /
-                 '----------'
-```
-
-********************************************************************************
-
-{{2}}
-********************************************************************************
-<!-- style="width: 80%;background-color: palegrey;"-->
-``` ascii
-                       .-------------------.
-                       | achievable goals  |
-                       '-------------------'
- .-------------------.            |             .----------------------------.
- | transparent goals |       +----------+       |good atmosphere, activities |
- '-------------------'      /            \      '----------------------------'
-             \    +--------+  competence  +---------+    /
-              \  /          \            / social    \  /
-                +  autonomy  +----------+ integration +
-                 \          /            \           /
-                  '--------+  MOTIVATION  +---------'
-                            \            /
-                             '----------'
-```
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
->**Was denken Sie? Welche Maßnahmen können die Motivation der Lernenden steigern? Wie können wir als Lehrende auf die Bedürfnisse der Lernenden eingehen?**
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-### Aktivierung
-
-{{0-1}}
-********************************************************************************
-
-<!-- style="width: 70%;background-color: lightblue;"-->
-``` ascii
- .-------------------------------------------------------------.
- | Level of activation during lessons                          |
- |-------------------------------------------------------------|
- |                                                             |  
- | .---------------.                                           |
- | |  interactive  |-> collaborative and creating processes    |
- | '-------+-------'                                           |
- |        |                                                    |
- |        |  more learning-friendly than                       |
- |        V                                                    |
- |.-------+-------.                                            |
- || collaborative |-> generate output, contribute own ideas    |
- |'-------+-------'                                            |
- |        |                                                    |
- |        |  more learning-friendly than                       |
- |        V                                                    |
- |.-------+-------.                                            |
- ||     active    |-> to do something, to be actively involved |
- |'---------------'                                            |
- |        |                                                    |
- |        |  more learning-friendly than                       |
- |        V                                                    |
- |.-------+-------.                                            |
- ||    passive    |-> listening                                |
- |'---------------'                                            |
- '-------------------------------------------------------------'
-```
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-{{1-2}}
-********************************************************************************
-
-Verschiedene Aktivierungsmethoden und eine Variation von Sozial- und Arbeitsformen einbeziehen
----
-
-- Sie haben einen positiven Effekt auf das Lernen
-- Sie verlagern die Aktivität vom Trainer auf die Lernenden
-- Verschiedene Methoden sprechen unterschiedliche Lerntypen an
-- Verschiedene Sozialformen sprechen unterschiedliche Lerntypen an
-- Unterschiedliche Methoden erfordern einen unterschiedlichen Zeitaufwand
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-
-Kriterien für die Auswahl einer Methode
----
-
-- Thema
-- Größe der Gruppe
-- Energie der Gruppe
-- Verfügbare Zeit
-- Persönlicher Unterrichtsstil
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
-Verschiedene Universitäten bieten Sammlungen von Methoden für die Lehre an.
----
-
-Eine kleine Auswahl haben wir Ihnen mitgebracht:
-
-- [Methodensammlung der CAU Kiel](https://einfachgutelehre.uni-kiel.de/methoden)
-
-- [Methodensammlung Universität Konstanz](https://www.uni-konstanz.de/asd/infopool/toolbox-lehre/methodensammlung/)
-
-- [Methodensammlung HS Fulda](https://www.hs-fulda.de/unsere-hochschule/a-z-alle-institutionen/dienstleistungen-lehre-und-studium/fuer-lehrende/hochschuldidaktik/methodenkoffer)
-
-********************************************************************************
+  - offen lizensiert und nachnutzbar aufbereitetes Lehr-/Lernmaterial (OER)
 
 <div style="page-break-after: always;"></div>
 
@@ -615,6 +389,8 @@ Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
 
 --->
 
+<img src="/images/FragezeichenTyp.jpg" width="150" align="right">
+
 Der Themenbereich Forschungsdatenmanagement ist komplex. 
 
 Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
@@ -624,23 +400,20 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 <img src="/images/kurzberichte.png" width="150" align="right">
 
-**Kleingruppenarbeit in Break-Outs:**
----
-Überfliegen Sie die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
-
-* Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
-* Sind Aspekte aufgeführt, die Sie nicht erwartet hätten?
-* Fehlen Ihnen bestimmte Aspekte?
-* Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
-
----
-
-Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
-
-Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
-
-Sie haben ~10 Minuten Zeit.
----
+>**Kleingruppenarbeit in Break-Outs:**
+>
+>* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
+>
+>* Überfliegen Sie gemeinsam die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
+>
+>  * Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
+>  * Sind Aspekte aufgeführt, die Sie nicht erwartet hätten?
+>  * Fehlen Ihnen bestimmte Aspekte?
+>  * Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
+>
+>* Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
+>
+>* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 
 <div style="page-break-after: always;"></div>
 
@@ -708,7 +481,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ## Forschungsdatenlebenszyklus
 <!---
-Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005_0079)
+Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005_0079)
 --->
 
 <img src="/images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
@@ -795,7 +568,6 @@ Lernende können	die FAIR-Prinzipien	benennen. (LZ-ID: 01_007_0117)
 Lernende können	die FAIR-Prinzipien	erläutern. LZ-ID: 01_007_0118)
 --->
 
-
 <img src="/images/fair2.jpg" width="250" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
 
 Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
@@ -875,12 +647,313 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
+## Datenmanagementpläne
+
+{{0-1}}
+**********
+
+>**Datenmanagementpläne beinhalten …**
+>
+> - … alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojekts hinreichend beschreiben und dokumentieren.
+>
+> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung“^1^
+>
+><small>^1^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
+
+*********
+{{1-2}}
+**********
+
+>Der Datenmanagementplan dokumentiert die (geplante) Erhebung, Speicherung, Dokumentation, Pflege, Verarbeitung, Weitergabe, Veröffentlichung und Aufbewahrung der Daten, ebenso wie die erforderlichen Ressourcen, rechtlichen Randbedingungen und verantwortlichen Personen. Somit trägt ein DMP zur Qualität, langfristigen Nutzbarkeit und Sicherheit der Daten bei und unterstützt zum Beispiel bei der Umsetzung der FAIR-Prinzipien.^2^ 
+>
+><small>^2^ [Forschungsdaten.info](https://forschungsdaten.info/praxis-kompakt/glossar/#c269828)</small>
+
+*********
+
+<div style="page-break-after: always;"></div>
+
+### Bestandteile eines DMP
+
+>**Ein DMP sollte Informationen zu...**
+>
+> - Administration (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+>
+> - Projekt- und Datensatzbeschreibung
+>
+> - Datentypen, -formate, -umfang
+>
+> - Angaben zu Metadaten und Standards
+>
+> - Datenaustausch und -zugang
+>
+> - Archivierung und Sicherung der Daten
+>
+> - Verantwortlichkeiten und Rechtliche Aspekte
+>
+> - Kosten
+>
+>**beeinhalten.**
+>
+>**--> Der Umfang kann zwischen wenigen Absätzen und mehreren Seiten variieren!**
+
+<div style="page-break-after: always;"></div>
+
+### Anforderungen der Förderorganisationen
+
+| Förderorganisation | Forderung                              | Abgabe bei Antrag                            | Inhalt                  | Bericht          |
+| ------------------ | -------------------------------------- | -------------------------------------------- | ----------------------- | ---------------- |
+| DFG                | Angaben zum Umgang mit Forschungsdaten | als integraler Bestandteil des Antragstextes | DFG-Checkliste          | Projektende      |
+| BMBF               | Plan erforderlich je nach Förderlinie  | ja, wenn erforderlich                        | programmabhängig        | programmabhängig |
+| EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
+| VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template“    | living document  | 
+
+=> Während die Templates der nationalen Förderer sich eher am Datenmanagementzyklus orgientieren, orientiert sich das Template der EU an den FAIR-Prinzipien.
+
+<div style="page-break-after: always;"></div>
+
+### DMP templates & tools
+
+>- Wir führen regelmäßig Workshops zur Erstellung von DMPs an der WissWB durch.
+>
+> Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.datamanagement.uni-kiel.de/de/service/materialien
+>
+>- Weiterführende Informationen sowie eine Liste an **DMP-Tools** stellt [**forschungsdaten.info**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/) zur Verfügung.
+>
+>- Eine voll funktionsfähige Demoversion von RDMO erreichen Sie hier: https://rdmo.aip.de/ 
+
+<div style="page-break-after: always;"></div>
+
+# GWP & Open Science
+
+to do.
+
+## Publikation
+Wie können Sie Daten veröffentlichen und weitergeben werden?
+----
+
+{{1}}
+********************
+> Ergänzung zu einem von peer-review Artikel („enhanced publication“)
+********************
+
+{{2-3}}
+****************
+- als Ergänzung zu dem zugehörigen Artikel
+- als alleinstehenden Datensatz in einem Repository mit einem Link zum entsprechenden Artikel.
+
+<div style="width:100%;">
+  <img src="images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+</div>
+
+**********************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+********************
+> Unabhängiges Informationsobjekt in einem Repositorium
+********************
+
+{{3-4}}
+********************
+
+* disziplinspezifische Repositorien, z.B. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
+
+* fächerübergreifende Repositorien, z. B. [ZENODO](https://zenodo.org/)
+
+* institutionelle Repositorien, z. B. [Refubium](https://www.fu-berlin.de/sites/open_access/refubium/index.html), [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml)
+
+Beispiel:
+
+<div style="float:left; width:45%;">
+<img src="images/Example_Pangaea.jpg" alt="Example Pangea">
+<sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
+
+</div>
+
+<div style="float:right; width:45%;">
+
+<div style="width:100%;">
+  <img src="images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
+</div>
+
+</div>
+
+*********************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+********************
+> Data journals
+
+********************
+
+{{4-5}}
+***************************
+
+- detaillierte Beschreibung von Forschungsdaten
+
+- teilweise peer-reviewed
+
+Beispiel:
+
+<div style="float:left; width:45%;">
+<img src="images/example-datainbrief.png" alt="Example Data journal">
+<sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
+
+</div>
+
+<div style="float:right; width:45%;">
+
+<div style="width:100%;">
+  <img src="images/example-datainbrief.png" alt="Example Data journal">
+  <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
+</div>
+
+</div>
+
+***************************
+
+<div style="page-break-after: always;"></div>
+
+#### Open Data at Kiel University
+
+>**Information und services @Kiel University:**
+>
+>* Es gibt keine Richtlinien zur Förderung von Open Data an der CAU :-(
+>* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) stellt Informationen, Hilfe und Dienstleistungen bereit
+>* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) ist das Open Data Repository der CAU
+
+>Veröffentlichen üben:
+>
+>https://datenrepositorium00.rz.uni-kiel.de 
+>
+>Dies ist ein dauerhaftes Testsystem mit dem ein Publikationsprozess gefahrlos durchgespielt werden kann.
+>
+>Nur innerhalb des CAU Netzes zu erreichen!
+
+### Textpublikation
+
+#### Open Access at Kiel University
+
+>**Information und services @Kiel University:**
+>
+>* [Richtlinien zur Förderung von Open Access an der CAU](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
+>* [Universitätsbibliothek](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
+>   * [Finanzierung von OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
+>* [MACAU ist das Open Access Repository der CAU](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
+
+<div style="page-break-after: always;"></div>
+
+
+### Repositorien
+{{0-2}}
+**Was ist ein Repositorium?**
+
+{{1-2}}
+****************
+>*"Ein Repositorium (lateinisch repositorium, ‚Lagerhaus‘) ist ein verwalteter Ort zur Aufbewahrung geordneter Dokumente, die der Öffentlichkeit oder einem begrenzten Benutzerkreis zugänglich sind. Ein Archiv (lat. archivum, 'Aktenschrank') hingegen verwaltet nur historische Dokumente. „*
+>>*"Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten...möglichst dauerhaft speichern und organisieren...um die Auffindbarkeit und Zugänglichkeit der Daten zu gewährleisten... “*
+>
+>^Quelle: Esther Asef, Katarzyna Biernacka, Elisabeth Böker,Sarah Ann Danker, Juliane Jacob, Janna Neumann, Britta Petersen, Jessica Rex und Ute Trautwein-Bruns (2021): Data Sharing interaktiv vermitteln^
+************************
+
+<div style="page-break-after: always;"></div>
+
+{{2-5}}
+**Wie das passende Repositorium finden?**
+
+{{3-4}}
+***************
+
+<div style="float:left; width:45%;">
+
+**re3data.org**
+
+- Sammlung von Repositorien
+- Weltweit
+- Verschiedene Disziplinen
+- Forscher, Förderer, Verlage und Institutionen
+
+</div>
+
+<div style="float:right; width:45%;">
+<img src="../Intro-to-RDM/images/re3data.jpg" alt="re3data">
+<sub>Source: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021</sub>
+</div>
+
+***************
+
+
+<div style="page-break-after: always;"></div>
+
+{{4-5}}
+*************
+
+<div style="float:left; width:45%;">
+
+**risources.dfg.de**
+
+- Angebot der DFG
+- Informationsportal
+- Deutschlandweit
+- Forschungsinfrastrukturen
+
+</div>
+
+<div style="float:right; width:45%;">
+<img src="../Intro-to-RDM/images/RIsourcesDFG.jpg" alt="re3data">
+<sub>Source: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021</sub>
+</div>
+
+************
+
+<div style="page-break-after: always;"></div>
+
+## Dateiformate
+
+**Mit welchen Dateinformaten arbeiten Sie?**
+
+<iframe src="https://answergarden.ch/embed/3189718" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
+
+{{2}}
+********************************************************************************
+
+**Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
+
+<img src="/images/formate.png">
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+### ~~Beispiel~~: CSV vs XLSX
+
+Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber z. B. XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
+
+1. Öffenen Sie ein Tabellenkalkulationsprogramm, z. B. Excel
+2. Erstellen Sie eine neue Datei
+3. Geben Sie A, B, C in die Zellen A1 bis C1 ein
+4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
+5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
+6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
+7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
+8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
+9. Was passiert, wenn Sie die Datei jetzt in Ihrem Tabellenkalulationsprogramm öffnen?
+10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
+
+-> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
+
+<div style="page-break-after: always;"></div>
+
 # Erste Schritte im FDM
 
-Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
+Wir werden uns eine kleine Auswahl an Themenaspekten etwas näher anschauen:
 
 * Dateibenennung & Versionierung
-* Dokumentation von Forschungsdaten 
+* Dokumentation & Qualität von Forschungsdaten
 * Nachnutzung von Forschungsdaten
 
 <div style="page-break-after: always;"></div>
@@ -1230,41 +1303,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
-# Gruppenarbeiten
-
-{{0-1}}
-*********
-<img src="/images/kurzberichte.png" width="150" align="right">
-
->**Wir gehen nochmal in Gruppenarbeiten**.
->
->Wir schauen uns folgende Themen an
->
->- **Dokumentation**
->
->- **Nachnutzung**
-
-
-*********
-
-{{1}}
-*********
-
-**Ablauf:**
-
-| Schritte |   Zeit   |
-| -------- |----------|
-| **Break-Out**: Aufgabe ausprobieren     | ~15 Min. | 
-| Plenumsphase     | ~10 Min. | 
-| **Break-Out**: Selbstlernmaterial; Reflexion/Diskussion Integration in eigene Lehre / Ideen entwickeln     | ~15 Min. | 
-| Kurzpräsentation vorbereiten   | ~5 Min. |
-| Plenumsphase   | ~10 Min. |  
-
-*********
-
-<div style="page-break-after: always;"></div>
-
-## ~~Aufgabe ausprobieren~~: Datendokumentation 📝
+## Datendokumentation 📝
 
 > <img src="/images/kurzberichte.png" width="150" align="right">
 >
@@ -1315,28 +1354,28 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
-## ~~Gruppenarbeit~~: Datendokumentation in der Lehre 📝
+## Datenqualität
+Zentrale Dimensionen der Datenqualität
 
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Schauen Sie sich gemeinsam oder in Einzelarbeit kurz das folgende kurze [Selbstlernmaterial](#selbstlernabschnitt---datendokumentation-) an.
->
->Tauschen Sie sich dann in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Datendokumentation thematisiert werden könnte (oder bereits thematisiert wird).  
->
->Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Thema Datendokumentation.
->
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
->
->Bestimmen Sie eine Person, die Ihre Diskussion und Ihre Ideen im Plenum vorstellt. 
+* Genauigkeit / Validität – stimmen die Daten mit der Realität überein?
 
-<div style="page-break-after: always;"></div>
+* Vollständigkeit – fehlen relevante Werte oder Metadaten?
+
+* Konsistenz – sind Formate, Schreibweisen und Einheiten einheitlich?
+
+* Nachvollziehbarkeit – lässt sich der Ursprung (Provenienz) rekonstruieren?
+
+* Dokumentation – sind Variablen, Methoden und Änderungen dokumentiert?
+
+* Wiederverwendbarkeit – ist klar, unter welchen Bedingungen andere sie nutzen können?
+
+=> Datenqualität ist kein technischer Nebenaspekt, sondern Teil guter wissenschaftlicher Praxis und sollte sichtbar in der Lehre verankert werden.
+
 
 ## ~~Selbstlernabschnitt~~ - Datendokumentation 📝
-Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig. 
+Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
 
-Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden. 
+Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
 
 Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
 
@@ -1363,7 +1402,7 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 <div style="page-break-after: always;"></div>
 
 ### Dokumentation & GWP
-**Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!** 
+**Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!**
 
 ><p style="color:#9a047f">*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*</p>
 >
@@ -1393,7 +1432,7 @@ Daten können auf verschiedene Weise dokumentiert werden. Dabei muss ggf. für j
 
 Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/) zählt unterschiedliche Formate für eine Dokumentation auf.
 
->**Welche der folgenden Formate werden als mögliche Dokumentationsformen in dem Artikel genannt?** 
+>**Welche der folgenden Formate werden als mögliche Dokumentationsformen in dem Artikel genannt?**
 >
 >[[x]] ReadMe-Datei
 >[[ ]] College-Block, kariert
@@ -1412,7 +1451,6 @@ https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
 <img src="images/datendoku_readme-beispiel.png">
 
-
 Beispiele für Data Dictionary und Codebook
 
 <img src="images/datendoku_dictionary-codebook.png">
@@ -1425,11 +1463,11 @@ Beispiele für Data Dictionary und Codebook
 >
 >**Kleingruppenarbeit**
 >
->Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen. 
+>Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen.
 >
->Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen. 
+>Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen.
 >
->Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl. 
+>Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl.
 >
 >Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
 >
@@ -1459,11 +1497,11 @@ Beispiele für Data Dictionary und Codebook
 
 ## Selbstlernabschnitt Nachnutzung ♻️
 
-Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit. 
+Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit.
 
 Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein: Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden, sie können als Vergleichswerte dienen, für Meta-Analysen verwendet oder in ganz anderen Kontexten neu analysiert werden.  
 
->Auf der Seite [**forschungsdaten.info**](https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/) werden verschiedene mögliche Nachnutzungsformen aufgelistet. 
+>Auf der Seite [**forschungsdaten.info**](https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/) werden verschiedene mögliche Nachnutzungsformen aufgelistet.
 >
 >**Tauschen Sie sich kurz miteinander aus**: Haben Sie selbst schon Forschungsdaten nachgenutzt? Welche Formen der Nachnutzung kennen und nutzen Sie selbst? Fallen Ihnen Nachnutzungsformen ein, die durch die Liste auf forschungsdaten.info nicht abgedeckt sind?
 >
@@ -1510,14 +1548,12 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 >- **Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
 
----
-
 <div style="page-break-after: always;"></div>
 
 
 {{1}}
 ********************************************************************************
->**Aufgabe**: 
+>**Aufgabe**:
 >
 >Zitieren Sie folgende Publikation nach FORCE11-Empfehlung: http://dx.doi.org/10.13140/RG.2.2.34005.12001 
 
@@ -1533,7 +1569,7 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 {{3}}
 ********************************************************************************
->Für die Identifikation von elektronischen Textpublikationen existieren mittlerweile diverse Systeme von persistenten Identifikatoren. 
+>Für die Identifikation von elektronischen Textpublikationen existieren mittlerweile diverse Systeme von persistenten Identifikatoren.
 >
 >Die ZBW nennt eine Reihe von existierenden Identifikatoren: https://auffinden-zitieren-dokumentieren.de/zitieren/ 
 >
@@ -1543,13 +1579,13 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 [[x]] Digital Object Identifier (DOI)
 [[ ]] Handle
 [[ ]] Persistent URL (PURL)
-[[ ]] Uniform Resource Name (URN) 
+[[ ]] Uniform Resource Name (URN)
 
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
 
-### Rechtslage einschätzen 
+### Rechtslage einschätzen
 
 Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
@@ -1564,10 +1600,7 @@ Die am häufigsten verwendeten Lizenzen sind:
 
 Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
 
-
-
 https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
-
 
 <div style="width:75%;">
 ![CCLizenzen](https://herrmayr.de/wp-content/uploads/2019/12/%C3%9Cbersicht_CC_Lizenzen-1024x529.png "Die Creative Commons Lizenzen im Überblick (Quelle: Symbole von Creative Commons Schweiz CC BY 4.0; Tabelle von Burgert/TU München CC BY 4.0)")
@@ -1580,7 +1613,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 
 {{1}}
 ********************************************************************************
->**Aufgabe**: 
+>**Aufgabe**:
 >
 >Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/lehrformate-methoden/open-educational-resources/creative-commons/
 >
@@ -1606,451 +1639,6 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
-
-## Datenmanagementpläne
-
-{{0-1}}
-**********
-
->**Datenmanagementpläne beinhalten …**
->
-> - … alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojekts hinreichend beschreiben und dokumentieren.
->
-> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung“^1^
->
-><small>^1^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
-
-*********
-{{1-2}}
-**********
-
->Der Datenmanagementplan dokumentiert die (geplante) Erhebung, Speicherung, Dokumentation, Pflege, Verarbeitung, Weitergabe, Veröffentlichung und Aufbewahrung der Daten, ebenso wie die erforderlichen Ressourcen, rechtlichen Randbedingungen und verantwortlichen Personen. Somit trägt ein DMP zur Qualität, langfristigen Nutzbarkeit und Sicherheit der Daten bei und unterstützt zum Beispiel bei der Umsetzung der FAIR-Prinzipien.^2^ 
->
-><small>^2^ [Forschungsdaten.info](https://forschungsdaten.info/praxis-kompakt/glossar/#c269828)</small>
-
-*********
-
-<div style="page-break-after: always;"></div>
-
-### Bestandteile eines DMP
-
->**Ein DMP sollte Informationen zu...**
->
-> - Administration (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
->
-> - Projekt- und Datensatzbeschreibung
->
-> - Datentypen, -formate, -umfang
->
-> - Angaben zu Metadaten und Standards
->
-> - Datenaustausch und -zugang
->
-> - Archivierung und Sicherung der Daten
->
-> - Verantwortlichkeiten und Rechtliche Aspekte
->
-> - Kosten
->
->**beeinhalten.**
->
->**--> Der Umfang kann zwischen wenigen Absätzen und mehreren Seiten variieren!**
-
-<div style="page-break-after: always;"></div>
-
-### Anforderungen der Förderorganisationen
-
-| Förderorganisation | Forderung                              | Abgabe bei Antrag                            | Inhalt                  | Bericht          |
-| ------------------ | -------------------------------------- | -------------------------------------------- | ----------------------- | ---------------- |
-| DFG                | Angaben zum Umgang mit Forschungsdaten | als integraler Bestandteil des Antragstextes | DFG-Checkliste          | Projektende      |
-| BMBF               | Plan erforderlich je nach Förderlinie  | ja, wenn erforderlich                        | programmabhängig        | programmabhängig |
-| EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
-| VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template“    | living document  | 
-
-<div style="page-break-after: always;"></div>
-
-### DMP templates & tools
-
-> - Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.datamanagement.uni-kiel.de/de/service/materialien
-
-> Weiterführende Informationen sowie eine Liste zu unterstützenden **DMP-Tools** stellt [**forschungsdaten.info**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/) zur Verfügung.
-
-<div style="page-break-after: always;"></div>
-
-## Speicher & Backup
-
-{{0-1}}
-Wo und wie speichern wir unsere Forschungsdaten?
----
-
-<div style="float:right; width:40%;">
-  <img src="images/backup.png" alt="No back up? No mercy!">
-</div>
-
-
-{{1-3}}
-****************
-> **Unterschiedliche Speichermedien haben Vor- und Nachteile...**
-
-****************
-
-{{2-3}}
-****************
-> **...beispielsweise bzgl. der Lebensdauer**:
-
-![Lebensdauer](https://forschungsdaten.info/fileadmin/kooperationen/bwfdm/fdm/2-organisieren-und-aufbereiten/2-lebensdauer-von-daten/lebensdauer.png)
-
-****************
-
-<div style="page-break-after: always;"></div>
-
-{{3-4}}
-****************
-> **Grundsätzlich immer auch an ein Backup denken!**
->
->- min. 3 Kopien einer Datei
->- min. 2 verschiedene Medien
->- von denen min. ein Medium remote ist
->- Backup in regelmäßigen Intervallen
-
-****************
-
-{{4}}
-*****************
-Besondere Aufmerksamkeit bei sensiblen Daten:
----
-
-> **Schützen Sie sensible Daten!**
->
->- Hardware (z. B. in einem abschießbaren Raum gelagert)
->- Dateiverschlüsselung
->- Passwortsicherheit
->- Mindestens zwei Personen sollten Zugang zu Ihren Daten haben
-
-*****************
-
-<div style="page-break-after: always;"></div>
-
-### Backup vs. Langzeitarchivierung
-
-| Back up                                                                          | Langzeit Speicherung            |
-| -------------------------------------------------------------------------------- | ----------------------------- |
-| Automatisches Backup von allen Daten   | Speicherung von ausgewählten Daten |
-| All Versionen                                                                     | Nur die finale Version            |
-|   zur Verhinderung von Datenverlust <br>(technisch, z.B. Defekt, oder menschlich, z.B. versehentlich gelöscht) | Integritätssicherung <br> (z. B. regelmäßige Überprüfung auf modifizierte oder beschädigte Daten, <br>Dateisystemkonsistenz)      |
-|                                                                                  | Langzeitspeicherung             |
-|                                                                                  | Durchsuchbar                 |
-
-<div style="page-break-after: always;"></div>
-
-
-## Publikation
-
-
-### Datenpublikation
-Wie können Sie Daten veröffentlichen und weitergeben werden?
-----
-
-{{1}}
-********************
-> Ergänzung zu einem von peer-review Artikel („enhanced publication“)
-********************
-
-{{2-3}}
-****************
-- als Ergänzung zu dem zugehörigen Artikel
-- als alleinstehenden Datensatz in einem Repository mit einem Link zum entsprechenden Artikel.
-
-<div style="width:100%;">
-  <img src="images/Example_R-R-Article.jpg" alt="Example R-R-Article">
-</div>
-
-**********************
-
-<div style="page-break-after: always;"></div>
-
-{{1}}
-********************
-> Unabhängiges Informationsobjekt in einem Repositorium
-********************
-
-{{3-4}}
-********************
-
-* disziplinspezifische Repositorien, z.B. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
-
-* fächerübergreifende Repositorien, z. B. [ZENODO](https://zenodo.org/)
-
-* institutionelle Repositorien, z. B. [Refubium](https://www.fu-berlin.de/sites/open_access/refubium/index.html), [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml)
-
-Beispiel:
-
-<div style="float:left; width:45%;">
-<img src="images/Example_Pangaea.jpg" alt="Example Pangea">
-<sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
-
-</div>
-
-<div style="float:right; width:45%;">
-
-<div style="width:100%;">
-  <img src="images/Example_Zenodo.jpg" alt="Example Zenodo">
-  <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
-</div>
-
-</div>
-
-*********************
-
-<div style="page-break-after: always;"></div>
-
-{{1}}
-********************
-> Data journals
-
-********************
-
-{{4-5}}
-***************************
-
-- detaillierte Beschreibung von Forschungsdaten
-
-- teilweise peer-reviewed
-
-Beispiel:
-
-<div style="float:left; width:45%;">
-<img src="images/example-datainbrief.png" alt="Example Data journal">
-<sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
-
-</div>
-
-<div style="float:right; width:45%;">
-
-<div style="width:100%;">
-  <img src="images/example-datainbrief.png" alt="Example Data journal">
-  <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
-</div>
-
-</div>
-
-***************************
-
-<div style="page-break-after: always;"></div>
-
-#### Open Data at Kiel University
-
->**Information und services @Kiel University:**
->
->* Es gibt keine Richtlinien zur Förderung von Open Data an der CAU :-(
->* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) stellt Informationen, Hilfe und Dienstleistungen bereit
->* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) ist das Open Data Repository der CAU
-
-### Textpublikation
-
-#### Open Access at Kiel University
-
->**Information und services @Kiel University:**
->
->* [Richtlinien zur Förderung von Open Access an der CAU](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
->* [Universitätsbibliothek](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
->   * [Finanzierung von OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
->* [MACAU ist das Open Access Repository der CAU](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
-
-<div style="page-break-after: always;"></div>
-
-
-### Repositorien
-{{0-2}}
-**Was ist ein Repositorium?**
-
-{{1-2}}
-****************
->*"Ein Repositorium (lateinisch repositorium, ‚Lagerhaus‘) ist ein verwalteter Ort zur Aufbewahrung geordneter Dokumente, die der Öffentlichkeit oder einem begrenzten Benutzerkreis zugänglich sind. Ein Archiv (lat. archivum, 'Aktenschrank') hingegen verwaltet nur historische Dokumente. „*
->>*"Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten...möglichst dauerhaft speichern und organisieren...um die Auffindbarkeit und Zugänglichkeit der Daten zu gewährleisten... “*
->
->^Quelle: Esther Asef, Katarzyna Biernacka, Elisabeth Böker,Sarah Ann Danker, Juliane Jacob, Janna Neumann, Britta Petersen, Jessica Rex und Ute Trautwein-Bruns (2021): Data Sharing interaktiv vermitteln^
-************************
-
-<div style="page-break-after: always;"></div>
-
-{{2-5}}
-**Wie das passende Repositorium finden?**
-
-{{3-4}}
-***************
-
-<div style="float:left; width:45%;">
-
-**re3data.org**
-
-- Sammlung von Repositorien
-- Weltweit
-- Verschiedene Disziplinen
-- Forscher, Förderer, Verlage und Institutionen
-
-</div>
-
-<div style="float:right; width:45%;">
-<img src="../Intro-to-RDM/images/re3data.jpg" alt="re3data">
-<sub>Source: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021</sub>
-</div>
-
-***************
-
-
-<div style="page-break-after: always;"></div>
-
-{{4-5}}
-*************
-
-<div style="float:left; width:45%;">
-
-**risources.dfg.de**
-
-- Angebot der DFG
-- Informationsportal
-- Deutschlandweit
-- Forschungsinfrastrukturen
-
-</div>
-
-<div style="float:right; width:45%;">
-<img src="../Intro-to-RDM/images/RIsourcesDFG.jpg" alt="re3data">
-<sub>Source: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021</sub>
-</div>
-
-************
-
-<div style="page-break-after: always;"></div>
-
-
-## Dateiformate
-
-**Mit welchen Dateinformaten arbeiten Sie?**
-
-<iframe src="https://answergarden.ch/embed/3189718" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
-
-{{2}}
-********************************************************************************
-
-**Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
-
-<img src="/images/formate.png">
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-### ~~Beispiel~~: CSV vs XLSX
-
-Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber z. B. XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
-
-1. Öffenen Sie ein Tabellenkalkulationsprogramm, z. B. Excel
-2. Erstellen Sie eine neue Datei
-3. Geben Sie A, B, C in die Zellen A1 bis C1 ein
-4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
-5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
-6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
-7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
-8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
-9. Was passiert, wenn Sie die Datei jetzt in Ihrem Tabellenkalulationsprogramm öffnen?
-10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
-
--> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
-
-<div style="page-break-after: always;"></div>
-
-## Wrap Up
-
-{{0-1}}
-********************************************************************************
-
-<img src="/images/kurzberichte.png" width="150" align="right">
-
-**Wir schauen uns ein kurzes Video an. Dies verdeutlicht nochmal die Gründe, warum Forschungsdatenmanagement wichtig ist.**
-
-Movie time!
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-
-{{1}}
-********************************************************************************
->**Gutes Forschungsdatenmanagement trägt bei zu ...**
->
-> - Reproduzierbarkeit von Ergebnissen (GWP)
-> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
-> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
-> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
-> - Erleichterung der Zusammenarbeit
-> - Vorbeugung von Datenverlusten
-> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
-> - Transfer der Daten in zukünftige Projekte
-> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
-> - Erfüllung von Auflagen der Drittmittelgeber
-> - ….
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
-
-{{0}}
-********************************************************************************
-
-Beim „Gamification“-Prinzip geht es darum, eigentlich spielfremde
-Umgebungen (bspw. eine Lernplattform wie Open Olat) und Prozesse (wie das Lernen selbst) gezielt mit spieltypischen Elementen zu erweitern.
-
-Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen neuer Level und/oder gestaffelter Ziele, Wettbewerb und Kooperation sowie das Erhalten von Auszeichnungen und anderen kleinen Belohnungen in z. B. Olat-Kursen.
-
--> Typische Spielprinzipien in das Lehrkonzept integrieren, um bspw. traditionelle und tendenziell passive Lernformen abzulösen bzw. aufzulockern.
-
--> Die „gamifizierte“ Lehre verbindet die Vermittlung von Wissen mit Spaß und lohnenden Herausforderungen. Im Idealfall führt das zu einem höheren Maß an Motivation und Engagement der Studierenden.
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-{{1}}
-********************************************************************************
-
-**Probieren wir es aus!**
-
->*Stellen Sie sich vor, Sie sind eine engagierte Lehrkraft an einer deutschen Hochschule und gerade dabei, das nächste Semester zu planen, als Sie eine E-Mail der Hochschulleitung erhalten. Ihnen wird mitgeteilt, dass Sie umgehend sämtliche Lehrveranstaltungen um FDM-Aspekte ergänzen müssen! Nach einem ersten Schock und einigen Schweißausbrüchen fällt Ihnen die Legende von der geheimnisvollen digitalen Schatzkiste ein, in der Hinweise zu Fundorten für nachnutzbare Forschungsdaten sowie für Lehrmethoden und -materialien enthalten sein sollen. Möglicherweise könnte diese Kiste als erste Grundlage dienen...*
->
->*Sie machen sich auf die Suche und finden die geheimnisvolle Kiste tatsächlich versteckt in einem dunklen Olat-Kurswald. Doch, herrje! Was ist das? Die Kiste ist verschlossen und kann nur mit einem Passwort geöffnet werden…!*
->
->Und Ihnen bleiben nur 15 Minuten Zeit, die Rätsel zu lösen…
->
->**Gruppenarbeit**
->
->Lösen Sie die Aufgaben in folgendem Word-Dokument: <A HREF="downloads/TtL-FDM_EscapeGame_Aufgaben.docx" download>2023\_FDM\_EscapeGame\_Aufgaben.docx</A>
->
->Mit dem ermittelten Passwort können Sie die Schatzkiste öffnen: <A HREF="downloads/TtL-FDM_EscapeGame_Schatzkiste.docx" download>2023\_FDM\_EscapeGame\_Schatzkiste.docx</A>
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-### ~~Reflexion~~: Escape-Game
-
->**Diskussion im Plenum**
->
->Können Sie sich die Entwicklung und den Einsatz eines eigenen Escape-Games oder anderer spielerischer Elemente zum Themenbereich FDM in eigenen Lehrveranstaltungen vorstellen?
->
->Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
-
-<div style="page-break-after: always;"></div>
-
-
 
 # Förderer und andere wichtige Player
 
@@ -2134,6 +1722,45 @@ Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
 >
 > Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
 
+<div style="page-break-after: always;"></div>
+
+## Wrap Up
+
+{{0-1}}
+********************************************************************************
+
+<img src="/images/kurzberichte.png" width="150" align="right">
+
+**Wir schauen uns ein kurzes Video an. Dies verdeutlicht nochmal die Gründe, warum Forschungsdatenmanagement wichtig ist.**
+
+Movie time!
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+********************************************************************************
+<div style="page-break-after: always;"></div>
+
+{{1}}
+********************************************************************************
+>**Gutes Forschungsdatenmanagement trägt bei zu ...**
+>
+> - Reproduzierbarkeit von Ergebnissen (GWP)
+> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
+> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
+> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
+> - Erleichterung der Zusammenarbeit
+> - Vorbeugung von Datenverlusten
+> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
+> - Transfer der Daten in zukünftige Projekte
+> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
+> - Erfüllung von Auflagen der Drittmittelgeber
+> - ….
+
+********************************************************************************
 <div style="page-break-after: always;"></div>
 
 # FDM an der CAU
