@@ -1495,7 +1495,7 @@ Beispiele für Data Dictionary und Codebook
 >
 >Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
 >
->Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze. 
+>Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze.
 
 <div style="page-break-after: always;"></div>
 
