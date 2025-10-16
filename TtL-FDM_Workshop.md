@@ -1755,89 +1755,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 
 <div style="page-break-after: always;"></div>
 
-# Förderer und andere wichtige Player
 
-{{0-2}}
-********************************************************************************
-
-**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
-
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
----
-
-![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/DFG-logo-blau.svg/506px-DFG-logo-blau.svg.png) <!-- width="100px" align="right" -->
-
-**Deutsche Forschungsgemeinschaft (DFG)**:
-
-Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
-
----
-<img src="/images/BMBF-logo.png" width="150" align="right">
-
-Das **Bundesministerium für Bildung und Forschung (BMBF)**:
-
-Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
-
----
-
-<img src="/images/European-Commission-logo.png" width="150" align="right">
-
-**Europäische Kommission (EC):**
-
-Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
-
-********************************************************************************
-<div style="page-break-after: always;"></div>
-
-{{2-3}}
-********************************************************************************
-
----
-
-<img src="/images/nfdi_logo.png" width="150" align="right">
-
-**Nationale Forschungsdateninfrastruktur (NFDIs)**:
-
-Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
-
-[**NFDI e. V.**](https://www.nfdi.de/)
-
-<img src="/images/screenshot_nfdi.jpg">
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
----
-
-**Kurzer Rechercheauftrag**:
-
-Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
-
-[**NFDI e. V.**](https://www.nfdi.de/)
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-# Berufliche Perspektiven aufzeigen
-
-> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
->
-> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
->
-> * Data Steward,
-> * Data Curator und/oder
-> * Data Collector
->
-> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
-
-<div style="page-break-after: always;"></div>
 
 ## Wrap Up
 
@@ -2108,5 +2026,90 @@ https://opendata.schleswig-holstein.de/dataset
 >* Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
 >
 >* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
+
+<div style="page-break-after: always;"></div>
+
+
+# Förderer und andere wichtige Player
+
+{{0-2}}
+********************************************************************************
+
+**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+---
+
+![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/DFG-logo-blau.svg/506px-DFG-logo-blau.svg.png) <!-- width="100px" align="right" -->
+
+**Deutsche Forschungsgemeinschaft (DFG)**:
+
+Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
+
+---
+<img src="/images/BMBF-logo.png" width="150" align="right">
+
+Das **Bundesministerium für Bildung und Forschung (BMBF)**:
+
+Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
+
+---
+
+<img src="/images/European-Commission-logo.png" width="150" align="right">
+
+**Europäische Kommission (EC):**
+
+Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
+
+********************************************************************************
+<div style="page-break-after: always;"></div>
+
+{{2-3}}
+********************************************************************************
+
+---
+
+<img src="/images/nfdi_logo.png" width="150" align="right">
+
+**Nationale Forschungsdateninfrastruktur (NFDIs)**:
+
+Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+<img src="/images/screenshot_nfdi.jpg">
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+---
+
+**Kurzer Rechercheauftrag**:
+
+Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+# Berufliche Perspektiven aufzeigen
+
+> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
+>
+> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
+>
+> * Data Steward,
+> * Data Curator und/oder
+> * Data Collector
+>
+> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
 
 <div style="page-break-after: always;"></div>
