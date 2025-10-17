@@ -13,6 +13,18 @@ I: Und welche Herausforderungen sehen Sie dabei?
 B: Naja, also Datenschutz ist natürlich immer ein Thema, und ähm, wer Zugriff hat. Also wir hatten mal so einen Fall, da war irgendwas gelöscht und dann, äh, das war schwierig. Aber sonst läuft das eigentlich ganz gut, denke ich.
 
 
+
+Transkript (Versuch LZ):
+
+I: Hallo Frau Schmitt, können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
+
+Birgit: Ja, also das ist halt… also bei uns geht’s viel darum, äh, die Daten richtig abzulegen, also dass man sie wiederfindet. Manche nennen das ja FAIR, aber das ist jetzt auch nicht so… also es ist irgendwie wichtig, aber nicht jeder macht das so.
+
+I: Und welche Herausforderungen sehen Sie dabei?
+
+Birgit: Naja, also Datenschutz ist natürlich immer ein Thema, und ähm, wer Zugriff hat. Also wir hatten mal so einen Fall, da war irgendwas gelöscht und dann, äh, das war schwierig. Aber sonst läuft das eigentlich ganz gut, denke ich.
+
+
 Typische Probleme:
 
 keine Angaben zu Datum, Ort, Methode, Kontext
@@ -20,6 +32,8 @@ keine Angaben zu Datum, Ort, Methode, Kontext
 keine Pseudonymisierung oder Interview-ID
 
 keine Transkriptionsregeln erkennbar
+
+nur Verschriftlichung; inhaltlich-semantisches Transkript? GAT-Transkript?
 
 fehlende Angaben zu Einverständniserklärung und Rechteklärung
 
@@ -49,7 +63,7 @@ Speicherort	Dataverse-Repository, DOI: 10.xxxx/zenodo.xxxxxx
 
 Transkript (Auszug):
 
-I1: Können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
+I1: Hallo B1, können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
 
 B1: Forschungsdatenmanagement bedeutet für mich, dass man Daten so strukturiert und dokumentiert, dass sie langfristig auffindbar und nachvollziehbar sind. In meiner Arbeit geht es viel darum, Ablagestrukturen zu schaffen und Kolleg:innen zu schulen. Wir orientieren uns an den FAIR-Prinzipien, auch wenn das in der Praxis manchmal schwierig ist.
 
