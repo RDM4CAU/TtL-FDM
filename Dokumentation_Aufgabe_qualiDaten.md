@@ -2,19 +2,8 @@ Kontext:
 
 „Es wurde ein Interview mit einer Hochschulmitarbeiterin geführt, die im Bereich Forschungsdatenmanagement arbeitet. Das Interview fand im Jahr 2023 statt“
 
+
 Transkript:
-
-I: Können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
-
-B: Ja, also das ist halt… also bei uns geht’s viel darum, äh, die Daten richtig abzulegen, also dass man sie wiederfindet. Manche nennen das ja FAIR, aber das ist jetzt auch nicht so… also es ist irgendwie wichtig, aber nicht jeder macht das so.
-
-I: Und welche Herausforderungen sehen Sie dabei?
-
-B: Naja, also Datenschutz ist natürlich immer ein Thema, und ähm, wer Zugriff hat. Also wir hatten mal so einen Fall, da war irgendwas gelöscht und dann, äh, das war schwierig. Aber sonst läuft das eigentlich ganz gut, denke ich.
-
-
-
-Transkript (Versuch LZ):
 
 I: Hallo Frau Schmitt, können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
 
@@ -116,3 +105,17 @@ Dresing, Thorsten / Pehl, Thorsten (2018): Praxisbuch Transkription & Analyse. A
 Kuckartz, Udo (2016): Qualitative Inhaltsanalyse: Methoden, Praxis, Computerunterstützung, 3. Auflage, Weinheim und Basel.
 
 Selting, Margret et al. (2009): Gesprächsanalytisches Transkriptionssystem 2 (GAT 2). In: Gesprächsforschung – Online-Zeitschrift zur verbalen Interaktion 10 (2009), S. 353–402.
+
+
+
+-----
+
+Transkript:
+
+I: Können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
+
+B: Ja, also das ist halt… also bei uns geht’s viel darum, äh, die Daten richtig abzulegen, also dass man sie wiederfindet. Manche nennen das ja FAIR, aber das ist jetzt auch nicht so… also es ist irgendwie wichtig, aber nicht jeder macht das so.
+
+I: Und welche Herausforderungen sehen Sie dabei?
+
+B: Naja, also Datenschutz ist natürlich immer ein Thema, und ähm, wer Zugriff hat. Also wir hatten mal so einen Fall, da war irgendwas gelöscht und dann, äh, das war schwierig. Aber sonst läuft das eigentlich ganz gut, denke ich.
