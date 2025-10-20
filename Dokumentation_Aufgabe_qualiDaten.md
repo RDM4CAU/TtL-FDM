@@ -56,7 +56,8 @@ Interviewende Person	I1
 Befragte Person (Pseudonym)	B1 (weiblich, Forschungsdatenmanagerin an deutscher Universität)
 Sprache	Deutsch
 Dauer	00:32:15
-Transkriptionsregeln	Nach Dresing & Pehl (2022), vereinfachte Form
+Transkriptionsform      einfache inhaltlich-semantische Transkription
+Transkriptionsregeln	Nach Dresing & Pehl (2018)
 Einverständniserklärung	schriftlich vorliegend, Anonymisierung bestätigt
 Lizenz / Nutzungsbedingungen	CC BY-NC 4.0
 Speicherort	Dataverse-Repository, DOI: 10.xxxx/zenodo.xxxxxx
@@ -65,11 +66,11 @@ Transkript (Auszug):
 
 I1: Hallo B1, können Sie kurz beschreiben, was Sie unter Forschungsdatenmanagement verstehen?
 
-B1: Forschungsdatenmanagement bedeutet für mich, dass man Daten so strukturiert und dokumentiert, dass sie langfristig auffindbar und nachvollziehbar sind. In meiner Arbeit geht es viel darum, Ablagestrukturen zu schaffen und Kolleg:innen zu schulen. Wir orientieren uns an den FAIR-Prinzipien, auch wenn das in der Praxis manchmal schwierig ist.
+B1: Ja (...) Forschungsdatenmanagement bedeutet für mich, dass man Daten so strukturiert und dokumentiert, dass sie langfristig auffindbar und nachvollziehbar sind. In meiner Arbeit geht es viel darum, (seufzt) Ablagestrukturen zu schaffen und Kolleg:innen zu schulen. Wir orientieren uns an den FAIR-Prinzipien, auch wenn das in der Praxis manchmal schwierig ist.
 
 I1: Welche Herausforderungen begegnen Ihnen dabei?
 
-B1: Vor allem Datenschutzfragen und technische Schnittstellen. Wir hatten einen Fall, in dem versehentlich Daten gelöscht wurden. Das hat uns gezeigt, wie wichtig klare Zuständigkeiten und Versionierung sind.
+B1: Das sind, ja, das sind vor allem Datenschutzfragen und technische Schnittstellen. (...) Wir hatten einen Fall, in dem versehentlich (Daten?) gelöscht wurden. Das hat uns gezeigt, wie wichtig klare Zuständigkeiten und Versionierung sind.
 
 
 Merkmale der verbesserten Qualität:
@@ -106,3 +107,12 @@ Dateiname: Interview_Metadata_Template.txt
 **Speicherort:** [z. B. universitäres Repositorium, Lernplattform]  
 **Beschreibung des Inhalts:** [1–2 Sätze zum Interviewthema]  
 **Besondere Hinweise:** [z. B. sensible Inhalte, DSGVO-Restriktionen]
+
+
+### Literatur Transkriptionsregeln
+
+Dresing, Thorsten / Pehl, Thorsten (2018): Praxisbuch Transkription & Analyse. Anleitungen und Regelsysteme für qualitativ Forschende, 8. Auflage, Marburg.
+
+Kuckartz, Udo (2016): Qualitative Inhaltsanalyse: Methoden, Praxis, Computerunterstützung, 3. Auflage, Weinheim und Basel.
+
+Selting, Margret et al. (2009): Gesprächsanalytisches Transkriptionssystem 2 (GAT 2). In: Gesprächsforschung – Online-Zeitschrift zur verbalen Interaktion 10 (2009), S. 353–402.
