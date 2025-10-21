@@ -702,9 +702,9 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
-# GWP & Open Science
+## GWP & Open Science
 
-## Gute Wissenschaftliche Praxis
+### Gute Wissenschaftliche Praxis
 
 {{0-2}}
 ********************************************************************************
@@ -747,7 +747,7 @@ Gute Wissenschaftliche Praxis...
 
 ********************************************************************************
 
-## Was bedeutet Open Science?
+### Open Science
 
 {{1-3}}
 ********************************************************************************
@@ -908,7 +908,7 @@ Beispiel:
 
 #### Open Access at Kiel University
 
->**Information und services @Kiel University:**
+>**Information und Services @Kiel University:**
 >
 >* [Richtlinien zur Förderung von Open Access an der CAU](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
 >* [Universitätsbibliothek](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
@@ -999,24 +999,6 @@ Beispiel:
 
 <div style="page-break-after: always;"></div>
 
-### ~~Beispiel~~: CSV vs XLSX
-
-Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber z. B. XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
-
-1. Öffenen Sie ein Tabellenkalkulationsprogramm, z. B. Excel
-2. Erstellen Sie eine neue Datei
-3. Geben Sie A, B, C in die Zellen A1 bis C1 ein
-4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
-5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
-6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
-7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
-8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
-9. Was passiert, wenn Sie die Datei jetzt in Ihrem Tabellenkalulationsprogramm öffnen?
-10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
-
--> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
-
-<div style="page-break-after: always;"></div>
 
 # Erste Schritte im FDM
 
