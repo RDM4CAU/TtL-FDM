@@ -757,7 +757,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{2-3}}
 ********************************************************************************
-![Bild](/UNESCO_OS.jpg) 
+![Bild](/images/UNESCO_OS.jpg) 
 
 (CC-BY 4.0, UNESCO)
 
