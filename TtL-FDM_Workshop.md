@@ -1572,72 +1572,58 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
-## ~~Aufgabe ausprobieren~~: Nachnutzung ♻️
+# Nachnutzung ♻️
 
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Sie planen einen Infostand zu Ihrer wissenschaftlichen Arbeit in **St. Peter Ording** und möchten mit Ihrem Stand möglichst viele Menschen erreichen.
->
->Die Ausrichtung des Standes soll im Zeitraum zwischen 1. bis 5. Mai erfolgen.
->
->Bzgl. des Standortes stehen Ihnen der **Marktplatz** oder der **Seebrücke Vorplatz** zur Auswahl.
->
->Der Infostand soll an einem ausgewählten Tag für 2 Stunden aufgebaut sein.  
->
->Recherchieren Sie im [**Open Data Portal SH**](https://opendata.schleswig-holstein.de/dataset) nach geeigneten Datensätzen, um die Anzahl der Personen zu verschiedenen Tageszeiten an den verschiedenen Standorten abschätzen zu können. (Nutzen Sie die Datensätze des Jahres 2023)
->
->Wählen Sie einen Standort sowie einen Wochentag und eine Uhrzeit für Ihren Info-Stand.
->
->Notieren Sie Ihre Ergebnisse sowie wichtige Diskussionspunkte auf dem Miro-Board. Zitieren dabei auch die verwendeten Datensätze.
+Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein:
+
+* Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden
+* Vorhandene Forschungsdataen können als Vergleichswerte dienen,
+* für Meta-Analysen verwendet werden,
+* in neuen Kontexten analysiert werden oder
+* **als OER[^1] in der Lehre eingesetzt** werden.
+
+---
+
+<br>
+
+[^1] sofern die nachgenutzen Daten unter einer entsprechenden Lizenz veröffentlicht sind.
 
 <div style="page-break-after: always;"></div>
 
-## ~~Gruppenarbeit~~: Datennachnutzung in der Lehre ♻️
+## Forschungsdaten als didaktische Ressource
 
-> <img src="/images/kurzberichte.png" width="150" align="right">
+>Forschungsdaten, die unter einer entsprechenden Lizenz veröffentlicht wurden, eignen sich gut, zur
 >
->**Kleingruppenarbeit**
->
->Schauen Sie sich gemeinsam oder in Einzelarbeit kurz das folgende kurze [Selbstlernmaterial](#selbstlernabschnitt-nachnutzung-️) an.
->
->Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
->
->Entwickeln und sammeln Sie Idee(n) für Aufgabenstellungen/Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Thema Nachnutzung von Forschungsdaten.
->
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
+>* Föderung der **Datenkompetenz** (suchen, bewerten, analysieren, visualisieren, nutzen)
+>* Förderung **Kritischen Denkens** (Datenqualität, Bias, Lücken, Ethik)
+>* Förderung **wissenschaftlicher Werte**, wie Offenheit & Reproduzierbarkeit
 
-<div style="page-break-after: always;"></div>
+## Forschungsdaten finden
 
-## Selbstlernabschnitt Nachnutzung ♻️
-
-Eine Recherche zu bereits existierenden Vorarbeiten gehört zu jeder wissenschaftlichen Arbeit.
-
-Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein: Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden, sie können als Vergleichswerte dienen, für Meta-Analysen verwendet oder in ganz anderen Kontexten neu analysiert werden.  
-
->Auf der Seite [**forschungsdaten.info**](https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/) werden verschiedene mögliche Nachnutzungsformen aufgelistet.
->
->**Tauschen Sie sich kurz miteinander aus**: Haben Sie selbst schon Forschungsdaten nachgenutzt? Welche Formen der Nachnutzung kennen und nutzen Sie selbst? Fallen Ihnen Nachnutzungsformen ein, die durch die Liste auf forschungsdaten.info nicht abgedeckt sind?
->
->Dokumentieren Sie auf dem Miro-Board.
-
-<div style="page-break-after: always;"></div>
-
-### Forschungsdaten finden
-
+{{0-1}}
+********************
 >**Wer Daten nachnutzen möchte, muss zunächst einen passenden Datensatz finden!**
+>
+>*~~Lernziel~~: Lernende können eigenständig eine Datensatzrecherche durchführen.*
+********************
 
+{{1-2}}
+********************
 Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 
 - In **Fachrepositorien** (z.B. https://www.fidgeo.de/daten-publikationen/daten-publikationen) und **fachübergreifenden Repositorien** (z. B. https://zenodo.org/)
-- In **institutionellen Repositorien** (z.B. https://opendata.uni-kiel.de/content/index.xml) 
+- In **institutionellen Repositorien** (z.B. https://opendata.uni-kiel.de/content/index.xml)
 - In Repositorien für **offene Verwaltungsdaten** (z. B. https://opendata.schleswig-holstein.de/dataset)
 - Mittels **(Meta)suchmaschinen** (z. B. B2FIND http://b2find.eudat.eu gesisDataSearch http://datasearch.gesis.org/start Mendeley Data https://data.mendeley.com/)
 - Recherche in **bibliothekarischen Suchmaschinen** (z. B. BASE https://www.base-search.net/Search/Advanced)
-- Google: Stichwort und „data set“ bzw. Google Dataset Search
-- Eine Sammlung verschiedener Open Access Repositorien finden Sie auch hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
+- Google: Stichwort und „data set“ bzw. [Google Dataset Search](https://datasetsearch.research.google.com/)
 
+<br>
+=> Eine Sammlung verschiedener Open Access Repositorien finden Sie auch hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
+********************
+
+{{2}}
+********************
 >Die TUM listet auf Ihren Internetseiten unter der Überschrift "Daten finden" verschiedene Möglichkeiten für die Datenrecherche auf: (https://web.tum.de/researchdata/support-information/daten-nachnutzen/).
 >
 >**Welche der von der TUM aufgelisteten Möglichkeiten fehlen in unserer Liste?**
@@ -1646,31 +1632,50 @@ Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 >[[ ]] Repositorien
 >[[x]] Data Journals
 >[[x]] Zeitschriftenartikel
+********************
+
+### Suchauftrag
+
+>Das probieren wir direkt einmal aus!
+>
+>> 1. Suchen Sie in [Open-Data Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) oder mit [Google Dataset Search](https://datasetsearch.research.google.com/) nach einem Datensatz, der zur Beantwortung der Frage **"Welche Baumarten gibt es in der Landeshauptstadt Kiel?"** genutzt werden kann?
+>
+>> 2. Suchen Sie in einem wissenschaftlichen Forschungsdatenrepositorium (z. B. GFZ Data Services) oder [Google Dataset Search](https://datasetsearch.research.google.com/) nach einem Datensatz zu:
+>>
+>>  * stabilen Sauerstoffisotopen in der Zellulose von Baumringen in Stieleichen (Quercus robur) aus Deutschland. =>**Verwenden Sie englische Suchbegriffe.**
 
 <div style="page-break-after: always;"></div>
 
-### Forschungsdaten zitieren
+## Forschungsdaten zitieren
 
 Im Sinne der guten wissenschaftlichen Praxis müssen Forschungsdaten wie jede andere Quelle eindeutig zitiert werden.
 
-Verschiedene Gruppen und wissenschaftliche Communities haben sich damit beschäftigt, Guidelines und Empfehlungen zur Zitation von Forschungsdaten zu erstellen. 
+*~~Lernziel~~: Lernende können eigenständig Zitationsregeln auf nachgenutzte Datensätze anwenden.*
+
+Verschiedene Gruppen und wissenschaftliche Communities haben sich damit beschäftigt, Guidelines und Empfehlungen zur Zitation von Forschungsdaten zu erstellen.
 
 Hervorzuheben sind hier insbesondere die Empfehlung der Initiative [**Force11**](https://force11.org/) sowie des internationalen Registrierungsservice [**DataCite**](https://schema.datacite.org/).
 
 Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
->- **Nach FORCE11-Empfehlung**: Autor:in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
+>**Nach FORCE11-Empfehlung**: Autor:in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
 
->- **Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
+>**Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
+
+>**Häufig finden sich Zitationsempfehlungen in den Metadaten eines Datensatzes.**
 
 <div style="page-break-after: always;"></div>
 
-
 {{1}}
 ********************************************************************************
+>Auch das probieren wir einmal aus:
+>
 >**Aufgabe**:
 >
->Zitieren Sie folgende Publikation nach FORCE11-Empfehlung: http://dx.doi.org/10.13140/RG.2.2.34005.12001 
+>Zitieren Sie die Datensätze ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und ["Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany"](https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b).
+>
+>* Pfüfen Sie, ob eine Zitationsempfehlung existiert.
+>* Falls keine Empfehlung existiert, zitieren Sie nach FORCE11-Empfehlung.
 
 ********************************************************************************
 
@@ -1678,35 +1683,27 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 ********************************************************************************
 >**Lösung**:
 >
->Risan, Patrick (2017): Accommodating Trauma in Police Interviews. An Exploration of Rapport in Investigative Interviews of Traumatized Victims. NSD - Norwegian Centre for Research Data. https://doi.org/10.13140/RG.2.2.34005.12001
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
->Für die Identifikation von elektronischen Textpublikationen existieren mittlerweile diverse Systeme von persistenten Identifikatoren.
+>1. Landeshauptstadt Kiel (2024): Bäume auf städtischem Grund in der Landeshauptstadt Kiel. Open Data Schleswig-Holstein. URL: https://opendata.schleswig-holstein.de/dataset/baume2
 >
->Die ZBW nennt eine Reihe von existierenden Identifikatoren: https://auffinden-zitieren-dokumentieren.de/zitieren/ 
+>- keine Zitationsempfehlung vorhandenen => Zitat nach FORCE11-Empfehlung
 >
->**Welches ist laut des ZBW-Artikels das am häufigsten verwendete System für persistente Identifikatoren?**
-
-[[ ]] Archival Research Key (ARK)
-[[x]] Digital Object Identifier (DOI)
-[[ ]] Handle
-[[ ]] Persistent URL (PURL)
-[[ ]] Uniform Resource Name (URN)
+>- keine persistenten Identifikatoren angegeben, alternativ wird URL genannt
+>
+>2. Helle, Gerhard; Brauer, Achim; Heinrich, Ingo (2023): Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany. GFZ Data Services. https://doi.org/10.5880/tereno.trsi.2023.002
+>
+>  - Zitationsempfehlung vorhandenen => Empfehlung übernommen
 
 ********************************************************************************
 
-<div style="page-break-after: always;"></div>
-
-### Rechtslage einschätzen
+## Rechtslage einschätzen
 
 Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
-Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen. 
+*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
 
-Die am häufigsten verwendeten Lizenzen sind:
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
+
+Die am häufigsten verwendeten Lizenzensysteme sind:
 
 - Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
 - GNU General Public License (GPL) / für Software konzipiert
@@ -1717,11 +1714,7 @@ Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](http
 
 https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
 
-<div style="width:75%;">
-![CCLizenzen](https://herrmayr.de/wp-content/uploads/2019/12/%C3%9Cbersicht_CC_Lizenzen-1024x529.png "Die Creative Commons Lizenzen im Überblick (Quelle: Symbole von Creative Commons Schweiz CC BY 4.0; Tabelle von Burgert/TU München CC BY 4.0)")
-</div>
-
-Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
+Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
 
 ---
 <div style="page-break-after: always;"></div>
@@ -1732,7 +1725,7 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 >
 >Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/lehrformate-methoden/open-educational-resources/creative-commons/
 >
->1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht? 
+>1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht?
 >
 > [[ ]] CC0
 > [[ ]] CCBY
@@ -1755,9 +1748,111 @@ Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rech
 
 <div style="page-break-after: always;"></div>
 
+## Dateiformate
 
+Um in der Lage zu sein, existierende Forschungsdaten nachzunutzen, müssen wir mit verschiedenen Dateiformaten umgehen können.
 
-## Wrap Up
+  - *~~Lernziel~~: Lernende können verschiedende Dateiformate benennen und erläutern.*
+
+  - *~~Lernziel~~: Lernende können das Einlesen verschiedener Dateiformate in verschiedene Softwares durchführen.*
+
+>In welchen Dateiformaten liegen die eben gesuchten und zitierten Daten vor? Mit welchen Softwares können die jeweiligen Formate gelesen werden?
+>
+>1. https://opendata.schleswig-holstein.de/dataset/baume2
+>
+>2. https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b
+
+## Analysieren & Visualisieren
+
+Nachgenutzte Forschungsdaten können zum Aufbau von Kenntnissen und Fähigkeiten im Analysieren und Visualisieren von Daten, z. B.
+
+- **Analysieren**
+
+  - Beispiel Lernziel: *Lernende können Softwares für die Datenanalyse anwenden.*
+  - Beispiel Lernziel: *Lernende können können statistische Operationen durchführen.*
+
+- **Visualisierungen**
+
+    - Beispiel Lernziel: *Lernende können Softwares zur grafischen Darstellung von Daten anwenden.*
+
+>Auch das probieren wir direkt einmal aus:
+>
+>1. Laden Sie sich den Datensatz [Bäume auf stäftischem Grund in der Landeshauptstadt Kiel](https://opendata.schleswig-holstein.de/dataset/baume2) als csv-Datei runter.
+>2. Lesen Sie den Datensatz in LibreOffice Calc und/oder Excel ein.
+>3. Analysieren Sie:
+>
+>* Bestimmen Sie die absolute Anzahl Ginkgos in diesem Datensatz.
+>* Ermitteln Sie den relativen Anteil der Baumart Ginkgo am Gesamtbaumbestand.
+>* Ermitteln Sie die durchschnittliche Kronengröße der Ginkgos im Kieler Stadtgebiet.
+>* Für ganz schnelle Menschen: Visualisieren die absolute Anzahl Ginkgos nach Kronengrößen in den folgenden vier Gruppen:
+>
+>  - Kronengröße 1-2 Meter
+>  - Krönengröße 3-5 Meter
+>  - Kronengröße 6-8 Meter
+>  - Kronengröße >9 Meter
+
+>Lesen Sie auch den Datensatz zu den stabilen Sauerstoffisotopen in Stiel-Eichen mit LibreOffice Calc oder Excel ein.
+>Vergleichen Sie die beiden Importvorgänge.
+>Worauf ist bei Import generell zu achten? Welche Probleme können auftreten?
+
+## Datenqualität
+
+Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datensätzen** bezüglich verschiedener Faktoren (z.B. Korrektheit, Relevanz, Repräsentativität, Vollständigkeit) geübt werden
+
+- Beispiel Lernziel: *Lernende können die Qualität eines Datensatzes hinsichtlich seiner Qualität diskutieren.*
+
+>Vergleichen Sie die beiden Datensätze "Bäume" und "Stabile Sauerstoffisotope". Schätzen Sie jeweils die Qualität des Datensatzes und der Datendokumentation ein.
+
+## Forschungsbasiert lernen
+
+Mit nachgenutzen Forschungsdaten kann **forschungsbasiertes** oder **projektbasiertes Lernen** ermöglicht werden.
+
+**Beispielhafte Lernziele:**
+
+- *Lernende können für die Fragestellung relevante Datensätze aus verschiedenen Portalen in unterschiedlichen Formaten sinnvoll auswählen.*
+- *Lernende können Daten aus verschiedenen Datenquellen extrahieren, filtern und vergleichen, um einen eigenen Datensatz zu erstellen.*
+- *Lernende können komplexe evidenzbasierte Argumente entwickeln und präsentieren.*
+- *Lernende können komplexe Berichte auf der Grundlage von Datenanalysen in Form von Haus-, Forschungsarbeiten oder Postern präsentieren.*
+
+>**Beispielhafte Fragestellungen**
+> 
+> - Gibt es einen Zusammenhang zwischen dem, Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
+> - Welchen Einfluß hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
+
+## Projektbasiert lernen
+Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, Services oder Prototypen entwickeln. Dabei geht es weniger um die Beantwortung einer Forschungsfrage, sondern um die Gestaltung, Umsetzung und Reflexion eines Projekts – oft mit interdisziplinärem Bezug.
+
+**Beispielhafte Lernziele:**
+
+- *Lernende können geeignete offene Datensätze identifizieren und für ein Projektvorhaben auswählen.*  
+- *Lernende können Daten technisch aufbereiten und in Anwendungen oder Visualisierungen einbinden.*  
+- *Lernende können in Teams kollaborativ arbeiten und Arbeitspakete eigenständig koordinieren.*  
+- *Lernende können Projektergebnisse adressatengerecht dokumentieren und präsentieren (z. B. in Form von Prototypen, Apps, Dashboards oder Webkarten).*  
+- *Lernende können die gesellschaftliche Relevanz und die Nachhaltigkeit ihres Projekts reflektieren.*  
+
+> **Beispielhafte Projekte**: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
+
+<div style="page-break-after: always;"></div>
+
+# ~~Gruppenarbeit~~: Ideen für die Lehre
+
+> <img src="/images/kurzberichte.png" width="150" align="right">
+>
+>**Kleingruppenarbeit**
+>
+>Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
+>
+>Entwickeln und sammeln Sie Idee(n) für Lehrformate, konkrete Aufgabenstellungen oder Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Themabereich Forschungsdatenmanagement.
+>
+>  - Welche Lernziele ließen sich verfolgen?
+>  - Welche Lehr-/Lernszenarien wären denkbar?
+>  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
+>
+>Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
+
+<div style="page-break-after: always;"></div>
+
+# Wrap Up
 
 {{0-1}}
 ********************************************************************************
