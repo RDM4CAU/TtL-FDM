@@ -733,12 +733,20 @@ Gute Wissenschaftliche Praxis...
 > * redliches Denken und Handeln Einzelner sowie
 > * organisations- und verfahrensrechtliche Regelungen
 
+********************************************************************************
+
+{{3}}
+********************************************************************************
 > ...sorgt für:
 >
 > * Vertrauenswürdigkeit der Wissenschaft
 >
 > * Vertrauen der Gesellschaft in Wissenschaft
 
+********************************************************************************
+
+{{4}}
+********************************************************************************
 > ...verlangt die Selbstverpflichtung zu respektvollem Umgang mit:
 >
 > * Studienteilnehmer:innen
@@ -796,6 +804,12 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
+{{5}}
+********************************************************************************
+
+FAIR = Open?
+
+********************************************************************************
 
 ## Publikation
 Wie können Sie Daten veröffentlichen und weitergeben werden?
@@ -998,6 +1012,10 @@ Beispiel:
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
+
+## Fragen?
+
+Fragen?
 
 # Praktische Übungen für die Lehre
 
@@ -1358,9 +1376,19 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 {{0-1}}
 ********************
-Einfphungssatz
+Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
 
-*~~Lernziel~~: Lernende können dies das und jenes!*
+Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
+
+Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
+
+
+*~~Lernziel~~: Lernende können Methoden der Datendokumentation bewerten.*
+
+*~~Lernziel~~: Lernende können Datenqualität analysieren und bewerten.*
+
+*~~Lernziel~~: Lernende können verschiedene Aspekte von Datenqualität erläutern.*
+
 ********************
 
 
@@ -1435,48 +1463,46 @@ Zentrale Dimensionen der Datenqualität
 => Datenqualität ist kein technischer Nebenaspekt, sondern Teil guter wissenschaftlicher Praxis und sollte sichtbar in der Lehre verankert werden.
 
 
-## ~~Selbstlernabschnitt~~ - Datendokumentation 📝
-Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
-
-Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
-
-Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
-
 <div style="page-break-after: always;"></div>
 
 ### Warum dokumentieren?
 
->**Besuchen Sie die folgenden Webseiten:**
->
->- VerbundFDB: https://www.forschungsdaten-bildung.de/daten-dokumentieren 
->
->- forschungsdaten.info: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/ 
->
->Überfliegen Sie die beiden Artikel und beantworten Sie folgende Frage:
+Ohne Dokumentation laufen Sie Gefahr...
 
->**Welche der folgenden Argumente für die Datendokumentation werden in den Beiträgen genannt?**
+>- Daten nicht wiederzufinden,
+>- die Entstehung von Daten nicht mehr nachvollziehen zu können,
+>- Daten wegen fehlender Kontextinformationen nicht mehr interpretieren zu können,
+>- Dateien zu verwechseln (veraltete oder konkurrierende Versionen),
+>- Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können.
 >
->- [[x]] Ohne Dokumentation laufen wir Gefahr Daten nicht wiederzufinden.
->- [[ ]] Ohne Dokumentation erhält man keine Fördergelder.
->- [[x]] Dokumentation zielt auf Erhalt der Interpretierbarkeit und Nachvollziehbarkeit der Daten.
->- [[x]] Dokumentation trägt zu Sichtbarkeit und Wiederauffindbarkeit von Daten bei.
->- [[ ]] Ohne Dokumentation sind Daten unbrauchbar.
+><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
+
 
 <div style="page-break-after: always;"></div>
 
 ### Dokumentation & GWP
+
+{{0-2}}
+********************
 **Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!**
 
 ><p style="color:#9a047f">*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*</p>
 >
 ><P><SMALL>[Bundesministerium für Bildung und Forschung](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenqualitaet-in-der-wissenschaft-sichern/datenqualitaet-in-der-wissenschaft-sichern_node.html) (2019): Datenqualität in der Wissenschaft sichern.</SMALL></P>
 
->>Hierzu ein...
->>
->>**...kurzer Rechercheauftrag**:
->>
->>Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https://zenodo.org/records/14281892) beschäftigt sich mit der Dokumentation?
->>
+********************
+{{1}}
+********************
+Hierzu ein...
+
+**...kurzer Rechercheauftrag**:
+
+Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https://zenodo.org/records/14281892) beschäftigt sich mit der Dokumentation?
+
+********************
+
+{{2}}
+********************
 >>Leitlinie [[12]]
 *******
 ><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
@@ -1487,36 +1513,45 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 </SMALL></P>
 *******
 
+********************
 <div style="page-break-after: always;"></div>
 
 ### Dokumentationsformen
 
 Daten können auf verschiedene Weise dokumentiert werden. Dabei muss ggf. für jedes Forschungsprojekt individuell entschieden werden, welche Dokumentationsform am geeignetsten ist. Gegebenenfalls kann eine Kombination von verschiedenen Dokumentationsformen nötig sein.
 
-Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/) zählt unterschiedliche Formate für eine Dokumentation auf.
+Mögliche Dokumentationsformen könnten sein:
 
->**Welche der folgenden Formate werden als mögliche Dokumentationsformen in dem Artikel genannt?**
+>- in einer ReadMe-Datei
+>- in einer Metadatenbank
+>- in einem projektinternen Wiki
+>- in einem (elektronischen) Laborbuch
+>- in einem Datenmanagementplan (DMP)
+>- innerhalb der Ordnerstruktur und Dateibenennung
+>- in der Datei selber bzw. in den Metainformationen der Datei.
 >
->[[x]] ReadMe-Datei
->[[ ]] College-Block, kariert
->[[x]] Elektronisches Laborbuch
->[[ ]] Messenger-Gruppe
->[[x]] (projektinternes) Wiki
->[[ ]] Artikel in einem Data Journal
->[[x]] in der Datei selber bzw. in den Metainformationen der Datei.
+><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
 
-<div style="page-break-after: always;"></div>
 
 #### Beispiele
 
 Beispiel für eine Readme-Vorlage:
+
+{{1}}
+********************
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
 <img src="images/datendoku_readme-beispiel.png">
 
+********************
+
+{{2}}
+********************
 Beispiele für Data Dictionary und Codebook
 
 <img src="images/datendoku_dictionary-codebook.png">
+
+********************
 
 <div style="page-break-after: always;"></div>
 
