@@ -1473,7 +1473,7 @@ Ohne Dokumentation laufen Sie Gefahr...
 >- Dateien zu verwechseln (veraltete oder konkurrierende Versionen),
 >- Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können.
 >
-><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
+>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
 
 
 <div style="page-break-after: always;"></div>
@@ -1528,7 +1528,7 @@ Mögliche Dokumentationsformen könnten sein:
 >- innerhalb der Ordnerstruktur und Dateibenennung
 >- in der Datei selber bzw. in den Metainformationen der Datei.
 >
-><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
+>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
 
 
 #### Beispiele
