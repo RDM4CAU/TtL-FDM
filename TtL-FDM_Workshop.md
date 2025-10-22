@@ -795,7 +795,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{4}}
+{{4-5}}
 ********************************************************************************
 
 "Ein zentrales Element von Open Science ist die Forderung nach Offenheit der digitalen Forschung und Lehre. Das bedeutet, dass Forschungsergebnisse, Forschungsdaten, Forschungsmethoden und -verfahren sowie Lehr- und Lerninhalte, Software und Werkzeuge kostenlos zur Verfügung stehen und nachgenutzt werden können"
