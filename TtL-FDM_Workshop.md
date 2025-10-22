@@ -1502,14 +1502,13 @@ Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https:
 {{2}}
 ********************
 >>Leitlinie [[12]]
-*******
+
 ><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
 „Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
 </p>
 >
 ><P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
 </SMALL></P>
-*******
 
 ********************
 <div style="page-break-after: always;"></div>
