@@ -690,7 +690,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
-### DMP templates & tools
+### DMP Templates & Tools
 
 >- Wir führen regelmäßig Workshops zur Erstellung von DMPs an der WissWB durch.
 >
@@ -964,8 +964,7 @@ Beispiel:
 </div>
 
 <div style="float:right; width:45%;">
-<img src="../Intro-to-RDM/images/re3data.jpg" alt="re3data">
-<sub>Source: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021</sub>
+<img src="https://www.re3data.org/images/img/re3datalogo_black.png" alt="re3data">
 </div>
 
 ***************
@@ -988,8 +987,7 @@ Beispiel:
 </div>
 
 <div style="float:right; width:45%;">
-<img src="../Intro-to-RDM/images/RIsourcesDFG.jpg" alt="re3data">
-<sub>Source: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021</sub>
+<img src="https://risources.dfg.de/img/ri_logo.png" alt="risources logo">
 </div>
 
 ************
