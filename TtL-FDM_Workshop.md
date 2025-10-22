@@ -375,7 +375,7 @@ Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich se
 
 <div style="page-break-after: always;"></div>
 
-# Orientierung im Themenbereich FDM
+# FDM-Basics
 
 <!---
 Orientierung im Themenbereich FDM, Grundbegriffe im FDM
@@ -391,7 +391,7 @@ Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
 
 <img src="/images/FragezeichenTyp.jpg" width="150" align="right">
 
-Der Themenbereich Forschungsdatenmanagement ist komplex. 
+Der Themenbereich Forschungsdatenmanagement ist komplex.
 
 Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
@@ -911,8 +911,8 @@ Beispiel:
 >**Information und Services @Kiel University:**
 >
 >* [Richtlinien zur Förderung von Open Access an der CAU](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
->* [Universitätsbibliothek](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
->   * [Finanzierung von OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
+>* [Universitätsbibliothek](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) bietet Informationen und Services.
+>* [Finanzierung von OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
 >* [MACAU ist das Open Access Repository der CAU](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
 
 <div style="page-break-after: always;"></div>
@@ -999,12 +999,11 @@ Beispiel:
 
 <div style="page-break-after: always;"></div>
 
-
-# Erste Schritte im FDM
+# Praktische Übungen für die Lehre
 
 Wir werden uns eine kleine Auswahl an Themenaspekten etwas näher anschauen:
 
-* Dateibenennung & Versionierung
+* Ordner-, Dateibenennung & Versionierung
 * Dokumentation & Qualität von Forschungsdaten
 * Nachnutzung von Forschungsdaten
 
@@ -1357,6 +1356,16 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 ## Datendokumentation 📝
 
+{{0-1}}
+********************
+Einfphungssatz
+
+*~~Lernziel~~: Lernende können dies das und jenes!*
+********************
+
+
+{{1}}
+********************
 > <img src="/images/kurzberichte.png" width="150" align="right">
 >
 >**Kleingruppenarbeit**
@@ -1376,6 +1385,8 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >Erarbeiten Sie eine Liste an Informationen, die in einer guten Datendokumentation enthalten sein sollten.
 >
 >Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
+
+********************
 
 <div style="page-break-after: always;"></div>
 
@@ -1509,12 +1520,12 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
-# Nachnutzung ♻️
+## Nachnutzung ♻️
 
 Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein:
 
 * Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden
-* Vorhandene Forschungsdataen können als Vergleichswerte dienen,
+* Vorhandene Forschungsdaten können als Vergleichswerte dienen,
 * für Meta-Analysen verwendet werden,
 * in neuen Kontexten analysiert werden oder
 * **als OER[^1] in der Lehre eingesetzt** werden.
@@ -1527,7 +1538,7 @@ Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhän
 
 <div style="page-break-after: always;"></div>
 
-## Forschungsdaten als didaktische Ressource
+### Forschungsdaten als didaktische Ressource
 
 >Forschungsdaten, die unter einer entsprechenden Lizenz veröffentlicht wurden, eignen sich gut, zur
 >
@@ -1535,7 +1546,7 @@ Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhän
 >* Förderung **Kritischen Denkens** (Datenqualität, Bias, Lücken, Ethik)
 >* Förderung **wissenschaftlicher Werte**, wie Offenheit & Reproduzierbarkeit
 
-## Forschungsdaten finden
+### Forschungsdaten finden
 
 {{0-1}}
 ********************
@@ -1571,7 +1582,7 @@ Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 >[[x]] Zeitschriftenartikel
 ********************
 
-### Suchauftrag
+#### Suchauftrag
 
 >Das probieren wir direkt einmal aus!
 >
@@ -1583,7 +1594,7 @@ Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 
 <div style="page-break-after: always;"></div>
 
-## Forschungsdaten zitieren
+### Forschungsdaten zitieren
 
 {{0-1}}
 ********************
@@ -1615,7 +1626,7 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 >
 >**Aufgabe**:
 >
->Zitieren Sie die Datensätze 
+>Zitieren Sie die Datensätze
 >
 >* ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und 
 >
@@ -1642,7 +1653,7 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 ********************************************************************************
 
-## Rechtslage einschätzen
+### Rechtslage einschätzen
 
 {{0-1}}
 ********************
@@ -1653,7 +1664,7 @@ Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Mate
 
 {{1-2}}
 ********************
-Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
 
 Die am häufigsten verwendeten Lizenzensysteme sind:
 
@@ -1700,7 +1711,7 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 <div style="page-break-after: always;"></div>
 
-## Dateiformate
+### Dateiformate
 
 {{0-1}}
 ********************
@@ -1720,7 +1731,7 @@ Um in der Lage zu sein, existierende Forschungsdaten nachzunutzen, müssen wir m
 
 ********************
 
-## Analysieren & Visualisieren
+### Analysieren & Visualisieren
 {{0-1}}
 ********************
 Nachgenutzte Forschungsdaten können zum Aufbau von Kenntnissen und Fähigkeiten im Analysieren und Visualisieren von Daten, z. B.
@@ -1764,7 +1775,7 @@ Nachgenutzte Forschungsdaten können zum Aufbau von Kenntnissen und Fähigkeiten
 
 ********************
 
-## Datenqualität
+### Datenqualität
 
 Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datensätzen** bezüglich verschiedener Faktoren (z.B. Korrektheit, Relevanz, Repräsentativität, Vollständigkeit) geübt werden
 
@@ -1772,9 +1783,22 @@ Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datens�
 
 >Vergleichen Sie die beiden Datensätze "Bäume" und "Stabile Sauerstoffisotope". Schätzen Sie jeweils die Qualität des Datensatzes und der Datendokumentation ein.
 
-## Forschungsbasiert lernen
+# Lehre: Formate und Methoden
+
+Aspetkte des FDM können im Rahmen vieler verschiedener Lehrformate adressiert werden:
+
+- Proseminare
+- Tutorien
+- Vorlesungen
+- Übungen
+- Praktika
+- ...
 
 Mit nachgenutzen Forschungsdaten kann **forschungsbasiertes** oder **projektbasiertes Lernen** ermöglicht werden.
+
+## Forschungsbasiert lernen
+
+Einleitungssatz!
 
 **Beispielhafte Lernziele:**
 
@@ -1785,8 +1809,8 @@ Mit nachgenutzen Forschungsdaten kann **forschungsbasiertes** oder **projektbasi
 
 >**Beispielhafte Fragestellungen**
 > 
-> - Gibt es einen Zusammenhang zwischen dem, Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
-> - Welchen Einfluß hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
+> - Gibt es einen Zusammenhang zwischen dem Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
+> - Welchen Einfluss hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
 
 ## Projektbasiert lernen
 Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, Services oder Prototypen entwickeln. Dabei geht es weniger um die Beantwortung einer Forschungsfrage, sondern um die Gestaltung, Umsetzung und Reflexion eines Projekts – oft mit interdisziplinärem Bezug.
@@ -1803,7 +1827,7 @@ Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, S
 
 <div style="page-break-after: always;"></div>
 
-# ~~Gruppenarbeit~~: Ideen für die Lehre
+# ~~Gruppenarbeit~~: Eigene Ideen für die Lehre
 
 > <img src="/images/kurzberichte.png" width="150" align="right">
 >
@@ -1814,7 +1838,9 @@ Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, S
 >Entwickeln und sammeln Sie Idee(n) für Lehrformate, konkrete Aufgabenstellungen oder Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Themabereich Forschungsdatenmanagement.
 >
 >  - Welche Lernziele ließen sich verfolgen?
+>
 >  - Welche Lehr-/Lernszenarien wären denkbar?
+>
 >  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
 >
 >Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
@@ -1939,7 +1965,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 
 * lokale Netzwerke an der CAU durch die [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
 
-* regionale Netzwerke durch [FDM-SH](https://fdm-sh.de/), insbesondere [AG Kompetenzentwicklung](https://fdm-sh.de/ags/)]
+* regionale Netzwerke durch [FDM-SH](https://fdm-sh.de/), insbesondere [AG Kompetenzentwicklung](https://fdm-sh.de/ags/)
 
 * Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen, e. g. 
   
@@ -1964,8 +1990,8 @@ Zögern Sie nicht, uns zu kontaktieren:
 
 >**DMP Beratung:**
 >
->Thilo Paul-Stüwe
->paul-stueve@rz.uni-kiel.de
+>Thorge Petersen
+>petersen@rz.uni-kiel.de
 >
 >Andreas Christ
 >christ@ub.uni-kiel.de 
