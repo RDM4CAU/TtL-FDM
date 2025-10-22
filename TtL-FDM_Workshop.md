@@ -1648,10 +1648,15 @@ Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
 
 ## Forschungsdaten zitieren
 
+{{0-1}}
+********************
 Im Sinne der guten wissenschaftlichen Praxis müssen Forschungsdaten wie jede andere Quelle eindeutig zitiert werden.
 
 *~~Lernziel~~: Lernende können eigenständig Zitationsregeln auf nachgenutzte Datensätze anwenden.*
+********************
 
+{{1-2}}
+********************
 Verschiedene Gruppen und wissenschaftliche Communities haben sich damit beschäftigt, Guidelines und Empfehlungen zur Zitation von Forschungsdaten zu erstellen.
 
 Hervorzuheben sind hier insbesondere die Empfehlung der Initiative [**Force11**](https://force11.org/) sowie des internationalen Registrierungsservice [**DataCite**](https://schema.datacite.org/).
@@ -1663,23 +1668,28 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 >**Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
 
 >**Häufig finden sich Zitationsempfehlungen in den Metadaten eines Datensatzes.**
+********************
 
 <div style="page-break-after: always;"></div>
 
-{{1}}
+{{2-3}}
 ********************************************************************************
 >Auch das probieren wir einmal aus:
 >
 >**Aufgabe**:
 >
->Zitieren Sie die Datensätze ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und ["Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany"](https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b).
+>Zitieren Sie die Datensätze 
+>
+>* ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und 
+>
+>* ["Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany"](https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b).
 >
 >* Pfüfen Sie, ob eine Zitationsempfehlung existiert.
 >* Falls keine Empfehlung existiert, zitieren Sie nach FORCE11-Empfehlung.
 
 ********************************************************************************
 
-{{2}}
+{{3}}
 ********************************************************************************
 >**Lösung**:
 >
@@ -1688,7 +1698,7 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 >- keine Zitationsempfehlung vorhandenen => Zitat nach FORCE11-Empfehlung
 >
 >- keine persistenten Identifikatoren angegeben, alternativ wird URL genannt
->
+
 >2. Helle, Gerhard; Brauer, Achim; Heinrich, Ingo (2023): Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany. GFZ Data Services. https://doi.org/10.5880/tereno.trsi.2023.002
 >
 >  - Zitationsempfehlung vorhandenen => Empfehlung übernommen
@@ -1697,10 +1707,15 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 
 ## Rechtslage einschätzen
 
+{{0-1}}
+********************
 Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
 *~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
+********************
 
+{{1-2}}
+********************
 Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
 
 Die am häufigsten verwendeten Lizenzensysteme sind:
@@ -1716,10 +1731,10 @@ https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-uebe
 
 Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
 
----
+********************
 <div style="page-break-after: always;"></div>
 
-{{1}}
+{{2}}
 ********************************************************************************
 >**Aufgabe**:
 >
@@ -1734,7 +1749,7 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************************************************************************
 
-{{2}}
+{{3}}
 ********************************************************************************
 
 >2. Welches Problem ergibt sich, wenn die Abbildung der RUB im Rahmen eines Projektes verändert und in der veränderten Form unter der Lizenz CCBY veröffentlicht werden soll?  
@@ -1750,31 +1765,43 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ## Dateiformate
 
+{{0-1}}
+********************
 Um in der Lage zu sein, existierende Forschungsdaten nachzunutzen, müssen wir mit verschiedenen Dateiformaten umgehen können.
 
   - *~~Lernziel~~: Lernende können verschiedende Dateiformate benennen und erläutern.*
 
-  - *~~Lernziel~~: Lernende können das Einlesen verschiedener Dateiformate in verschiedene Softwares durchführen.*
+********************
 
+{{1}}
+********************
 >In welchen Dateiformaten liegen die eben gesuchten und zitierten Daten vor? Mit welchen Softwares können die jeweiligen Formate gelesen werden?
 >
 >1. https://opendata.schleswig-holstein.de/dataset/baume2
 >
 >2. https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b
 
-## Analysieren & Visualisieren
+********************
 
+## Analysieren & Visualisieren
+{{0-1}}
+********************
 Nachgenutzte Forschungsdaten können zum Aufbau von Kenntnissen und Fähigkeiten im Analysieren und Visualisieren von Daten, z. B.
 
 - **Analysieren**
 
-  - Beispiel Lernziel: *Lernende können Softwares für die Datenanalyse anwenden.*
-  - Beispiel Lernziel: *Lernende können können statistische Operationen durchführen.*
+  - *~~Lernziel~~: Lernende können das Einlesen verschiedener Dateiformate in verschiedene Softwares durchführen.*
+  - *~~Lernziel~~: Lernende können Softwares für die Datenanalyse anwenden.*
+  - *~~Lernziel~~: Lernende können können statistische Operationen durchführen.*
 
 - **Visualisierungen**
 
     - Beispiel Lernziel: *Lernende können Softwares zur grafischen Darstellung von Daten anwenden.*
 
+********************
+
+{{1-2}}
+********************
 >Auch das probieren wir direkt einmal aus:
 >
 >1. Laden Sie sich den Datensatz [Bäume auf stäftischem Grund in der Landeshauptstadt Kiel](https://opendata.schleswig-holstein.de/dataset/baume2) als csv-Datei runter.
@@ -1787,19 +1814,24 @@ Nachgenutzte Forschungsdaten können zum Aufbau von Kenntnissen und Fähigkeiten
 >* Für ganz schnelle Menschen: Visualisieren die absolute Anzahl Ginkgos nach Kronengrößen in den folgenden vier Gruppen:
 >
 >  - Kronengröße 1-2 Meter
->  - Krönengröße 3-5 Meter
+>  - Kronengröße 3-5 Meter
 >  - Kronengröße 6-8 Meter
 >  - Kronengröße >9 Meter
+********************
 
+{{2}}
+********************
 >Lesen Sie auch den Datensatz zu den stabilen Sauerstoffisotopen in Stiel-Eichen mit LibreOffice Calc oder Excel ein.
 >Vergleichen Sie die beiden Importvorgänge.
 >Worauf ist bei Import generell zu achten? Welche Probleme können auftreten?
+
+********************
 
 ## Datenqualität
 
 Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datensätzen** bezüglich verschiedener Faktoren (z.B. Korrektheit, Relevanz, Repräsentativität, Vollständigkeit) geübt werden
 
-- Beispiel Lernziel: *Lernende können die Qualität eines Datensatzes hinsichtlich seiner Qualität diskutieren.*
+- Beispiel Lernziel: *Lernende können die Qualität eines Datensatzes hinsichtlich seiner Qualität bewerten und diskutieren.*
 
 >Vergleichen Sie die beiden Datensätze "Bäume" und "Stabile Sauerstoffisotope". Schätzen Sie jeweils die Qualität des Datensatzes und der Datendokumentation ein.
 
