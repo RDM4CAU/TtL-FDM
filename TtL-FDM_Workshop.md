@@ -797,7 +797,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{4}}
+{{4-5}}
 ********************************************************************************
 
 "Ein zentrales Element von Open Science ist die Forderung nach Offenheit der digitalen Forschung und Lehre. Das bedeutet, dass Forschungsergebnisse, Forschungsdaten, Forschungsmethoden und -verfahren sowie Lehr- und Lerninhalte, Software und Werkzeuge kostenlos zur Verfügung stehen und nachgenutzt werden können"
@@ -814,7 +814,7 @@ FAIR = Open?
 ********************************************************************************
 
 ## Publikation
-Wie können Sie Daten veröffentlichen und weitergeben werden?
+Wie können Sie Daten veröffentlichen und weitergeben?
 ----
 
 {{1}}
@@ -1391,11 +1391,12 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 {{0-1}}
 ********************
-Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
 
-Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
-
-Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
+>Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
+>
+>Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
+>
+>Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
 
 *~~Lernziel~~: Lernende können Methoden der Datendokumentation bewerten.*
 
@@ -1486,6 +1487,8 @@ Ohne Dokumentation laufen wir Gefahr...
 >- Daten wegen fehlender Kontextinformationen nicht mehr interpretieren zu können,
 >- Dateien zu verwechseln (veraltete oder konkurrierende Versionen),
 >- Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können.
+>
+><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
 
 siehe auch: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
 
@@ -1502,6 +1505,7 @@ siehe auch: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/da
 ><P><SMALL>[Bundesministerium für Bildung und Forschung](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenqualitaet-in-der-wissenschaft-sichern/datenqualitaet-in-der-wissenschaft-sichern_node.html) (2019): Datenqualität in der Wissenschaft sichern.</SMALL></P>
 
 ********************
+
 {{1}}
 ********************
 Hierzu ein...
@@ -1514,17 +1518,15 @@ Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https:
 
 {{2}}
 ********************
->>Leitlinie [[12]]
-*******
-><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
+
+<p style="color:#9a047f">**Leitlinie 12: Dokumentation**
 „Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
-</p>
->
-><P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
+
+<P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
 </SMALL></P>
-*******
 
 ********************
+
 <div style="page-break-after: always;"></div>
 
 ### Dokumentationsformen
@@ -1541,7 +1543,7 @@ Mögliche Dokumentationsformen könnten sein:
 >- innerhalb der Ordnerstruktur und Dateibenennung
 >- in der Datei selber bzw. in den Metainformationen der Datei.
 >
-><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
+>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
 
 
 #### Beispiele
