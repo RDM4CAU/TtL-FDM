@@ -812,7 +812,7 @@ FAIR = Open?
 ********************************************************************************
 
 ## Publikation
-Wie können Sie Daten veröffentlichen und weitergeben werden?
+Wie können Sie Daten veröffentlichen und weitergeben?
 ----
 
 {{1}}
