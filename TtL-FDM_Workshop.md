@@ -1568,6 +1568,7 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
+
 ## Nachnutzung ♻️
 
 Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein:
