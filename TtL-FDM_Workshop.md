@@ -185,7 +185,7 @@ Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/verti
 
 ## Agenda
 
-<img src="/images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="250" align="right">
+<img src="/images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="350" align="right">
 Illustration: Cleo Michelsen
 
 Unsere Agenda für heute
@@ -391,10 +391,7 @@ Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
 
 <img src="/images/FragezeichenTyp.jpg" width="150" align="right">
 
-Der Themenbereich Forschungsdatenmanagement ist komplex.
-
-Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
-
+Wir wollen zunächst einige Grundbegriffe klären...
 
 ## Begriffsdefinition Forschungsdatenmanagement
 
@@ -546,12 +543,17 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 Lernende können	die FAIR-Prinzipien	benennen. (LZ-ID: 01_007_0117)
 Lernende können	die FAIR-Prinzipien	erläutern. LZ-ID: 01_007_0118)
 --->
+{{0-1}}
+****************
+<img src="/images/fair2.jpg" width="450" align="right"> 
 
-<img src="/images/fair2.jpg" width="250" align="right"> Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).
-
-Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
 
 Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.
+
+<small>Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).</small>
+
+****************
 
 <div style="page-break-after: always;"></div>
 
@@ -931,7 +933,6 @@ Beispiel:
 
 <div style="page-break-after: always;"></div>
 
-
 ### Repositorien
 {{0-2}}
 **Was ist ein Repositorium?**
@@ -996,11 +997,13 @@ Beispiel:
 
 ## Dateiformate
 
+{{0-1}}
+****************
 **Mit welchen Dateinformaten arbeiten Sie?**
-
 <iframe src="https://answergarden.ch/embed/3189718" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
+***************
 
-{{2}}
+{{1}}
 ********************************************************************************
 
 **Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
@@ -1042,13 +1045,14 @@ Wir werden uns eine kleine Auswahl an Themenaspekten etwas näher anschauen:
 
 {{1-2}}
 ********************************************************************************
-<img src="images/Dateibenennung_bad.png" alt="comic"  style="float:right"/>
 
-* Haben Sie sich schon mal über sich selbst geärgert, weil Sie bestimmte Dateien nicht oder nur mit großem Aufwand finden konnten?
+Mögliche Lernziele:
 
-* Sind Ihnen vielleicht sogar schon mal Daten verloren gegangen, weil Dateien versehentlich überschrieben wurden?
-
----
+* Lernende können den Nutzen von systematischen Ordner- und Dateibenennungen erläutern.
+* Lernende können den Begriff Dateibenennungskonvention erläutern.
+* Lernende können Versionierungsmethoden erläutern und anwenden.
+* Lernende können Dateibenennungskonventionen und Versionierungsmethoden anwenden.
+* Lernende können eigene Dateibenennungskonventionen entwickeln.
 
 ********************************************************************************
 
@@ -1114,6 +1118,10 @@ Es gilt außerdem:
 Beispiel Ordnerstruktur:
 
 <img src="/images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="350">
+
+---
+
+<small>Provided by Oliver Nakoinz</small>
 
 ********************************************************************************
 
@@ -1236,6 +1244,9 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 {{4-5}}
 ********************************************************************************
 **Beispiel für eine Versionsinformation innerhalb eines Dokuments:**
+
+---
+
 <img src="/images/versionsdoku-beispiel-rda_2.png">
 
 ********************************************************************************
@@ -1269,13 +1280,18 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 
 #### Gitlab RZ CAU
 
+{{0-1}}
+**********************
+
 > **Das Rechenzentrum betreibt einen zentral den Git-Dienst [Gitlab RZ CAU](https://cau-git.rz.uni-kiel.de/) für die Einrichtungen der CAU.**
 >
 > Der Dienst basiert auf einer speziellen GitLab-Installation.
 >
 > Der Dienst ist unter [https://cau-git.rz.uni-kiel.de/](https://cau-git.rz.uni-kiel.de/) aufrufbar.
 
-{{1}}
+**********************
+
+{{1-2}}
 ********************************************************************************
 
 **Zu den Funktionen gehören unter anderem:**
@@ -1290,7 +1306,7 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 
 ********************************************************************************
 
-{{2}}
+{{2-3}}
 ********************************************************************************
 
 **Registrierung:**
@@ -1305,7 +1321,7 @@ Dies gilt auch für Studierende.
 
 <div style="page-break-after: always;"></div>
 
-{{3}}
+{{3-4}}
 ********************************************************************************
 
 **Beantragung Projektgruppe:**
@@ -1357,14 +1373,15 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >
 >Denken Sie an eine Ihrer Lehrveranstaltungen, in der Studierende die Bearbeitung von Aufgaben in Form von Dateien bei Ihnen einreichen müssen. Erstellen Sie eine Dateibenennungskonvention, die Ihren Studierenden vorgibt, in welcher Form die abzugebenden Dateien benannt werden sollen.
 >
->Überlegen Sie, was für eine Form der Benennung für Sie im Hinblick auf automatisches Sortieren praktisch wäre.
+>Überlegen Sie, was für eine Form der Benennung **für Sie** im Hinblick auf automatisches Sortieren praktisch wäre.
 > 
 >Bitte dokumentieren Sie 
 >
 >1. die Konvention Form von [Namensaspekt-a]-[Namensaspekt-b]-[...]-[Namensaspekt-x].\[Dateiendung\]
 >2. für welche Dateien Ihre Namenskonvention gilt,
 >2. die zu verwendenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
->3. Vorgaben für  ggf. zu verwendende Abkürzungen.  
+>3. Vorgaben für  ggf. zu verwendende Abkürzungen.
+>4. Wie könnte das Thema Ordner-, Dateibenennung und Versionierung in Lehrveranstaltungen behandelt werden?
 >
 >Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764598772120838&cot=10.
 
@@ -1380,7 +1397,6 @@ Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der w
 
 Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
 
-
 *~~Lernziel~~: Lernende können Methoden der Datendokumentation bewerten.*
 
 *~~Lernziel~~: Lernende können Datenqualität analysieren und bewerten.*
@@ -1388,7 +1404,6 @@ Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen u
 *~~Lernziel~~: Lernende können verschiedene Aspekte von Datenqualität erläutern.*
 
 ********************
-
 
 {{1}}
 ********************
@@ -1460,21 +1475,19 @@ Zentrale Dimensionen der Datenqualität
 
 => Datenqualität ist kein technischer Nebenaspekt, sondern Teil guter wissenschaftlicher Praxis und sollte sichtbar in der Lehre verankert werden.
 
-
 <div style="page-break-after: always;"></div>
 
 ### Warum dokumentieren?
 
-Ohne Dokumentation laufen Sie Gefahr...
+Ohne Dokumentation laufen wir Gefahr...
 
 >- Daten nicht wiederzufinden,
 >- die Entstehung von Daten nicht mehr nachvollziehen zu können,
 >- Daten wegen fehlender Kontextinformationen nicht mehr interpretieren zu können,
 >- Dateien zu verwechseln (veraltete oder konkurrierende Versionen),
 >- Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können.
->
-><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
 
+siehe auch: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
 
 <div style="page-break-after: always;"></div>
 
@@ -1661,7 +1674,7 @@ Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
 >
 >Zitieren Sie die Datensätze
 >
->* ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und 
+>* ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und
 >
 >* ["Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany"](https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b).
 >
@@ -1829,6 +1842,8 @@ Aspetkte des FDM können im Rahmen vieler verschiedener Lehrformate adressiert w
 - Praktika
 - ...
 
+********************
+
 {{1-2}}
 ********************
 Beispiele:
@@ -1837,17 +1852,20 @@ Beispiele:
 
 ********************
 
-{{1-2}}
+{{2}}
 ********************
 <iframe src="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=gemei/instit_2/zentr/archol&anonymous=1&founds=gemei/instit_2/urundf/archfo,//zentr/aktuel,/angewa,/archol,/archol_8,/armund,/einfhr_4,/heiint,/schiff,/schlss&lang=en&nosearch=1&ref=main&sem=2025w&tdir=mathe/biolog/nebenf/anthro&__e=383" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="Unvis" allowTransparency="true"><p><a href="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=gemei/instit_2/zentr/archol&anonymous=1&founds=gemei/instit_2/urundf/archfo,//zentr/aktuel,/angewa,/archol,/archol_8,/armund,/einfhr_4,/heiint,/schiff,/schlss&lang=en&nosearch=1&ref=main&sem=2025w&tdir=mathe/biolog/nebenf/anthro&__e=383">Go to Univis</a></p></iframe>
 
 ********************
 
+{{3}}
+********************
 Mit nachgenutzen Forschungsdaten kann **forschungsbasiertes** oder **projektbasiertes Lernen** ermöglicht werden.
+********************
 
 ## Forschungsbasiert lernen
 
-Studierende bearbeiten "echte" Forschungsfragen zu entwickeln und/oder mit authentischen Daten arbeiten, um wissenschaftliche Methoden anzuwenden, Daten zu analysieren und evidenzbasierte Schlüsse zu ziehen.
+Studierende entwickeln und bearbeiten "echte" Forschungsfragen mit authentischen Daten, um wissenschaftliche Methoden anzuwenden, Daten zu analysieren und evidenzbasierte Schlüsse zu ziehen.
 
 **Beispielhafte Lernziele:**
 
