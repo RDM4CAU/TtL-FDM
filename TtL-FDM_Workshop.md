@@ -1480,6 +1480,8 @@ Zentrale Dimensionen der Datenqualität
 
 ### Warum dokumentieren?
 
+{{0-1}}
+********************
 Ohne Dokumentation laufen wir Gefahr...
 
 >- Daten nicht wiederzufinden,
@@ -1492,15 +1494,17 @@ Ohne Dokumentation laufen wir Gefahr...
 
 siehe auch: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
 
+********************
+
 <div style="page-break-after: always;"></div>
 
 ### Dokumentation & GWP
 
-{{0-2}}
+{{0-1}}
 ********************
 **Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!**
 
-><p style="color:#9a047f">*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*</p>
+>*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*
 >
 ><P><SMALL>[Bundesministerium für Bildung und Forschung](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenqualitaet-in-der-wissenschaft-sichern/datenqualitaet-in-der-wissenschaft-sichern_node.html) (2019): Datenqualität in der Wissenschaft sichern.</SMALL></P>
 
@@ -1519,7 +1523,7 @@ Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https:
 {{2}}
 ********************
 
-<p style="color:#9a047f">**Leitlinie 12: Dokumentation**
+**Leitlinie 12: Dokumentation**
 „Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
 
 <P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
