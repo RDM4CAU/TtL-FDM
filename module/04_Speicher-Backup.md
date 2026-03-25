@@ -5,7 +5,7 @@ Wo und wie speichern wir unsere Forschungsdaten?
 ---
 
 <div style="float:right; width:40%;">
-  <img src="images/backup.png" alt="No back up? No mercy!">
+  <img src="../images/backup.png" alt="No back up? No mercy!">
 </div>
 
 
@@ -63,3 +63,5 @@ Besondere Aufmerksamkeit bei sensiblen Daten:
 |                                                                                  | Durchsuchbar                 |
 
 <div style="page-break-after: always;"></div>
+
+## Weiterführende Ressourcen

@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 
 author:   Britta Petersen, Linda Zollitsch
 email:    
@@ -20,7 +20,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
+<center><img src="../images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
@@ -35,7 +35,157 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 <div style="page-break-after: always;"></div>
 
+# Los geht es!
+
+<!-- MODULES WILL BE INSERTED HERE BY BUILD SCRIPT -->
+
+<!-- MODULE: 01_TtL-FDM_Agena_I.md -->
+
+## Agenda
+
+<!---
+Vorstellung der Agenda
+
+Zeit: 1-2 Min
+
+Lernziele: 
+
+Inhalte und Ablauf des Workshops sind für die Lernenden transparent.
+
+Lernende stimmen sich auf die kommenden Inhalte ein.
+
+--->
+
+<img src="../images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="350" align="right">
+Illustration: Cleo Michelsen
+
+Unsere Agenda für heute
+
+- Ankommen: Workshop Regeln, Warm-up, Erwartungen, Ziele und Limitationen
+- Allgemeine didaktische Hinweise
+- Überblick über das Themenspektrum FDM
+- Betrachtung ausgewählter Themenaspekte
+- Ausprobieren und eigene Ideen/Übungen/Aufgabenstellungen entwickeln
+- FDM an der CAU
+- Offene Fragen/Wünsche
+- Feedback
+
+---
+
+** Wir machen eine Stunde Mittagspause**
+
+<div style="page-break-after: always;"></div>
+
+
+<!-- END MODULE: 01_TtL-FDM_Agena_I.md -->
+<!-- MODULE: 01_TtL-FDM_Limitationen_I.md -->
+
+## Limitationen
+
+<!---
+Hinweise zu Limitationen
+
+Zeit: 1 Min
+
+Lernziele: 
+
+Limitationen des Workshops sind für die Lernenden transparent.
+
+--->
+
+<img src="../images/limitations.png" alt="Limitations" width="250" align="right">
+
+Aus zeitlichen Gründen werden wir nur ausgewählte Inhalte behandeln können.
+
+Der Workshop ist auf die Integration von Themenaspekten des FDM in die Lehre ausgelegt. Wir gehen daher auf Grundlagen ein.
+
+Fachspezifische Aspekte werden nicht explizit behandelt, dürfen von Ihnen aber sehr gerne in die Diskussionen eingebracht werden.
+
+<div style="page-break-after: always;"></div>
+
+
+<!-- END MODULE: 01_TtL-FDM_Limitationen_I.md -->
+<!-- MODULE: 01_TtL-FDM_Ziele_I.md -->
+
+## Ziele dieses Workshops
+
+<!---
+Aufwärmübung
+
+Zeit: 1-2 Min.
+
+Lernziele: 
+
+Lernziele: 
+
+Zielef des Workshops sind für die Lernenden transparent.
+
+Lernende stimmen sich auf die kommenden Inhalte ein.
+
+--->
+
+<img src="../images/targets.png" alt="Goals today" width="200" align="right">
+
+Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
+
+* ... erläutern können, welche Aspekte zum Themenkomplex FDM gehören.  
+* ... Grundbegriffe des FDM benennen und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
+* ... Themenaspekte aus dem FDM identifizieren, die in die eigene Lehre integriert werden können.
+* ... erste Ideen zur Integration von FDM-Aspekten in die eigene Lehre entwickeln.
+* ... über Ideen zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutiert haben.
+* ... auch ein bisschen Spaß hatten.
+
+<div style="page-break-after: always;"></div>
+
+<!-- END MODULE: 01_TtL-FDM_Ziele_I.md -->
+<!-- MODULE: 01_TtL-FDM_Regeln_I.md -->
+
+## Workshop Regeln
+
+<!---
+Hinweise zu Limitationen
+
+Zeit: 1-2 Min
+
+Lernziele: 
+
+Limitationen des Workshops sind für die Lernenden transparent.
+
+--->
+
+<img src="../images/BeNice.jpg" alt="Workshop rules" width="250" align="right">
+
+- Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
+- Fragen Sie bei Unklarheiten nach.
+- Hören Sie sich gegenseitig zu und lassen Sie einander ausreden.
+- Helfen Sie sich gegenseitig.
+- Erledigen Sie möglichst nichts nebenbei.
+- Beteiligen Sie sich aktiv.
+- Fehler zulassen -> positive Fehlerkultur.
+- Geben Sie Bescheid, wenn Sie eine Pause benötigen.
+
+
+<!-- END MODULE: 01_TtL-FDM_Regeln_I.md -->
+<!-- MODULE: 01_TtL-FDM_Warm-up.md -->
+
 ## Warm up
+
+<!---
+Aufwärmübung
+
+Zeit: 5 Min.
+
+Lernziele: 
+
+Die Workshopleitende und die Lernenden erfahren etwas darüber, mit wem sie im Workshop sitzen, ohne dabei sprechen zu müssen. 
+
+Workshopleitende und Lernende erhalten einen Einblick in die Vorkenntnisse der Teilnehmenden.
+
+online: mit abgedeckter Kamera
+
+präsenz: Arm heben oder aufstehen
+
+--->
 
 > **Lassen Sie uns zum Aufwärmen ein kleines Spiel spielen:**
 >
@@ -140,86 +290,130 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 <div style="page-break-after: always;"></div>
 
-## Workshop Regeln
 
-<img src="/images/BeNice.jpg" alt="Workshop rules" width="250" align="right">
+<!-- END MODULE: 01_TtL-FDM_Warm-up.md -->
+<!-- MODULE: 02_TtL-FDM_OrientierungThema_I -->
 
-- Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
-- Fragen Sie bei Unklarheiten nach.
-- Hören Sie sich gegenseitig zu und lassen Sie einander ausreden.
-- Helfen Sie sich gegenseitig.
-- Erledigen Sie möglichst nichts nebenbei.
-- Beteiligen Sie sich aktiv.
-- Fehler zulassen -> positive Fehlerkultur.
-- Geben Sie Bescheid, wenn Sie eine Pause benötigen.
-
-
-## Ziele dieses Workshops
-
-<img src="/images/targets.png" alt="Goals today" width="200" align="right">
-
-Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
-
-* ... erläutern können, welche Aspekte zum Themenkomplex FDM gehören.  
-* ... Grundbegriffe des FDM benennen und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
-* ... Themenaspekte aus dem FDM identifizieren, die in die eigene Lehre integriert werden können.
-* ... erste Ideen zur Integration von FDM-Aspekten in die eigene Lehre entwickeln.
-* ... über Ideen zur Integration von FDM-Themenaspekten in die Lehre reflektiert und diskutiert haben.
-* ... auch ein bisschen Spaß hatten.
-
-<div style="page-break-after: always;"></div>
-
-## Limitationen
-
-<img src="/images/limitations.png" alt="Limitations" width="250" align="right">
-
-Aus zeitlichen Gründen werden wir heute nur einige grundlegende Aspekte dessen, was es über Inhalte und Methoden im Forschungsdatenmanagement zu wissen gibt, behandeln können.
-
-Wir werden uns keine speziellen Software-Tools anschauen.
-
-Fachspezifische Aspekte werden nicht behandelt, dürfen von Ihnen aber sehr gerne in die Diskussionen eingebracht werden.
-
-Zum Ende des Workshops nehmen wir gerne Ihre Wünsche für weiterführende/vertiefende Workshopthemen auf.
-
-<div style="page-break-after: always;"></div>
-
-## Agenda
-
-<img src="/images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="350" align="right">
-Illustration: Cleo Michelsen
-
-Unsere Agenda für heute
-
-- Ankommen: Workshop Regeln, Warm-up, Erwartungen, Ziele und Limitationen
-- Allgemeine didaktische Hinweise
-- Überblick über das Themenspektrum FDM
-- Betrachtung ausgewählter Themenaspekte
-- Ausprobieren und eigene Ideen/Übungen/Aufgabenstellungen entwickeln
-- FDM an der CAU
-- Offene Fragen/Wünsche
-- Feedback
-
----
-
-** Wir machen eine Stunde Mittagspause**
-
-<div style="page-break-after: always;"></div>
-
-# Einstieg & Orientierung
+## Orientierung im Thema FDM
 
 <!---
-Orientierung im Themenbereich FDM, Grundbegriffe im FDM
+Orientierung im Themenbereich FDM
 
-Lernziele (LZM-FDM):
-Lernende können	den Begriff Forschungsdaten	erläutern.(LZ-ID: 01_001_0007)
+Methode: 
 
-Lernende können	Beispiele für Forschungsdaten	benennen. (LZ-ID: 01_001_0008)
+Zeit: 5 Min
 
-Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
+Lernziele:
+
+Lernende können Orientierungshilfen, wie die LZM-FDM und andere Kompetenz- oder Lernzielrahmen, zu Themen des Forschungsdatenmanagement (FDM) benennen.
+
+Lernende können Themen im Forschungsdatenmanagement (FDM) benennen.
+
+Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM und Vorgehensweisen in der eigenen Lehre.
 
 --->
 
-<img src="images/FragezeichenTyp.jpg" width="150" align="right">
+![FragezeigenTyp](../images/FragezeichenTyp.jpg)<!-- style: width="150" align="right" -->
+
+Der Themenbereich Forschungsdatenmanagement ist komplex.
+
+Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
+
+## FDM, Kompetenzen und Lernziele
+
+>Forschungsdatenmanagement ist ein **breites und vielschichtiges Thema**, das viele unterschiedliche Aspekte umfasst:
+>
+>>**Forschungsdatenmanagement (FDM)** umfasst alle Aktivitäten, die mit der
+>>
+>> - **Aufbereitung**,
+>> - **Speicherung**,
+>> - **Archivierung** und
+>> - **Veröffentlichung**
+>>
+>>von Forschungsdaten verbunden sind.
+>>
+>>FDM begleitet den Forschungsprozess von den ersten Planungen bis zur Archivierung, Nachnutzung oder Löschung der Daten.[^1]
+
+[^1] [Biernacka et al. (2023)](https://doi.org/10.5281/zenodo.10122153)
+
+### Orientierungswerkzeuge für Lehrende
+
+Um sich in dieser Komplexität zu orientieren, gibt es Orientierungswerkzeuge:
+
+{{1-2}}
+*********************
+**Lernzielmatrix (LZM) zum Themenbereich FDM**
+
+Die [**Lernzielmatrix Forschungsdatenmanagement**](https://zenodo.org/records/15025246) bietet:
+
+- einen Überblick über die verschiedenen Themenbereiche und Inhaltsaspekte des FDM.
+- vorformulierte Lernziele für unterschiedliche Zielgruppen und in unterschiedlichen Komplexitätsstufen.
+
+Sie kann als Orientierungshilfe für die Planung von Lehre zum Themenbereich FDM dienen und hilft, **relevante Inhalte zu identifizieren, zu priorisieren und Lehre zu planen**.
+
+*******************
+
+{{2}}
+*******************
+**Skills4EOSC Minimum Viable Skills Profiles**
+
+Die [**Skills4EOSC Minimum Viable Skills Profiles**](https://www.skills4eosc.eu/resources/publications/mvs) definieren **minimale Kompetenzen**, die Studierende auf verschiedenen Niveaus (Undergraduate, Master) im Bereich **Open Science** erwerben sollten.
+
+Die Profile bieten einen kurzen Überblick auf das "Notwendigste."
+
+*******************
+
+### Kompetenzentwicklung in der Lehre
+
+Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfolgt **schrittweise und kontextabhängig**.
+
+Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Schwerpunkte relevant sein.
+
+=> Vorhandene Orientierungswerzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
+
+=> Auswahl von für eigenes Fachgebiet relevanten Aspekten, Setzung eigner Schwerpunkte
+
+=> Formulierung von fach- und veranstaltungsspezifischen Lernzielen
+
+=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenestellungen, Lernzielkontrollen usw.
+
+## Weiterführende Ressourcen
+
+Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025
+
+Lemaire, M., Voigt, A., & Lehmkuhl, U. (2025). Whitepaper: Datenkompetenzen für die historisch arbeitenden Disziplinen. Zenodo. https://doi.org/10.5281/zenodo.15479671
+
+Lernzielmatrix zum Forschungsdatenmanagement @ forschungsdaten.org, online: https://www.forschungsdaten.org/index.php/Lernzielmatrix,  letzter Zugriff 21.01.2026
+
+Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
+
+Skills4EOSC collection of Minimum Viable Skills Profiles (MVS), online: https://www.skills4eosc.eu/resources/publications/mvs, letzter Zugriff 21.01.2026
+
+Torres-Ramos, G., Sowinski, C., Sharma, S., Souyioultzoglou, I., Dostatnia, K., Schirru, L., Green, D., & Whyte, A. (2025). Student - Undergraduate: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923028
+
+<!-- END MODULE: 02_TtL-FDM_OrientierungThema_I -->
+<!-- MODULE: 02_TtL-FDM_OrientierungThema_A -->
+
+## Orientierung im Thema FDM
+
+<!---
+Orientierung im Themenbereich FDM
+
+Methode: Gruppenarbeit
+
+Zeit: 15 Min (10 Minuten Diskussion in Kleingruppen, 5 Minuten Review im Plenum)
+
+Lernziele:
+
+Lernende können Orientierungshilfen, wie die LZM-FDM und andere Kompetenz- oder Lernzielrahmen, zu Themen des Forschungsdatenmanagement (FDM) benennen.
+
+Lernende können Themen im Forschungsdatenmanagement (FDM) benennen.
+
+Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM und Vorgehensweisen in der eigenen Lehre.
+
+--->
+
+![FragezeigenTyp](../images/FragezeichenTyp.jpg)<!-- style: width="150" align="right" -->
 
 Der Themenbereich Forschungsdatenmanagement ist komplex.
 
@@ -227,7 +421,7 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
-<img src="/images/kurzberichte.png" width="150" align="right">
+<img src="../images/kurzberichte.png" width="150" align="right">
 
 >**Kleingruppenarbeit in Break-Outs:**
 >
@@ -245,23 +439,20 @@ Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 <div style="page-break-after: always;"></div>
 
-# Allgemeine didaktische Hinweise
+## Weiterführende Ressourcen
 
-<!--- 
-Kurze Einführung in didaktische Rahmenbedingungen
+Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025
 
-Methode: Vortrag im Plenum
+Lemaire, M., Voigt, A., & Lehmkuhl, U. (2025). Whitepaper: Datenkompetenzen für die historisch arbeitenden Disziplinen. Zenodo. https://doi.org/10.5281/zenodo.15479671
 
-Lernziele (LZM-FDM):
+Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
 
-Lernende können organisatorische Aspekte eines didaktischen Szenarios benennen. (LZ-ID: 06\_001\_1109)
+https://www.forschungsdaten.org/index.php/Lernzielmatrix
 
-Lernende können Methoden zur Auswahl und Strukturierung von Lerninhalten benennen. (LZ-ID: 06\_001\_1111)
+Torres-Ramos, G., Sowinski, C., Sharma, S., Souyioultzoglou, I., Dostatnia, K., Schirru, L., Green, D., & Whyte, A. (2025). Student - Undergraduate: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923028
 
-Lernende können Bedingungen für ein anregendes Lehren und Lernen benennen. (LZ-ID: 06\_001\_1107) 
---->
-
-Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine didaktische Hinweise:
+<!-- END MODULE: 02_TtL-FDM_OrientierungThema_A -->
+<!-- MODULE: 03_1_TtL-FDM_Didaktische-Hinweise_I -->
 
 ## Planung einer Lehrveranstaltung
 
@@ -375,23 +566,68 @@ Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich se
 
 <div style="page-break-after: always;"></div>
 
-# FDM-Basics
+## Weiterführende Ressourcen
 
-<!---
-Orientierung im Themenbereich FDM, Grundbegriffe im FDM
 
-Lernziele (LZM-FDM):
-Lernende können	den Begriff Forschungsdaten	erläutern.(LZ-ID: 01_001_0007)
+<!-- END MODULE: 03_1_TtL-FDM_Didaktische-Hinweise_I -->
+<!-- MODULE: 03_2_TtL-FDM_Lehre-Formate-Methoden_I -->
 
-Lernende können	Beispiele für Forschungsdaten	benennen. (LZ-ID: 01_001_0008)
+## Forschungsbasiert lernen
 
-Lernende können Themen im Forschungsdatenmanagement (FDM) benennen. (neu)
+Studierende entwickeln und bearbeiten "echte" Forschungsfragen mit authentischen Daten, um wissenschaftliche Methoden anzuwenden, Daten zu analysieren und evidenzbasierte Schlüsse zu ziehen.
 
---->
+**Beispielhafte Lernziele:**
 
-<img src="/images/FragezeichenTyp.jpg" width="150" align="right">
+- *Lernende können für die Fragestellung relevante Datensätze aus verschiedenen Portalen in unterschiedlichen Formaten sinnvoll auswählen.*
+- *Lernende können Daten aus verschiedenen Datenquellen extrahieren, filtern und vergleichen, um einen eigenen Datensatz zu erstellen.*
+- *Lernende können komplexe evidenzbasierte Argumente entwickeln und präsentieren.*
+- *Lernende können komplexe Berichte auf der Grundlage von Datenanalysen in Form von Haus-, Forschungsarbeiten oder Postern präsentieren.*
 
-Wir wollen zunächst einige Grundbegriffe klären...
+>**Beispielhafte Fragestellungen**
+> 
+> - Gibt es einen Zusammenhang zwischen dem Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
+> - Welchen Einfluss hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
+
+## Projektbasiert lernen
+Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, Services oder Prototypen entwickeln. Dabei geht es weniger um die Beantwortung einer Forschungsfrage, sondern um die Gestaltung, Umsetzung und Reflexion eines Projekts – oft mit interdisziplinärem Bezug.
+
+**Beispielhafte Lernziele:**
+
+- *Lernende können geeignete offene Datensätze identifizieren und für ein Projektvorhaben auswählen.*  
+- *Lernende können Daten technisch aufbereiten und in Anwendungen oder Visualisierungen einbinden.*  
+- *Lernende können in Teams kollaborativ arbeiten und Arbeitspakete eigenständig koordinieren.*  
+- *Lernende können Projektergebnisse adressatengerecht dokumentieren und präsentieren (z. B. in Form von Prototypen, Apps, Dashboards oder Webkarten).*  
+- *Lernende können die gesellschaftliche Relevanz und die Nachhaltigkeit ihres Projekts reflektieren.*  
+
+> **Beispielhafte Projekte**: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
+
+<div style="page-break-after: always;"></div>
+
+# ~~Gruppenarbeit~~: Eigene Ideen für die Lehre
+
+> <img src="../images/kurzberichte.png" width="150" align="right">
+>
+>**Kleingruppenarbeit**
+>
+>Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
+>
+>Entwickeln und sammeln Sie Idee(n) für Lehrformate, konkrete Aufgabenstellungen oder Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Themabereich Forschungsdatenmanagement.
+>
+>  - Welche Lernziele ließen sich verfolgen?
+>
+>  - Welche Lehr-/Lernszenarien wären denkbar?
+>
+>  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
+>
+>Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
+
+<div style="page-break-after: always;"></div>
+
+## Weiterführende Ressourcen
+
+
+<!-- END MODULE: 03_2_TtL-FDM_Lehre-Formate-Methoden_I -->
+<!-- MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe -->
 
 ## Begriffsdefinition Forschungsdatenmanagement
 
@@ -415,7 +651,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 ********************************************************************************
 Die **DFG** definiert den Begriff **"Forschungsdaten"** folgendermaßen:
 
-> „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist.“
+> „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist."
 >
 > (*DFG 2021*)
 
@@ -426,7 +662,7 @@ Die **DFG** definiert den Begriff **"Forschungsdaten"** folgendermaßen:
 
 Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge University den Begriff **Forschungsdaten** als:
 
-> “Any any information you use in your research.”
+> "Any any information you use in your research."
 >
 > (*University of Camebridge PrePARe Project*)
 
@@ -435,7 +671,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ### Beispiele für Forschungsdaten
 
-<img src="/images/forschungsdatenBSP.png" width="350" align="right">
+<img src="../images/forschungsdatenBSP.png" width="350" align="right">
 
 - Audio- und Videoaufzeichnungen
 - Tagebücher
@@ -460,7 +696,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005_0079)
 --->
 
-<img src="/images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
+<img src="../images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
 
 <P><SMALL>Illustration: Cleo Michelsen, basierend auf dem Forschungsdatenlebenszyklus des UK Data Service</SMALL></P>
 
@@ -468,7 +704,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 
 {{1}}
 ********************************************************************************
-<img src="/images/Planung_fdm-zyklus_2022.png" width="150" align="right">
+<img src="../images/Planung_fdm-zyklus_2022.png" width="150" align="right">
 
 **Planung**:
 
@@ -488,7 +724,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 
 {{2}}
 ********************************************************************************
-<img src="/images/erhebung-analyse_fdm-zyklus_2022.png" width="150" align="right">
+<img src="../images/erhebung-analyse_fdm-zyklus_2022.png" width="150" align="right">
 
 **Erhebung und Analyse**:
 
@@ -506,7 +742,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 {{3}}
 ********************************************************************************
 
-<img src="/images/veroeffentl-archiv_fdm-zyklus_2022.png" width="150" align="right">
+<img src="../images/veroeffentl-archiv_fdm-zyklus_2022.png" width="150" align="right">
 
 **Archivierung & Veröffentlichung**:
 
@@ -523,7 +759,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 {{4}}
 ********************************************************************************
 
-<img src="/images/nachnutzung-fdm-zyklus_2022.png" width="150" align="right">
+<img src="../images/nachnutzung-fdm-zyklus_2022.png" width="150" align="right">
 
 **Nachnutzung**:
 
@@ -545,7 +781,7 @@ Lernende können	die FAIR-Prinzipien	erläutern. LZ-ID: 01_007_0118)
 --->
 {{0-1}}
 ****************
-<img src="/images/fair2.jpg" width="450" align="right"> 
+<img src="../images/fair2.jpg" width="450" align="right"> 
 
 Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
 
@@ -637,7 +873,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 >
 > - … alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojekts hinreichend beschreiben und dokumentieren.
 >
-> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung“^1^
+> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung"^1^
 >
 ><small>^1^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
 
@@ -686,7 +922,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 | DFG                | Angaben zum Umgang mit Forschungsdaten | als integraler Bestandteil des Antragstextes | DFG-Checkliste          | Projektende      |
 | BMBF               | Plan erforderlich je nach Förderlinie  | ja, wenn erforderlich                        | programmabhängig        | programmabhängig |
 | EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
-| VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template“    | living document  | 
+| VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template"    | living document  | 
 
 => Während die Templates der nationalen Förderer sich eher am Datenmanagementzyklus orgientieren, orientiert sich das Template der EU an den FAIR-Prinzipien.
 
@@ -767,7 +1003,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{2-3}}
 ********************************************************************************
-![Bild](/images/UNESCO_OS.jpg) 
+![Bild](../images/UNESCO_OS.jpg) 
 
 (CC-BY 4.0, UNESCO)
 
@@ -819,7 +1055,7 @@ Wie können Sie Daten veröffentlichen und weitergeben?
 
 {{1}}
 ********************
-> Ergänzung zu einem von peer-review Artikel („enhanced publication“)
+> Ergänzung zu einem von peer-review Artikel („enhanced publication")
 ********************
 
 {{2-3}}
@@ -828,7 +1064,7 @@ Wie können Sie Daten veröffentlichen und weitergeben?
 - als alleinstehenden Datensatz in einem Repository mit einem Link zum entsprechenden Artikel.
 
 <div style="width:100%;">
-  <img src="images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+  <img src="../images/Example_R-R-Article.jpg" alt="Example R-R-Article">
 </div>
 
 **********************
@@ -852,7 +1088,7 @@ Wie können Sie Daten veröffentlichen und weitergeben?
 Beispiel:
 
 <div style="float:left; width:45%;">
-<img src="images/Example_Pangaea.jpg" alt="Example Pangea">
+<img src="../images/Example_Pangaea.jpg" alt="Example Pangea">
 <sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
 
 </div>
@@ -860,7 +1096,7 @@ Beispiel:
 <div style="float:right; width:45%;">
 
 <div style="width:100%;">
-  <img src="images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <img src="../images/Example_Zenodo.jpg" alt="Example Zenodo">
   <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
 </div>
 
@@ -886,7 +1122,7 @@ Beispiel:
 Beispiel:
 
 <div style="float:left; width:45%;">
-<img src="images/example-datainbrief.png" alt="Example Data journal">
+<img src="../images/example-datainbrief.png" alt="Example Data journal">
 <sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
 
 </div>
@@ -894,7 +1130,7 @@ Beispiel:
 <div style="float:right; width:45%;">
 
 <div style="width:100%;">
-  <img src="images/example-datainbrief.png" alt="Example Data journal">
+  <img src="../images/example-datainbrief.png" alt="Example Data journal">
   <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
 </div>
 
@@ -939,8 +1175,8 @@ Beispiel:
 
 {{1-2}}
 ****************
->*"Ein Repositorium (lateinisch repositorium, ‚Lagerhaus‘) ist ein verwalteter Ort zur Aufbewahrung geordneter Dokumente, die der Öffentlichkeit oder einem begrenzten Benutzerkreis zugänglich sind. Ein Archiv (lat. archivum, 'Aktenschrank') hingegen verwaltet nur historische Dokumente. „*
->>*"Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten...möglichst dauerhaft speichern und organisieren...um die Auffindbarkeit und Zugänglichkeit der Daten zu gewährleisten... “*
+>*"Ein Repositorium (lateinisch repositorium, ‚Lagerhaus') ist ein verwalteter Ort zur Aufbewahrung geordneter Dokumente, die der Öffentlichkeit oder einem begrenzten Benutzerkreis zugänglich sind. Ein Archiv (lat. archivum, 'Aktenschrank') hingegen verwaltet nur historische Dokumente. „*
+>>*"Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten...möglichst dauerhaft speichern und organisieren...um die Auffindbarkeit und Zugänglichkeit der Daten zu gewährleisten... "*
 >
 >^Quelle: Esther Asef, Katarzyna Biernacka, Elisabeth Böker,Sarah Ann Danker, Juliane Jacob, Janna Neumann, Britta Petersen, Jessica Rex und Ute Trautwein-Bruns (2021): Data Sharing interaktiv vermitteln^
 ************************
@@ -1008,25 +1244,18 @@ Beispiel:
 
 **Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
 
-<img src="/images/formate.png">
+<img src="../images/formate.png">
 
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
 
-## Fragen?
+## Weiterführende Ressourcen
 
-Fragen?
 
-# Praktische Übungen für die Lehre
 
-Wir werden uns eine kleine Auswahl an Themenaspekten etwas näher anschauen:
-
-* Ordner-, Dateibenennung & Versionierung
-* Dokumentation & Qualität von Forschungsdaten
-* Nachnutzung von Forschungsdaten
-
-<div style="page-break-after: always;"></div>
+<!-- END MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe -->
+<!-- MODULE: 04_TtL-FDM_Ordner-und-Dateibenennung.md -->
 
 ## Ordner- und Dateibenennung 📂
 {{0-1}}
@@ -1035,7 +1264,7 @@ Wir werden uns eine kleine Auswahl an Themenaspekten etwas näher anschauen:
 ><p style="color:#9a047f">**Es mag banal erscheinen, aber eine strukturierte Ordner- und Dateibenennung ist ein erster Schritt im Forschungsdatenmanagement!**</p>
 </div>
 
-<center><img src="images/naming-data-comic.png" alt="wild file names" height="150" width="200"></center>
+<center><img src="../images/naming-data-comic.png" alt="wild file names" height="150" width="200"></center>
 
 <div style="text-align:center">
 <P><SMALL>https://xkcd.com/1459. Shared under CC-BY-NC License</SMALL></P>
@@ -1117,7 +1346,7 @@ Es gilt außerdem:
 ********************************************************************************
 Beispiel Ordnerstruktur:
 
-<img src="/images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="350">
+<img src="../images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="350">
 
 ---
 
@@ -1167,7 +1396,7 @@ Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 ********************************************************************************
 Beispiele für Benennungskonventionen:
 
-<img src="/images/Abb_Beispiele-Benennungskonvention_2022_bp.png">
+<img src="../images/Abb_Beispiele-Benennungskonvention_2022_bp.png">
 
 ********************************************************************************
 
@@ -1178,7 +1407,7 @@ Beispiele für Benennungskonventionen:
 {{0-1}}
 ********************************************************************************
 
-<img src="/images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg"> Illustration: Cleo Michelsen
+<img src="../images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg"> Illustration: Cleo Michelsen
 
 ********************************************************************************
 
@@ -1247,7 +1476,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 ---
 
-<img src="/images/versionsdoku-beispiel-rda_2.png">
+<img src="../images/versionsdoku-beispiel-rda_2.png">
 
 ********************************************************************************
 
@@ -1258,7 +1487,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 **Beispiel eines dokumentierten Versionierungsschemas:**
 
-<img src="/images/OstData_Versionierungsschema.png">
+<img src="../images/OstData_Versionierungsschema.png">
 
 https://zenodo.org/record/6076538#.Y4pE63bMJPa
 
@@ -1387,6 +1616,12 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
+## Weiterführende Ressourcen
+
+
+<!-- END MODULE: 04_TtL-FDM_Ordner-und-Dateibenennung.md -->
+<!-- MODULE: 04_6_1_TtL-FDM_Dokumentation.md -->
+
 ## Datendokumentation 📝
 
 {{0-1}}
@@ -1408,7 +1643,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 {{1}}
 ********************
-> <img src="/images/kurzberichte.png" width="150" align="right">
+> <img src="../images/kurzberichte.png" width="150" align="right">
 >
 >**Kleingruppenarbeit**
 >
@@ -1459,25 +1694,6 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
-## Datenqualität
-Zentrale Dimensionen der Datenqualität
-
-* Genauigkeit / Validität – stimmen die Daten mit der Realität überein?
-
-* Vollständigkeit – fehlen relevante Werte oder Metadaten?
-
-* Konsistenz – sind Formate, Schreibweisen und Einheiten einheitlich?
-
-* Nachvollziehbarkeit – lässt sich der Ursprung (Provenienz) rekonstruieren?
-
-* Dokumentation – sind Variablen, Methoden und Änderungen dokumentiert?
-
-* Wiederverwendbarkeit – ist klar, unter welchen Bedingungen andere sie nutzen können?
-
-=> Datenqualität ist kein technischer Nebenaspekt, sondern Teil guter wissenschaftlicher Praxis und sollte sichtbar in der Lehre verankert werden.
-
-<div style="page-break-after: always;"></div>
-
 ### Warum dokumentieren?
 
 {{0-1}}
@@ -1524,7 +1740,7 @@ Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https:
 ********************
 
 **Leitlinie 12: Dokumentation**
-„Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
+„Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]"
 
 <P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
 </SMALL></P>
@@ -1558,7 +1774,7 @@ Beispiel für eine Readme-Vorlage:
 ********************
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-<img src="images/datendoku_readme-beispiel.png">
+<img src="../images/datendoku_readme-beispiel.png">
 
 ********************
 
@@ -1566,367 +1782,37 @@ https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 ********************
 Beispiele für Data Dictionary und Codebook
 
-<img src="images/datendoku_dictionary-codebook.png">
+<img src="../images/datendoku_dictionary-codebook.png">
 
 ********************
 
 <div style="page-break-after: always;"></div>
 
+## Weiterführende Ressourcen
 
-## Nachnutzung ♻️
+<!-- END MODULE: 04_6_1_TtL-FDM_Dokumentation.md -->
+<!-- MODULE: 05_TtL-FDM_Wrap-Up -->
 
-Bereits erhobene Forschungsdaten nachzunutzen kann in verschiedenen Zusammenhängen sinnvoll sein:
+<!--
 
-* Forschungsdaten müssen ggf. nicht erneut zeit- und kostenintensiv erhoben werden
-* Vorhandene Forschungsdaten können als Vergleichswerte dienen,
-* für Meta-Analysen verwendet werden,
-* in neuen Kontexten analysiert werden oder
-* **als OER[^1] in der Lehre eingesetzt** werden.
+author:   Britta Petersen, Linda Zollitsch
+email:    
+version:  0.1.0
+language: de
+narrator: Deutsch male
 
----
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-<br>
+comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
 
-[^1] sofern die nachgenutzen Daten unter einer entsprechenden Lizenz veröffentlicht sind.
-
-<div style="page-break-after: always;"></div>
-
-### Forschungsdaten als didaktische Ressource
-
->Forschungsdaten, die unter einer entsprechenden Lizenz veröffentlicht wurden, eignen sich gut, zur
->
->* Föderung der **Datenkompetenz** (suchen, bewerten, analysieren, visualisieren, nutzen)
->* Förderung **Kritischen Denkens** (Datenqualität, Bias, Lücken, Ethik)
->* Förderung **wissenschaftlicher Werte**, wie Offenheit & Reproduzierbarkeit
-
-### Forschungsdaten finden
-
-{{0-1}}
-********************
->**Wer Daten nachnutzen möchte, muss zunächst einen passenden Datensatz finden!**
->
->*~~Lernziel~~: Lernende können eigenständig eine Datensatzrecherche durchführen.*
-********************
-
-{{1-2}}
-********************
-Es gibt verschiedene Möglichkeiten, um nach Forschungsdaten zu suchen:
-
-- In **Fachrepositorien** (z.B. https://www.fidgeo.de/daten-publikationen/daten-publikationen) und **fachübergreifenden Repositorien** (z. B. https://zenodo.org/)
-- In **institutionellen Repositorien** (z.B. https://opendata.uni-kiel.de/content/index.xml)
-- In Repositorien für **offene Verwaltungsdaten** (z. B. https://opendata.schleswig-holstein.de/dataset)
-- Mittels **(Meta)suchmaschinen** (z. B. B2FIND http://b2find.eudat.eu gesisDataSearch http://datasearch.gesis.org/start Mendeley Data https://data.mendeley.com/)
-- Recherche in **bibliothekarischen Suchmaschinen** (z. B. BASE https://www.base-search.net/Search/Advanced)
-- Google: Stichwort und „data set“ bzw. [Google Dataset Search](https://datasetsearch.research.google.com/)
-
-<br>
-=> Eine Sammlung verschiedener Open Access Repositorien finden Sie auch hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
-********************
-
-{{2}}
-********************
->Die TUM listet auf Ihren Internetseiten unter der Überschrift "Daten finden" verschiedene Möglichkeiten für die Datenrecherche auf: (https://web.tum.de/researchdata/support-information/daten-nachnutzen/).
->
->**Welche der von der TUM aufgelisteten Möglichkeiten fehlen in unserer Liste?**
->
->[[ ]] Suchmaschienen
->[[ ]] Repositorien
->[[x]] Data Journals
->[[x]] Zeitschriftenartikel
-********************
-
-#### Suchauftrag
-
->Das probieren wir direkt einmal aus!
->
->> 1. Suchen Sie in [Open-Data Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) oder mit [Google Dataset Search](https://datasetsearch.research.google.com/) nach einem Datensatz, der zur Beantwortung der Frage **"Welche Baumarten gibt es in der Landeshauptstadt Kiel?"** genutzt werden kann?
->
->> 2. Suchen Sie in einem wissenschaftlichen Forschungsdatenrepositorium (z. B. GFZ Data Services) oder [Google Dataset Search](https://datasetsearch.research.google.com/) nach einem Datensatz zu:
->>
->>  * stabilen Sauerstoffisotopen in der Zellulose von Baumringen in Stieleichen (Quercus robur) aus Deutschland. =>**Verwenden Sie englische Suchbegriffe.**
-
-<div style="page-break-after: always;"></div>
-
-### Forschungsdaten zitieren
-
-{{0-1}}
-********************
-Im Sinne der guten wissenschaftlichen Praxis müssen Forschungsdaten wie jede andere Quelle eindeutig zitiert werden.
-
-*~~Lernziel~~: Lernende können eigenständig Zitationsregeln auf nachgenutzte Datensätze anwenden.*
-********************
-
-{{1-2}}
-********************
-Verschiedene Gruppen und wissenschaftliche Communities haben sich damit beschäftigt, Guidelines und Empfehlungen zur Zitation von Forschungsdaten zu erstellen.
-
-Hervorzuheben sind hier insbesondere die Empfehlung der Initiative [**Force11**](https://force11.org/) sowie des internationalen Registrierungsservice [**DataCite**](https://schema.datacite.org/).
-
-Es existiert (noch) kein einheitlicher Standard für Datenzitationen.
-
->**Nach FORCE11-Empfehlung**: Autor:in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
-
->**Nach DataCite 2013**: Urheber:in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
-
->**Häufig finden sich Zitationsempfehlungen in den Metadaten eines Datensatzes.**
-********************
-
-<div style="page-break-after: always;"></div>
-
-{{2-3}}
-********************************************************************************
->Auch das probieren wir einmal aus:
->
->**Aufgabe**:
->
->Zitieren Sie die Datensätze
->
->* ["Bäume auf städtischem Grund in der Landeshauptstadt Kiel"](https://opendata.schleswig-holstein.de/dataset/baume2) und
->
->* ["Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany"](https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b).
->
->* Pfüfen Sie, ob eine Zitationsempfehlung existiert.
->* Falls keine Empfehlung existiert, zitieren Sie nach FORCE11-Empfehlung.
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
->**Lösung**:
->
->1. Landeshauptstadt Kiel (2024): Bäume auf städtischem Grund in der Landeshauptstadt Kiel. Open Data Schleswig-Holstein. URL: https://opendata.schleswig-holstein.de/dataset/baume2
->
->- keine Zitationsempfehlung vorhandenen => Zitat nach FORCE11-Empfehlung
->
->- keine persistenten Identifikatoren angegeben, alternativ wird URL genannt
-
->2. Helle, Gerhard; Brauer, Achim; Heinrich, Ingo (2023): Stable oxygen isotope ratios of tree-ring cellulose from oak (Quercus robur) at Lake Tiefer See, Mecklenburg Lake District, Northeastern Germany. GFZ Data Services. https://doi.org/10.5880/tereno.trsi.2023.002
->
->  - Zitationsempfehlung vorhandenen => Empfehlung übernommen
-
-********************************************************************************
-
-### Rechtslage einschätzen
-
-{{0-1}}
-********************
-Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
-
-*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
-********************
-
-{{1-2}}
-********************
-Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
-
-Die am häufigsten verwendeten Lizenzensysteme sind:
-
-- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
-- GNU General Public License (GPL) / für Software konzipiert
-- Open Data Commons (ODC) / für Datenbanken konzipiert
-- Community Data License Agreement / für Daten konzipiert
-
-Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
-
-https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
-
-Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
-
-********************
-<div style="page-break-after: always;"></div>
-
-{{2}}
-********************************************************************************
->**Aufgabe**:
->
->Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/lehrformate-methoden/open-educational-resources/creative-commons/
->
->1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht?
->
-> [[ ]] CC0
-> [[ ]] CCBY
-> [[x]] CCBYSA
-> [[ ]] CCBYSAND
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
->2. Welches Problem ergibt sich, wenn die Abbildung der RUB im Rahmen eines Projektes verändert und in der veränderten Form unter der Lizenz CCBY veröffentlicht werden soll?  
->
-> [[ ]] keins
-> [[x]] Eine Veröffentlichung unter CCBY ist nicht möglich, da CCBYSA die Veröffentlichung unter gleichen Bedingungen vorschreibt.
-> [[ ]] Es fallen Lizenzgebühren an für die verwendete Abbildung an.
-> [[ ]] Die Abbildung darf nur unverändert verwendet werden.
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-### Dateiformate
-
-{{0-1}}
-********************
-Um in der Lage zu sein, existierende Forschungsdaten nachzunutzen, müssen wir mit verschiedenen Dateiformaten umgehen können.
-
-  - *~~Lernziel~~: Lernende können verschiedende Dateiformate benennen und erläutern.*
-
-********************
-
-{{1}}
-********************
->In welchen Dateiformaten liegen die eben gesuchten und zitierten Daten vor? Mit welchen Softwares können die jeweiligen Formate gelesen werden?
->
->1. https://opendata.schleswig-holstein.de/dataset/baume2
->
->2. https://dataservices.gfz-potsdam.de/tereno-new/showshort.php?id=6670569a-fa4a-11ed-95b8-f851ad6d1e4b
-
-********************
-
-### Analysieren & Visualisieren
-{{0-1}}
-********************
-Nachgenutzte Forschungsdaten können zum Aufbau von Kenntnissen und Fähigkeiten im Analysieren und Visualisieren von Daten, z. B.
-
-- **Analysieren**
-
-  - *~~Lernziel~~: Lernende können das Einlesen verschiedener Dateiformate in verschiedene Softwares durchführen.*
-  - *~~Lernziel~~: Lernende können Softwares für die Datenanalyse anwenden.*
-  - *~~Lernziel~~: Lernende können können statistische Operationen durchführen.*
-
-- **Visualisierungen**
-
-    - Beispiel Lernziel: *Lernende können Softwares zur grafischen Darstellung von Daten anwenden.*
-
-********************
-
-{{1-2}}
-********************
->Auch das probieren wir direkt einmal aus:
->
->1. Laden Sie sich den Datensatz [Bäume auf stäftischem Grund in der Landeshauptstadt Kiel](https://opendata.schleswig-holstein.de/dataset/baume2) als csv-Datei runter.
->2. Lesen Sie den Datensatz in LibreOffice Calc und/oder Excel ein.
->3. Analysieren Sie:
->
->* Bestimmen Sie die absolute Anzahl Ginkgos in diesem Datensatz.
->* Ermitteln Sie den relativen Anteil der Baumart Ginkgo am Gesamtbaumbestand.
->* Ermitteln Sie die durchschnittliche Kronengröße der Ginkgos im Kieler Stadtgebiet.
->* Für ganz schnelle Menschen: Visualisieren die absolute Anzahl Ginkgos nach Kronengrößen in den folgenden vier Gruppen:
->
->  - Kronengröße 1-2 Meter
->  - Kronengröße 3-5 Meter
->  - Kronengröße 6-8 Meter
->  - Kronengröße >9 Meter
-********************
-
-{{2}}
-********************
->Lesen Sie auch den Datensatz zu den stabilen Sauerstoffisotopen in Stiel-Eichen mit LibreOffice Calc oder Excel ein.
->Vergleichen Sie die beiden Importvorgänge.
->Worauf ist bei Import generell zu achten? Welche Probleme können auftreten?
-
-********************
-
-### Datenqualität
-
-Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datensätzen** bezüglich verschiedener Faktoren (z.B. Korrektheit, Relevanz, Repräsentativität, Vollständigkeit) geübt werden
-
-- Beispiel Lernziel: *Lernende können die Qualität eines Datensatzes hinsichtlich seiner Qualität bewerten und diskutieren.*
-
->Vergleichen Sie die beiden Datensätze "Bäume" und "Stabile Sauerstoffisotope". Schätzen Sie jeweils die Qualität des Datensatzes und der Datendokumentation ein.
-
-# Lehre: Formate und Methoden
-
-{{0-1}}
-********************
-Aspetkte des FDM können im Rahmen vieler verschiedener Lehrformate adressiert werden:
-
-- Proseminare
-- Tutorien
-- Vorlesungen
-- Übungen
-- Praktika
-- ...
-
-********************
-
-{{1-2}}
-********************
-Beispiele:
-
-<iframe src="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=mathe/gemein_1/zentr/vorles&anonymous=1&founds=mathe/gemein_1/zentr/kleing_5,/semina_80,/vorles,///zoolog/zentr/kleing_3,/prakti_56,/semina,/semina_6,/semina_9,/vorles,/vorles_2,/vorles_6&nosearch=1&ref=main&sem=2025w&__e=383" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="Unvis" allowTransparency="true"><p><a href="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=mathe/gemein_1/zentr/vorles&anonymous=1&founds=mathe/gemein_1/zentr/kleing_5,/semina_80,/vorles,///zoolog/zentr/kleing_3,/prakti_56,/semina,/semina_6,/semina_9,/vorles,/vorles_2,/vorles_6&nosearch=1&ref=main&sem=2025w&__e=383">Go to Univis</a></p></iframe>
-
-********************
-
-{{2}}
-********************
-<iframe src="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=gemei/instit_2/zentr/archol&anonymous=1&founds=gemei/instit_2/urundf/archfo,//zentr/aktuel,/angewa,/archol,/archol_8,/armund,/einfhr_4,/heiint,/schiff,/schlss&lang=en&nosearch=1&ref=main&sem=2025w&tdir=mathe/biolog/nebenf/anthro&__e=383" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="Unvis" allowTransparency="true"><p><a href="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=gemei/instit_2/zentr/archol&anonymous=1&founds=gemei/instit_2/urundf/archfo,//zentr/aktuel,/angewa,/archol,/archol_8,/armund,/einfhr_4,/heiint,/schiff,/schlss&lang=en&nosearch=1&ref=main&sem=2025w&tdir=mathe/biolog/nebenf/anthro&__e=383">Go to Univis</a></p></iframe>
-
-********************
-
-{{3}}
-********************
-Mit nachgenutzen Forschungsdaten kann **forschungsbasiertes** oder **projektbasiertes Lernen** ermöglicht werden.
-********************
-
-## Forschungsbasiert lernen
-
-Studierende entwickeln und bearbeiten "echte" Forschungsfragen mit authentischen Daten, um wissenschaftliche Methoden anzuwenden, Daten zu analysieren und evidenzbasierte Schlüsse zu ziehen.
-
-**Beispielhafte Lernziele:**
-
-- *Lernende können für die Fragestellung relevante Datensätze aus verschiedenen Portalen in unterschiedlichen Formaten sinnvoll auswählen.*
-- *Lernende können Daten aus verschiedenen Datenquellen extrahieren, filtern und vergleichen, um einen eigenen Datensatz zu erstellen.*
-- *Lernende können komplexe evidenzbasierte Argumente entwickeln und präsentieren.*
-- *Lernende können komplexe Berichte auf der Grundlage von Datenanalysen in Form von Haus-, Forschungsarbeiten oder Postern präsentieren.*
-
->**Beispielhafte Fragestellungen**
-> 
-> - Gibt es einen Zusammenhang zwischen dem Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
-> - Welchen Einfluss hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
-
-## Projektbasiert lernen
-Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, Services oder Prototypen entwickeln. Dabei geht es weniger um die Beantwortung einer Forschungsfrage, sondern um die Gestaltung, Umsetzung und Reflexion eines Projekts – oft mit interdisziplinärem Bezug.
-
-**Beispielhafte Lernziele:**
-
-- *Lernende können geeignete offene Datensätze identifizieren und für ein Projektvorhaben auswählen.*  
-- *Lernende können Daten technisch aufbereiten und in Anwendungen oder Visualisierungen einbinden.*  
-- *Lernende können in Teams kollaborativ arbeiten und Arbeitspakete eigenständig koordinieren.*  
-- *Lernende können Projektergebnisse adressatengerecht dokumentieren und präsentieren (z. B. in Form von Prototypen, Apps, Dashboards oder Webkarten).*  
-- *Lernende können die gesellschaftliche Relevanz und die Nachhaltigkeit ihres Projekts reflektieren.*  
-
-> **Beispielhafte Projekte**: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
-
-<div style="page-break-after: always;"></div>
-
-# ~~Gruppenarbeit~~: Eigene Ideen für die Lehre
-
-> <img src="/images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
->
->Entwickeln und sammeln Sie Idee(n) für Lehrformate, konkrete Aufgabenstellungen oder Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Themabereich Forschungsdatenmanagement.
->
->  - Welche Lernziele ließen sich verfolgen?
->
->  - Welche Lehr-/Lernszenarien wären denkbar?
->
->  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
->
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
-
-<div style="page-break-after: always;"></div>
+-->
 
 # Wrap Up
 
 {{0-1}}
 ********************************************************************************
 
-<img src="/images/kurzberichte.png" width="150" align="right">
+<img src="../images/kurzberichte.png" width="150" align="right">
 
 **Wir schauen uns ein kurzes Video an. Dies verdeutlicht nochmal die Gründe, warum Forschungsdatenmanagement wichtig ist.**
 
@@ -1960,13 +1846,31 @@ Movie time!
 ********************************************************************************
 <div style="page-break-after: always;"></div>
 
+
+<!-- END MODULE: 05_TtL-FDM_Wrap-Up -->
+<!-- MODULE: 06_TtL-FDM_FDM-an-der-CAU_I -->
+
+<!--
+
+author:   Britta Petersen, Linda Zollitsch
+email:    
+version:  0.1.0
+language: de
+narrator: Deutsch male
+
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+
+comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
+
+-->
+
 # FDM an der CAU
 
 {{0-1}}
 ***********
 
 <div style="width: 50%; float:right">
-![services](./images/cau-services.png)
+![services](../images/cau-services.png)
 </div>
 
 website: https://www.fdm.uni-kiel.de/de
@@ -1980,7 +1884,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Beratung**
 
 <div style="width: 20%; float:right">
-![working](./images/consultation.png)
+![working](../images/consultation.png)
 </div>
 
 * Antragsberatung
@@ -1999,7 +1903,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Unterstützung bei Training & Lehre**
 
 <div style="width: 20%; float:right">
-![working](./images/training.png)
+![working](../images/training.png)
 </div>
 
 * Workshops
@@ -2018,7 +1922,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **FDM Infrastruktur**
 
 <div style="width: 20%; float:right">
-![working](./images/infrastructure.png)
+![working](../images/infrastructure.png)
 </div>
 
 * FDM Services
@@ -2034,7 +1938,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Networking**
 
 <div style="width: 20%; float:right">
-![working](./images/networking.png)
+![working](../images/networking.png)
 </div>
 
 * lokale Netzwerke an der CAU durch die [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
@@ -2057,7 +1961,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Kontakt**
 
 <div style="width: 20%; float:right">
-![team](./images/team.png)
+![team](../images/team.png)
 </div>
 
 Zögern Sie nicht, uns zu kontaktieren:
@@ -2080,35 +1984,27 @@ Zögern Sie nicht, uns zu kontaktieren:
 
 ***********
 
-# Themen- und Vertiefungswünsche
 
->**Gemeinschaftsarbeit im Plenum**
->
->Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764543457520234&cot=14
+<!-- END MODULE: 06_TtL-FDM_FDM-an-der-CAU_I -->
+<!-- MODULE: 06_TtL-FDM_Feedback_WieWars_A -->
 
-<div style="page-break-after: always;"></div>
+<!--
 
-# ~~Fragen und Anmerkungen~~
+author:   Britta Petersen, Linda Zollitsch
+email:    
+version:  0.1.0
+language: de
+narrator: Deutsch male
 
->Wir haben es fast geschafft!
->
->Haben Sie noch Fragen oder Anmerkungen?
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-<div style="page-break-after: always;"></div>
+comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
 
-# ~~Einzelarbeit~~: One-Minute-Paper
-
-Nehmen Sie sich ein Blatt Papier und einen Stift oder erstellen Sie einen eigenes Pad, z. B. ein [ZUM-Pad](https://zumpad.zum.de/).
-
-Notieren Sie sich die für Sie wichtigsten Punkte unseres heutigen Workshops.
-
-Sie haben genau eine Minute Zeit.
-
-<div style="page-break-after: always;"></div>
+-->
 
 # ~~Feedback~~: Na, wie war´s?
 
-> <img src="/images/FragezeichenTyp.jpg"width="100" align="right">
+> <img src="../images/FragezeichenTyp.jpg" width="100" align="right">
 >
 >Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Forschungsdatenmanagement teilgenommen haben und fragen: "Na, wie war's"?
 >
@@ -2116,57 +2012,31 @@ Sie haben genau eine Minute Zeit.
 
 <div style="page-break-after: always;"></div>
 
+
+<!-- END MODULE: 06_TtL-FDM_Feedback_WieWars_A -->
+<!-- MODULE: 06_TtL-FDM_Herzlichen-Dank_I.md -->
+
+<!--
+
+author:   Britta Petersen, Linda Zollitsch
+email:    
+version:  0.1.0
+language: de
+narrator: Deutsch male
+
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+
+comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
+
+-->
+
 # Herzlichen Dank!
 
-<img src="/images/rdmCAU.png" width="250" align="right">
+<img src="../images/rdmCAU.png" width="250" align="right">
 
 Mehr zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
 <div style="page-break-after: always;"></div>
 
-# Quellen
-Biernacka, K., Buchholz, P., Danker, S. A., Dolzycka, D., Engelhardt, C., Helbig, K., Jacob, J., Neumann, J., Odebrecht, C., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wiljes, C., & Wuttke, U. (2021). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 4). Zenodo. https://doi.org/10.5281/zenodo.5773203 
 
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
-
-Engelhardt, C., Biernacka, K., Coffey, A., Cornet, R., Danciu, A., Demchenko, Y., Downes, S., Erdmann, C., Garbuglia, F., Germer, K., Helbig, K., Hellström, M., Hettne, K., Hibbert, D., Jetten, M., Karimova, Y., Kryger Hansen, K., Kuusniemi, M. E., Letizia, V., … Zhou, B. (2022). D7.4 How to be FAIR with your data. A teaching and training handbook for higher education institutions (V1.2.1). Zenodo. https://doi.org/10.5281/zenodo.6674301
-
-Jaeger, Philipp, & Bode, Janice. (2021). Redet über die Daten! - Forschungsdatenmanagement und Hochschullehre in der Physik und darüber hinaus. Zenodo. https://doi.org/10.5281/zenodo.5168524
-
-Klump, J., Wyborn, L., Downs, R., Asmi, A., Wu, M., Ryder, G., & Martin, J. (2020). Principles and best practices in data versioning for all data sets big and small. Version 1.1. Research Data Alliance. [DOI: 10.15497/RDA00042](https://doi.org/10.15497/RDA00042).
-
-Petersen, B., Engelhardt, C., Hörner, T., Jacob, J., Kvetnaya, T., Mühlichen, A., Schranzhofer, H., Schulz, S., Slowig, B., Trautwein-Bruns, U., Voigt, A., & Wiljes, C. (2023). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) für die Zielgruppen Studierende, PhDs und Data Stewards (Version 2). Zenodo. https://doi.org/10.5281/zenodo.8010617
-
-Positionspapier zu FAIR und Open Data im physikalischen Praktikum, ZaPF, 2020, online unter https://zapfev.de/resolutionen/wise20/opendata/opendata.pdf
-
-Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American psychologist, 55(1), 68.
-
-Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic psychological needs in motivation, development, and wellness. Guilford Publications.
-https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
-
-https://ddi-lifecycle-3-2-documentation.readthedocs.io/en/latest/generalstructures/versioning.html
-
-https://de.creativecommons.net/was-ist-cc/ 
-
-https://force11.org/info/the-fair-data-principles/ 
-
-https://forschungsdaten.info/
-
-https://learn.opengeoedu.de/
-
-https://mantra.ed.ac.uk/
-
-https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf
-
-https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Schulungsunterlagen/Schulungsunterlagen_FDM_VertiefungDatenorganisation_Folien.pdf
-
-https://www.forschungsdaten-bildung.de
-
-https://www.gida-global.org/care 
-
-https://www.nfdi.de/
-
-https://opendata.uni-kiel.de/content/index.xml 
-
-https://opendata.schleswig-holstein.de/dataset 
-
+<!-- END MODULE: 06_TtL-FDM_Herzlichen-Dank_I.md -->

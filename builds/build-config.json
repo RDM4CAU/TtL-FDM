@@ -1,0 +1,59 @@
+{
+  "outputs": [
+    {
+      "name": "7-Hour Workshop",
+      "baseTemplate": "00_TtL-FDM_7h_base.md",
+      "outputFile": "00_TtL-FDM_7h.md",
+      "modules": [
+        "01_TtL-FDM_Agena_I.md",
+        "01_TtL-FDM_Limitationen_I.md",
+        "01_TtL-FDM_Ziele_I.md",
+        "01_TtL-FDM_Regeln_I.md",
+        "01_TtL-FDM_Warm-up.md",
+        "02_TtL-FDM_OrientierungThema_I",
+        "02_TtL-FDM_OrientierungThema_A",
+        "03_1_TtL-FDM_Didaktische-Hinweise_I",
+        "04_0_TtL-FDM_FDM-Grundbegriffe",
+        "04_TtL-FDM_Ordner-und-Dateibenennung.md",
+        "04_6_1_TtL-FDM_Dokumentation.md",
+        "05_TtL-FDM_Wrap-Up",
+        "06_TtL-FDM_FDM-an-der-CAU_I",
+        "06_TtL-FDM_Feedback_WieWars_A",
+        "06_TtL-FDM_Herzlichen-Dank_I.md"
+      ]
+    },
+    {
+      "name": "4-Hour Workshop (compact)",
+      "baseTemplate": "00_TtL-FDM_7h_base.md",
+      "outputFile": "00_TtL-FDM_4h.md",
+      "modules": [
+        "01_TtL-FDM_Agena_I.md",
+        "01_TtL-FDM_Limitationen_I.md",
+        "01_TtL-FDM_Ziele_I.md",
+        "01_TtL-FDM_Regeln_I.md",
+        "01_TtL-FDM_Warm-up.md",
+        "02_TtL-FDM_OrientierungThema_I",
+        "02_TtL-FDM_OrientierungThema_A",
+        "04_0_TtL-FDM_FDM-Grundbegriffe",
+        "05_TtL-FDM_Wrap-Up",
+        "06_TtL-FDM_Feedback_WieWars_A",
+        "06_TtL-FDM_Herzlichen-Dank_I.md"
+      ]
+    },
+    {
+      "name": "2-Hour Workshop (short)",
+      "baseTemplate": "00_TtL-FDM_7h_base.md",
+      "outputFile": "00_TtL-FDM_2h.md",
+      "modules": [
+        "01_TtL-FDM_Agena_I.md",
+        "01_TtL-FDM_Limitationen_I.md",
+        "01_TtL-FDM_Ziele_I.md",
+        "01_TtL-FDM_Regeln_I.md",
+        "01_TtL-FDM_Warm-up.md",
+        "04_0_TtL-FDM_FDM-Grundbegriffe",
+        "05_TtL-FDM_Wrap-Up",
+        "06_TtL-FDM_Herzlichen-Dank_I.md"
+      ]
+    }
+  ]
+}

@@ -46,3 +46,5 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
 
 <div style="page-break-after: always;"></div>
+
+## Weiterführende Ressourcen

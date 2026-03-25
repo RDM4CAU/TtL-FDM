@@ -139,7 +139,7 @@ Selting, Margret et al. (2009): Gesprächsanalytisches Transkriptionssystem 2 (G
 
 ## ~~Gruppenarbeit~~: Datendokumentation in der Lehre 📝
 
-> <img src="/images/kurzberichte.png" width="150" align="right">
+> <img src="../images/kurzberichte.png" width="150" align="right">
 >
 >**Kleingruppenarbeit**
 >
@@ -232,12 +232,12 @@ Der Artikel zur Dokumentation auf [forschungsdaten.info](https://forschungsdaten
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-<img src="images/datendoku_readme-beispiel.png">
+<img src="../images/datendoku_readme-beispiel.png">
 
 
 Beispiele für Data Dictionary und Codebook
 
-<img src="images/datendoku_dictionary-codebook.png">
+<img src="../images/datendoku_dictionary-codebook.png">
 
 <div style="page-break-after: always;"></div>
 
@@ -255,3 +255,5 @@ B: Ja, also das ist halt… also bei uns geht’s viel darum, äh, die Daten ric
 I: Und welche Herausforderungen sehen Sie dabei?
 
 B: Naja, also Datenschutz ist natürlich immer ein Thema, und ähm, wer Zugriff hat. Also wir hatten mal so einen Fall, da war irgendwas gelöscht und dann, äh, das war schwierig. Aber sonst läuft das eigentlich ganz gut, denke ich.
+
+## Weiterführende Ressourcen
