@@ -13,9 +13,24 @@ comment:  This document provides a brief introduction to research data managemen
 -->
 
 ## Forschungsdatenlebenszyklus
+
 <!---
-Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005_0079)
+Grundbegriff Forschungsdatenlebenszyklus
+
+Die Teilnehmenden (TN) erhalten eine Einführung in den Forschungsdatenlebenszyklus. Dabei werden die einzelnen Phasen des Lebenszyklus von Forschungsdaten kurz vorgestellt und erläutert.
+
+Die Einführung unterstützt ein grundlegendes Verständnis dafür, dass Forschungsdaten über verschiedene Phasen eines Forschungsprozesses hinweg erzeugt, verarbeitet, dokumentiert, gespeichert, veröffentlicht und nachgenutzt werden und die Handhabung der Daten in allen Phasen des Prozesses planvoll erfolgen sollte.
+
+Methode: Vortrag im Plenum
+
+Zeit: 5 Min
+
+Lernziele (LZM-FDM):
+
+Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005_0079)
+
 --->
+
 
 <img src="../images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
 
@@ -94,4 +109,9 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 
 <div style="page-break-after: always;"></div>
 
+## Ideen für die Lehre
+
+
 ## Weiterführende Ressourcen
+
+Forschungsdaten.info: [Der Datenlebenszyklus](https://forschungsdaten.info/fdm-allgemein/informieren-und-planen/datenlebenszyklus).

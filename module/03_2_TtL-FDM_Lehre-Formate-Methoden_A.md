@@ -1,33 +1,24 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
 
 # ~~Gruppenarbeit~~: Formate & Methoden
 
-<!--- 
+<!---
 Didaktik: Lehrformate und Methoden
 
-Methode: Kleingruppen
+Die Teilnehmenden (TN) setzen sich in Kleingruppen mit möglichen Lehrformaten und Methoden zur Integration von FDM-Inhalten in die eigene Lehre auseinander. Dabei diskutieren sie unterschiedliche Einsatzmöglichkeiten im jeweiligen Lehrkontext und reflektieren mögliche Herausforderungen. Die Gruppenabeit dient dem Austausch unterschiedlicher Perspektiven und Erfahrungen.
 
-Zeit: 10-15 Min (10 Min Kleingruppe, 5 Min Diskussion)
+Die anschließende kurze Diskussion im Plenum dient dem Austausch und der Zusammenfassung. 
+
+Methode: Kleingruppenarbeit + Diskussion im Plenum
+
+Zeit: 10–15 Min (10 Min Kleingruppe, 5 Min Diskussion)
 
 Lernziele:
 
 Lernende können geeignete Lehrformate und -methoden für die Integration von FDM-Inhalten benennen. (LZ-ID: 06\_001\_1109)
 
-Lernende diskutieren Möglichkeiten der Integration von FDM-Themen in die Lehre.
+Lernende können Lehrformate und -methoden zur Integration von FDM-Themen in die Lehre diskutieren.
 
-Lernende reflektieren und diskutieren mögliche Herausforderungen.
+Lernende können mögliche Herausforderungen reflektieren und diskutieren.
 
 --->
 
@@ -35,11 +26,14 @@ Lernende reflektieren und diskutieren mögliche Herausforderungen.
 >
 >**Kleingruppenarbeit**
 >
->Entwickeln und sammeln Sie Idee(n) für Lehrformate, konkrete Aufgabenstellungen oder Übungen zur Sensibilisierung oder Vermittlung von Kenntnissen und Fähigkeiten zum Themabereich Forschungsdatenmanagement.
+>Sammeln Sie Idee(n) für konkrete Aufgabenstellungen oder Übungen endweder
+>
+> - zur Sensibilisierung oder
+> - zur Vermittlung von Kenntnissen und Fähigkeiten
+>
+> zum Themabereich Forschungsdatenmanagement.
 >
 >  - Welche Lernziele ließen sich verfolgen?
->
->  - Welche Lehr-/Lernszenarien wären denkbar?
 >
 >  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
 >

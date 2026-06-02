@@ -1,19 +1,21 @@
 ## Ziele dieses Workshops
 
 <!---
-Aufwärmübung
+Vorstellung der (Lern-)ziele
 
-Zeit: 1-2 Min.
+Den Teilnehmenden (TN) werden die Ziele des Workshops transparent gemacht. Dies unterstützt die Orientierung im Workshop, schafft Klarheit über die erwarteten Ergebnisse und ermöglicht es den TN, ihre eigenen Erwartungen mit den Workshopzielen abzugleichen.
 
-Lernziele: 
+Die explizite Benennung der Lernziele fördert zudem die Fokussierung auf die zentralen Inhalte und erleichtert eine spätere Reflexion des Lernerfolgs.
 
-Lernziele: 
+Zeit: 1–2 Min
 
-Zielef des Workshops sind für die Lernenden transparent.
+Lernziele:
 
-Lernende stimmen sich auf die kommenden Inhalte ein.
+- Lernende können die zentralen (Lern-)Ziele des Workshops benennen.
+- Lernende können die Bedeutung der Workshopziele für ihren eigenen Lernprozess einordnen.
 
 --->
+
 
 <img src="../images/targets.png" alt="Goals today" width="200" align="right">
 

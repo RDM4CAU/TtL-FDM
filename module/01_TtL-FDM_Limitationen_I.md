@@ -1,15 +1,21 @@
 ## Limitationen
 
 <!---
-Hinweise zu Limitationen
+Vorstellung der Limitationen
 
-Zeit: 1 Min
+Den Teilnehmenden (TN) werden die Limitationen des Workshops transparent gemacht. Dies unterstützt eine realistische Einschätzung der Workshopinhalte und hilft, Erwartungen entsprechend einzuordnen.
 
-Lernziele: 
+Die explizite Benennung der Limitationen trägt dazu bei, Klarheit über den Umfang des Workshops zu schaffen und mögliche Missverständnisse zu vermeiden.
 
-Limitationen des Workshops sind für die Lernenden transparent.
+Zeit: 1–2 Min
+
+Lernziele:
+
+- Lernende können die zentralen Limitationen des Workshops benennen.
+- Lernende können die Bedeutung der Limitationen für ihre Erwartungen einordnen.
 
 --->
+
 
 <img src="../images/limitations.png" alt="Limitations" width="250" align="right">
 

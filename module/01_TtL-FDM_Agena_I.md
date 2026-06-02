@@ -3,13 +3,15 @@
 <!---
 Vorstellung der Agenda
 
+Den Teilnehmenden (TN) wird der grobe Ablauf des Workshops transparent gemacht. Dies soll das Einstimmen in die kommenden Inhalte sowie das Selbstmanagement der Teilnehmenden unterstützen.
+
+An dieser Stelle können auch organisatorische Absprachen zu individuellen Bedarfen (z. B. "Kind muss um 12:30 Uhr von Kita abgeholt werden) mit den TN getroffen werden.
+
 Zeit: 1-2 Min
 
 Lernziele: 
 
-Inhalte und Ablauf des Workshops sind für die Lernenden transparent.
-
-Lernende stimmen sich auf die kommenden Inhalte ein.
+- Lernende können den groben Ablauf des Workshops beschreiben und dessen Inhalte benennen.
 
 --->
 

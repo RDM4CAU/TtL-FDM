@@ -1,31 +1,22 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
 
 ## Forschungsdaten - Begriff & Beispiele
 
-<!--- 
-
+<!---
 Grundbegriff Forschungsdaten
+
+Die Teilnehmenden (TN) erhalten eine Einführung in den Begriff Forschungsdaten. Dabei werden unterschiedliche Formen und Beispiele von Forschungsdaten vorgestellt, um ein gemeinsames Verständnis des Begriffs zu schaffen.
+
+Die Einführung unterstützt die Einordnung von Forschungsdaten in verschiedene fachliche und praktische Kontexte und bildet eine Grundlage für die weitere Beschäftigung mit Forschungsdatenmanagement (FDM).
 
 Methode: Vortrag im Plenum
 
 Zeit: 5 Min
 
 Lernziele (LZM-FDM):
-Lernende können	den Begriff Forschungsdaten	erläutern.(LZ-ID: 01_001_0007)
 
-Lernende können	Beispiele für Forschungsdaten benennen. (LZ-ID: 01_001_0008)
+Lernende können den Begriff Forschungsdaten erläutern. (LZ-ID: 01_001_0007)
+
+Lernende können Beispiele für Forschungsdaten benennen. (LZ-ID: 01_001_0008)
 
 --->
 
@@ -108,7 +99,7 @@ Es geht auch etwas weniger kompliziert:
 
 <div style="page-break-after: always;"></div>
 
-## Auseinandersetzung in der Lehre
+## Ideen für die Lehre
 
 Um auf einen bewussten Umgang mit Forschungsdaten hinzuwirken, ist es wichtig Studierenden bewusst zu machen, dass nicht nur das reine Messdatum oder das Interview zu Forschungsdaten zählen.
 

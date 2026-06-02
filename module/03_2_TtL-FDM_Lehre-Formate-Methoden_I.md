@@ -1,17 +1,3 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
-
 # Lehre: Formate und Methoden
 
 <!--- 
@@ -23,11 +9,8 @@ Zeit: 5-10 Min
 
 Lernziele (LZM-FDM):
 
-Lernende können geeignete Lehrformate für die Integration von FDM-Inhalten benennen. (LZ-ID: 06\_001\_1109)
+Lernende können geeignete Lehrsituationen, -formate und -methoden für die Integration von FDM-Inhalten benennen.
 
-Lernende können Methoden zur Auswahl und Strukturierung von Lerninhalten benennen. (LZ-ID: 06\_001\_1111)
-
-Lernende können Bedingungen für ein anregendes Lehren und Lernen benennen. (LZ-ID: 06\_001\_1107) 
 --->
 
 {{0-1}}
@@ -47,13 +30,14 @@ Aspetkte des FDM können im Rahmen vieler verschiedener Lehrformate adressiert w
 ********************
 Beispiele:
 
-<iframe src="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=mathe/gemein_1/zentr/vorles&anonymous=1&founds=mathe/gemein_1/zentr/kleing_5,/semina_80,/vorles,///zoolog/zentr/kleing_3,/prakti_56,/semina,/semina_6,/semina_9,/vorles,/vorles_2,/vorles_6&nosearch=1&ref=main&sem=2025w&__e=383" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="Unvis" allowTransparency="true"><p><a href="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=mathe/gemein_1/zentr/vorles&anonymous=1&founds=mathe/gemein_1/zentr/kleing_5,/semina_80,/vorles,///zoolog/zentr/kleing_3,/prakti_56,/semina,/semina_6,/semina_9,/vorles,/vorles_2,/vorles_6&nosearch=1&ref=main&sem=2025w&__e=383">Go to Univis</a></p></iframe>
+![Beispiel Lehrveranstaltung Ur- und Frühgeschichte](../images/2026-05-08_LV-Beispiel_UFG.png)
 
 ********************
 
 {{2}}
 ********************
-<iframe src="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=gemei/instit_2/zentr/archol&anonymous=1&founds=gemei/instit_2/urundf/archfo,//zentr/aktuel,/angewa,/archol,/archol_8,/armund,/einfhr_4,/heiint,/schiff,/schlss&lang=en&nosearch=1&ref=main&sem=2025w&tdir=mathe/biolog/nebenf/anthro&__e=383" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="Unvis" allowTransparency="true"><p><a href="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=gemei/instit_2/zentr/archol&anonymous=1&founds=gemei/instit_2/urundf/archfo,//zentr/aktuel,/angewa,/archol,/archol_8,/armund,/einfhr_4,/heiint,/schiff,/schlss&lang=en&nosearch=1&ref=main&sem=2025w&tdir=mathe/biolog/nebenf/anthro&__e=383">Go to Univis</a></p></iframe>
+
+![Beispiel Lehrveranstaltung Ur- und Frühgeschichte](../images/2026-05-08_LV-Beispiel_Geschichte.png)
 
 ********************
 
@@ -120,4 +104,3 @@ Forschendes Lernen: Hinweise für Theorie und Praxis.” Hochschule für Wirtsch
 
 Forschungsorientierte Lehre: Leitfaden – Begriffsverständnis und Umsetzungsmöglichkeiten am KIT. Personalentwicklung und Berufliche Ausbildung (PEBA), Karlsruher Institut für Technologie, https://www.ipek.kit.edu/downloads/Forschungsorientierte_Lehre.pdf
 . Zugriff am 30 Jan. 2026.
-

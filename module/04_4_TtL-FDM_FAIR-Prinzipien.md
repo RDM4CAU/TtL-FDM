@@ -1,23 +1,25 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
 
 ## FAIR-Prinzipien
 
 <!---
-Lernende können	die FAIR-Prinzipien	benennen. (LZ-ID: 01_007_0117)
-Lernende können	die FAIR-Prinzipien	erläutern. LZ-ID: 01_007_0118)
+Grundbegriff FAIR-Prinzipien
+
+Die Teilnehmenden (TN) erhalten eine Einführung in die FAIR-Prinzipien als grundlegendes Konzept für den Umgang mit Forschungsdaten. Dabei werden die einzelnen Prinzipien (Findable, Accessible, Interoperable, Reusable) vorgestellt und in ihren Zielsetzungen erläutert.
+
+Die Einführung schafft ein gemeinsames Verständnis für die Bedeutung von FAIRen Datenpraktiken im Forschungsdatenmanagement und bildet eine Grundlage für deren Anwendung in unterschiedlichen Kontexten.
+
+Methode: Vortrag im Plenum
+
+Zeit: 5 Min
+
+Lernziele (LZM-FDM):
+
+Lernende können die FAIR-Prinzipien benennen. (LZ-ID: 01_007_0117)
+
+Lernende können die FAIR-Prinzipien erläutern. (LZ-ID: 01_007_0118)
+
 --->
+
 {{0-1}}
 ****************
 <img src="../images/fair2.jpg" width="450" align="right"> 

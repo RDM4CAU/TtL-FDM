@@ -1,15 +1,21 @@
-## Workshop Regeln
+## Workshop-Regeln
 
 <!---
-Hinweise zu Limitationen
+Vorstellung der Workshopregeln
 
-Zeit: 1-2 Min
+Den Teilnehmenden (TN) werden die Workshopregeln transparent gemacht. Dies unterstützt eine angenehme und respektvolle Arbeitsatmosphäre sowie eine klare Orientierung im sozialen Miteinander während des Workshops.
 
-Lernziele: 
+Die explizite Benennung der Regeln trägt dazu bei, gemeinsame Erwartungen zu klären und eine konstruktive Zusammenarbeit zu fördern.
 
-Limitationen des Workshops sind für die Lernenden transparent.
+Zeit: 1–2 Min
+
+Lernziele:
+
+- Lernende können die zentralen Workshopregeln benennen.
+- Lernende können die Bedeutung der Workshopregeln für die Zusammenarbeit einordnen.
 
 --->
+
 
 <img src="../images/BeNice.jpg" alt="Workshop rules" width="250" align="right">
 

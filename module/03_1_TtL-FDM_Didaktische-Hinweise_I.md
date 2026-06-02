@@ -1,34 +1,26 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
-
 # Allgemeine didaktische Hinweise
 
-<!--- 
+<!---
 Kurze Einführung in didaktische Rahmenbedingungen
+
+Die Teilnehmenden (TN) erhalten eine kurze Einführung in zentrale didaktische Rahmenbedingungen für die Planung und Durchführung von Lehr-Lern-Angeboten. Dabei werden organisatorische Aspekte, die Auswahl und Strukturierung von Lerninhalten sowie Bedingungen für anregendes Lehren und Lernen thematisiert.
+
+Die Einführung schafft eine gemeinsame Grundlage für die  Auseinandersetzung mit der eigenen Lehrpraxis.
 
 Methode: Vortrag im Plenum
 
-Zeit: 5 min.
+Zeit: 5 Min
 
 Lernziele (LZM-FDM):
 
-Lernende können organisatorische Aspekte eines didaktischen Szenarios benennen. (LZ-ID: 06\_001\_1109)
+Lernende können organisatorische Aspekte eines didaktischen Szenarios benennen. (LZ-ID: 06_001_1109)
 
-Lernende können Methoden zur Auswahl und Strukturierung von Lerninhalten benennen. (LZ-ID: 06\_001\_1111)
+Lernende können Methoden zur Auswahl und Strukturierung von Lerninhalten benennen. (LZ-ID: 06_001_1111)
 
-Lernende können Bedingungen für ein anregendes Lehren und Lernen benennen. (LZ-ID: 06\_001\_1107) 
+Lernende können Bedingungen für ein anregendes Lehren und Lernen benennen. (LZ-ID: 06_001_1107)
+
 --->
+
 
 Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine didaktische Hinweise:
 

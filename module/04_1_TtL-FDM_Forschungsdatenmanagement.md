@@ -1,33 +1,27 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
 
 ## Begriffsdefinition Forschungsdatenmanagement
 
-<!--- 
-
+<!---
 Grundbegriff Forschungsdatenmanagement
 
-Methode: Vortrag im Plenum
+Die Teilnehmenden (TN) erhalten eine kurze Einführung in den Begriff Forschungsdatenmanagement (FDM). Dabei werden grundlegende Merkmale, Zielsetzungen und typische Tätigkeiten im Forschungsdatenmanagement angesprochen.
+
+Die Einführung schafft eine gemeinsame begriffliche Grundlage für die weitere Auseinandersetzung mit Themen und Praktiken des FDM im Verlauf des Workshops.
+
+Methode: Vortrag im Plenum, Zuruf durch TN
 
 Zeit: 2 Min
 
 Lernziele (LZM-FDM):
-Lernende können	den Begriff Forschungsdatenmanagement erläutern.(LZ-ID: 01_001_0007)
 
-Lernende können	Beispiele für Tätigkeiten im Forschungsdatenmanagement benennen und erläutern.(LZ-ID: 01_001_0007)
+Lernende können den Begriff Forschungsdatenmanagement erläutern. (LZ-ID: 01_001_000x)
+
+Lernende können Beispiele für Tätigkeiten im Forschungsdatenmanagement benennen. (LZ-ID: 01_001_000x)
+
+Lernende können Relevanz des Forschungsdatenmanagement für Forschungsprozesse erläutern. (LZ-ID: 01_001_000x)
 
 --->
+
 {{0-1}}
 ******************
 Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmanagement"** folgendermaßen:
@@ -50,9 +44,9 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 *******************
 Das Train-the-Trainer Konzept zum Forschungsdatenmanagements (Biernacka et al. 2023) definiert den Begriff **"Forschungsdatenmanagement"** folgendermaßen:
 
-> Das Forschungsdatenmanagement ist an allen Schritten des Forschungsprozesses beteiligt. Die zentralen Aufgaben des Forschungsdatenmanagements sind: 
+> Das Forschungsdatenmanagement ist an allen Schritten des Forschungsprozesses beteiligt. Die zentralen Aufgaben des Forschungsdatenmanagements sind:
 >
->- Planung des Umgangs mit Forschungsdaten zu Beginn eines Forschungsprojektes sowie ggf. Darstellung der geplanten Maßnahmen in Förderantragen. 
+>- Planung des Umgangs mit Forschungsdaten zu Beginn eines Forschungsprojektes sowie ggf. Darstellung der geplanten Maßnahmen in Förderantragen.
 >- Festlegen von Ordnerstruktur und Dateinamenskonventionen.
 >- Dokumentation von Forschungsdaten und Auszeichnung mit Metadaten.
 >- Backup und Langzeitarchivierung von Forschungsdaten
@@ -64,8 +58,32 @@ Das Train-the-Trainer Konzept zum Forschungsdatenmanagements (Biernacka et al. 2
 ********************
 <div style="page-break-after: always;"></div>
 
+## Warum ist Datenmanagement im Forschungsprozess wichtig?
+
+Mit FDM…
+
+- verbessern wir die Auffindbarkeit von Forschungsdaten
+- ermöglichen wir Wissenserhalt und -weitergabe
+- werden Kooperationen und Zusammenarbeit einfacher
+- erhöhen wir die eigene Sichtbarkeit in der wiss. Community
+- verbessern wir die Verständlichkeit der (eigenen) Forschungsdaten
+- werden Daten zitierbar
+- stärken wir die Nachnutzbarkeit von Forschungsergebnissen
+- erfüllen wir Voraussetzungen von Fördermittelgebern
+- erfüllen wir Anforderungen an die gute wissenschaftliche Praxis
+
+## Ideen für die Lehre
+
+Es hilft oft ein Blick auf das, was schiefgehen kann: reale Katastrophenszenarien in Form von „Black Stories“.
+
+Das Spiel ist online zugänglich: [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
+
+
+
 ## Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
 Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.
+
+Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assmann, C., Lehmann, A., Boelter, S., & Meyer, R. (2025). Research Data ScaryTales (5.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17463392

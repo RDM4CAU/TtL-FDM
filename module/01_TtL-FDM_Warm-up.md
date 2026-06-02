@@ -1,19 +1,25 @@
 ## Warm up
 
 <!---
-Aufwärmübung
+Warm-up – Aufwärmübung
 
-Zeit: 5 Min.
+Die Teilnehmenden (TN) und die Workshopleitenden erhalten einen ersten Überblick darüber, mit wem sie im Workshop arbeiten. Dies erfolgt niedrigschwellig und ohne verbale Beiträge, um allen TN eine unkomplizierte Beteiligung zu ermöglichen.
 
-Lernziele: 
+Die Übung unterstützt zudem eine erste Einschätzung der Vorkenntnisse innerhalb der Gruppe und schafft eine aktivierende Einstiegsphase.
 
-Die Workshopleitende und die Lernenden erfahren etwas darüber, mit wem sie im Workshop sitzen, ohne dabei sprechen zu müssen. 
+Methodik:
 
-Workshopleitende und Lernende erhalten einen Einblick in die Vorkenntnisse der Teilnehmenden.
+Die Workshopleitenden lesen Aussagen vor. TN sind aufgefordert, sich bei jeder zutreffenden Aussage sichtbar zu machen.
 
-online: mit abgedeckter Kamera
+- online: Kamera an-/ausschalten oder visuelles Signal
+- Präsenz: Arm heben oder aufstehen
 
-präsenz: Arm heben oder aufstehen
+Zeit: 5 Min
+
+Lernziele:
+
+- Lernende können ihre eigenen Vorerfahrungen im Vergleich zur Gruppe einordnen.
+- Workshopleitende und Lernende können eine grobe Einschätzung zu den Vorerfahrungen der teilnehmenden Personen formulieren.
 
 --->
 

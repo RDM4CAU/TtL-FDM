@@ -1,37 +1,28 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document is part of an introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm topics to students.
-
--->
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
 <!---
-Orientierung im Themenbereich FDM
+Orientierung im Themenbereich Forschungsdatenmanagement (FDM) 
 
-Methode: Gruppenarbeit
+Aktivität
 
-Zeit: 15 Min (10 Minuten Diskussion in Kleingruppen, 5 Minuten Review im Plenum)
+Die Teilnehmenden (TN) arbeiten in Kleingruppen mit den zuvor eingeführten Orientierungswerkzeugen (insbesondere der LZM-FDM). Sie überfliegen Themencluster und Inhalte und gleichen diese mit ihren eigenen Vorstellungen vom Forschungsdatenmanagement (FDM) ab.
+
+Im Mittelpunkt steht die Reflexion darüber, welche Inhalte bereits in der eigenen Lehre oder in eigenen Veranstaltungen vermittelt werden und wo mögliche Ergänzungen oder neue Perspektiven sichtbar werden. Die anschließende kurze Plenumsphase dient dem gemeinsamen Abgleich und der Verdichtung zentraler Beobachtungen.
+
+Methode: Gruppenarbeit (Kleingruppen + Plenum)
+
+Zeit: 15 Min (10 Min Kleingruppendiskussion, 5 Min Plenumsreview)
 
 Lernziele:
 
-Lernende können die LZM-FDM als Orientierungswerkzeug zu Themen des Forschungsdatenmanagements (FDM) benennen.
-
-Lernende können relevante Inhalte für das Forschungsdatenmanagement (FDM) benennen.
-
-Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM und Vorgehensweisen in der eigenen Lehre.
-
-Lernende diskutieren eigene Vorstellungen vom Themenfeld FDM und Vorgehensweisen in der eigenen Lehre.
+- Lernende können die LZM-FDM als Orientierungswerkzeug im Themenfeld Forschungsdatenmanagement (FDM) benennen.
+- Lernende können relevante Inhalte des Forschungsdatenmanagements (FDM) identifizieren und einordnen.
+- Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM im Abgleich mit der LZM-FDM.
+- Lernende diskutieren eigene Vorstellungen vom Themenfeld FDM sowie Vorgehensweisen in der eigenen Lehre.
 
 --->
+
 
 <img src="../images/kurzberichte.png" width="150" align="right">
 
@@ -39,7 +30,7 @@ Lernende diskutieren eigene Vorstellungen vom Themenfeld FDM und Vorgehensweisen
 >
 >* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
 >
->Überfliegen Sie die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
+>Überfliegen Sie gemeinsam die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
 >
 >* Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
 >* Sind Aspekte aufgeführt, die Sie nicht erwartet hätten oder fehlen Ihnen bestimmte Aspekte?

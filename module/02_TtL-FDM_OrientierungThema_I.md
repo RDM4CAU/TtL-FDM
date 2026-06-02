@@ -1,21 +1,11 @@
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
-
 ## Orientierung im Thema FDM
 
 <!---
-Orientierung im Themenbereich FDM
+Orientierung im Themenbereich Forschungsdatenmanagement (FDM)
+
+Die Teilnehmenden (TN) erhalten eine Einführung in das Themenfeld Forschungsdatenmanagement (FDM). Dabei werden zentrale Orientierungshilfen, wie die LZM-FDM sowie weitere Kompetenz- und Lernzielrahmen, vorgestellt. Ziel ist es, eine gemeinsame Ausgangsbasis für das weitere Arbeiten im Workshop zu schaffen.
+
+Die Einführung unterstützt die Einordnung zentraler Inhalte des FDM und regt zur Reflexion eigener Vorstellungen sowie bestehender Lehr- und Vermittlungsansätze im eigenen Kontext an.
 
 Methode: Vortrag im Plenum
 
@@ -23,11 +13,9 @@ Zeit: 5 Min
 
 Lernziele:
 
-Lernende können Orientierungshilfen, wie die LZM-FDM und andere Kompetenz- oder Lernzielrahmen, zu Themen des Forschungsdatenmanagement (FDM) benennen.
-
-Lernende können Themen im Forschungsdatenmanagement (FDM) benennen.
-
-Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM und Vorgehensweisen in der eigenen Lehre.
+- Lernende können Orientierungshilfen, wie die LZM-FDM und andere Kompetenz- oder Lernzielrahmen, im Themenfeld Forschungsdatenmanagement (FDM) benennen.
+- Lernende können zentrale Inhalte des Forschungsdatenmanagements (FDM) benennen.
+- Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM sowie Vorgehensweisen in der eigenen Lehre.
 
 --->
 
