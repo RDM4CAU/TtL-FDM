@@ -12,7 +12,7 @@ Im Mittelpunkt steht die Reflexion darüber, welche Inhalte bereits in der eigen
 
 Methode: Gruppenarbeit (Kleingruppen + Plenum)
 
-Zeit: 15 Min (10 Min Kleingruppendiskussion, 5 Min Plenumsreview)
+Zeit: 15 Min (10 Min Kleingruppendiskussion, 5 Min Plenumsreview) / 25 (5 Minuten Erklärung, 10 Minuten Kleingruppendiskussion, 10 Minuten Plenumsreview)
 
 Lernziele:
 
