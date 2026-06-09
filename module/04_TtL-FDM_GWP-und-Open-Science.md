@@ -67,6 +67,19 @@ Gute Wissenschaftliche Praxis...
 
 <div style="page-break-after: always;"></div>
 
+#### Ideen für die Lehre
+
+Einbindung der Richtlinien der CAU zur guten wissenschaftlichen Praxis in projektbasiertes Lernen.
+
+**Mögliche Lernziele**
+
+Die Lernenden können...
+
+... Prinzipien der Guten Wissenschaftlichen Praxis benennen.
+
+
+TODO
+
 ### Open Science
 
 {{1-2}}
