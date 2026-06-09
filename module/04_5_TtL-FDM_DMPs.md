@@ -58,7 +58,7 @@
 | EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
 | VW Stiftung        | DMP                                    | ja                                           | "Basis DMP-Template"    | living document  | 
 
-=> Während die Templates der nationalen Förderer sich eher am Datenmanagementzyklus orgientieren, orientiert sich das Template der EU an den FAIR-Prinzipien.
+=> Während die Templates der nationalen Förderer sich eher am Datenlebenszyklus orgientieren, orientiert sich das Template der EU an den FAIR-Prinzipien.
 
 <div style="page-break-after: always;"></div>
 
@@ -76,7 +76,17 @@
 
 ## DMPs in der Lehre thematisieren
 
-Im Kontext projektbasiertem Lernens kann ein Teil des Projekts darin bestehen, das methodische Vorgehen in der Datenerhebung, die zu erwartenden Daten sowie die geplante Datenanalyse zu beschreiben
+Im Rahmen eines projektbasierten Lernens kann beispielsweise ein Teil des Projekts darin bestehen, das methodische Vorgehen in der Datenerhebung, die zu erwartenden Daten sowie die geplante Datenanalyse zu beschreiben.
+
+**Mögliche Lernziele**:
+
+Lernende können ...
+
+... Bestandteile eines Datenmanagementplans benennen.
+
+...unter Anleitung einen Datenmanagementplan entwickeln.
+
+
 
 TODO
 
