@@ -56,7 +56,7 @@
 | DFG                | Angaben zum Umgang mit Forschungsdaten | als integraler Bestandteil des Antragstextes | DFG-Checkliste          | Projektende      |
 | BMBF               | Plan erforderlich je nach Förderlinie  | ja, wenn erforderlich                        | programmabhängig        | programmabhängig |
 | EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
-| VWStiftung         | DMP                                    | ja                                           | "Basis DMP-Template"    | living document  | 
+| VW Stiftung        | DMP                                    | ja                                           | "Basis DMP-Template"    | living document  | 
 
 => Während die Templates der nationalen Förderer sich eher am Datenmanagementzyklus orgientieren, orientiert sich das Template der EU an den FAIR-Prinzipien.
 
@@ -64,9 +64,9 @@
 
 ### DMP Templates & Tools
 
->- Wir führen regelmäßig Workshops zur Erstellung von DMPs an der WissWB durch.
+>- Wir führen regelmäßig Workshops zur Erstellung von DMPs an der Wissenschaftlichen Weiterbildung durch.
 >
-> Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.datamanagement.uni-kiel.de/de/service/materialien
+> Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.uni-kiel.de/de/universitaet/handlungsfelder/digitale-transformation/forschungsdatenmanagement/services
 >
 >- Weiterführende Informationen sowie eine Liste an **DMP-Tools** stellt [**forschungsdaten.info**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/) zur Verfügung.
 >
@@ -75,6 +75,8 @@
 <div style="page-break-after: always;"></div>
 
 ## DMPs in der Lehre thematisieren
+
+Im Kontext projektbasiertem Lernens kann ein Teil des Projekts darin bestehen, das methodische Vorgehen in der Datenerhebung, die zu erwartenden Daten sowie die geplante Datenanalyse zu beschreiben
 
 TODO
 

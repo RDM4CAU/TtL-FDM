@@ -46,7 +46,7 @@ Das Train-the-Trainer Konzept zum Forschungsdatenmanagements (Biernacka et al. 2
 
 > Das Forschungsdatenmanagement ist an allen Schritten des Forschungsprozesses beteiligt. Die zentralen Aufgaben des Forschungsdatenmanagements sind:
 >
->- Planung des Umgangs mit Forschungsdaten zu Beginn eines Forschungsprojektes sowie ggf. Darstellung der geplanten Maßnahmen in Förderantragen.
+>- Planung des Umgangs mit Forschungsdaten zu Beginn eines Forschungsprojektes sowie ggf. Darstellung der geplanten Maßnahmen in Förderanträgen.
 >- Festlegen von Ordnerstruktur und Dateinamenskonventionen.
 >- Dokumentation von Forschungsdaten und Auszeichnung mit Metadaten.
 >- Backup und Langzeitarchivierung von Forschungsdaten
@@ -54,7 +54,7 @@ Das Train-the-Trainer Konzept zum Forschungsdatenmanagements (Biernacka et al. 2
 >- Langzeitarchivierung von Forschungsdaten
 >- Publikation von Forschungsdaten
 >- Auffinden und Nachnutzen bestehender Forschungsdaten
->- Berücksichtigung von Datenschutz- und Urheberrecht im Umgang mit Forschungsdaten
+>- Berücksichtigung von Datenschutz und Urheberrecht im Umgang mit Forschungsdaten
 ********************
 <div style="page-break-after: always;"></div>
 

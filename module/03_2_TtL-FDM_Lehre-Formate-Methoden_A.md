@@ -26,12 +26,12 @@ Lernende können mögliche Herausforderungen reflektieren und diskutieren.
 >
 >**Kleingruppenarbeit**
 >
->Sammeln Sie Idee(n) für konkrete Aufgabenstellungen oder Übungen endweder
+>Sammeln Sie Idee(n) für konkrete Aufgabenstellungen oder Übungen entweder
 >
 > - zur Sensibilisierung oder
 > - zur Vermittlung von Kenntnissen und Fähigkeiten
 >
-> zum Themabereich Forschungsdatenmanagement.
+> zum Themenbereich Forschungsdatenmanagement.
 >
 >  - Welche Lernziele ließen sich verfolgen?
 >

@@ -60,7 +60,7 @@ Studierende entwickeln und bearbeiten "echte" Forschungsfragen mit authentischen
 >**Beispielhafte Fragestellungen**
 > 
 > - Gibt es einen Zusammenhang zwischen dem Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
-> - Welchen Einfluss hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
+> - Welchen Einfluss hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
 
 ## Projektbasiert lernen
 Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, Services oder Prototypen entwickeln. Dabei geht es weniger um die Beantwortung einer Forschungsfrage, sondern um die Gestaltung, Umsetzung und Reflexion eines Projekts – oft mit interdisziplinärem Bezug.
