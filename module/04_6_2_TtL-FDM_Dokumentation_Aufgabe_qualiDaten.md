@@ -16,17 +16,17 @@ Birgit: Naja, also Datenschutz ist natürlich immer ein Thema, und ähm, wer Zug
 
 Typische Probleme:
 
-keine Angaben zu Datum, Ort, Methode, Kontext
+* keine Angaben zu Datum, Ort, Methode, Kontext
 
-keine Pseudonymisierung oder Interview-ID
+* keine Pseudonymisierung oder Interview-ID
 
-keine Transkriptionsregeln erkennbar
+* keine Transkriptionsregeln erkennbar
 
-nur Verschriftlichung; inhaltlich-semantisches Transkript? GAT-Transkript?
+* nur Verschriftlichung; inhaltlich-semantisches Transkript? GAT-Transkript?
 
-fehlende Angaben zu Einverständniserklärung und Rechteklärung
+* fehlende Angaben zu Einverständniserklärung und Rechteklärung
 
-keine Metadaten / Begleitdokumentation
+* keine Metadaten / Begleitdokumentation
 
 
 
@@ -64,15 +64,15 @@ B1: Das sind, ja, das sind vor allem Datenschutzfragen und technische Schnittste
 
 Merkmale der verbesserten Qualität:
 
-vollständige Metadaten und Kontextbeschreibung
+* vollständige Metadaten und Kontextbeschreibung
 
-einheitliche Transkriptionskonventionen
+* einheitliche Transkriptionskonventionen
 
-Pseudonymisierung der Personen
+* Pseudonymisierung der Personen
 
-klare Lizenz und Speicherortangabe
+* klare Lizenz und Speicherortangabe
 
-Hinweis auf Einverständniserklärung und Datenschutzmaßnahmen
+* Hinweis auf Einverständniserklärung und Datenschutzmaßnahmen
 
 
 🗒️ Teil 3: Mini-Vorlage – Interview-Metadatenblatt (für Lehrzwecke)

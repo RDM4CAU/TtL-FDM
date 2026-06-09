@@ -6,11 +6,11 @@
 Beim „Gamification“-Prinzip geht es darum, eigentlich spielfremde
 Umgebungen (bspw. eine Lernplattform wie Open Olat) und Prozesse (wie das Lernen selbst) gezielt mit spieltypischen Elementen zu erweitern.
 
-Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen neuer Level und/oder gestaffelter Ziele, Wettbewerb und Kooperation sowie das Erhalten von Auszeichnungen und anderen kleinen Belohnungen in z. B. Olat-Kursen.
+Typische Gamification-Elemente sind bspw. das Sammeln von Punkten, das Erreichen neuer Level und/oder gestaffelter Ziele, Wettbewerb und Kooperation sowie das Erhalten von Auszeichnungen und anderen kleinen Belohnungen in z. B. Olat-Kursen.
 
 -> Typische Spielprinzipien in das Lehrkonzept integrieren, um bspw. traditionelle und tendenziell passive Lernformen abzulösen bzw. aufzulockern.
 
--> Die „gamifizierte“ Lehre verbindet die Vermittlung von Wissen mit Spaß und lohnenden Herausforderungen. Im Idealfall führt das zu einem höheren Maß an Motivation und Engagement der Studierenden.
+-> Die „gamifizierte“ Lehre verbindet die Vermittlung von Wissen mit Spaß und lohnenden Herausforderungen. Im Idealfall führt dies zu einem höheren Maß an Motivation und Engagement der Studierenden.
 
 ********************************************************************************
 
