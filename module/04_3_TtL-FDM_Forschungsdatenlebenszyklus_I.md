@@ -111,6 +111,23 @@ Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 
 ## Ideen für die Lehre
 
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…Phasen des Forschungsdatenlebenszyklus erläutern.
+>
+>…Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende besprechen die Stationen des Zyklus in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten während der jeweiligen Phasen.
+
+2. **Kleine Gruppenarbeit oder Einzelarbeit**  
+   - Aufgabe: Bringt die Karten in eine sinnvolle Reihenfolge und diskutiert darüber. Wenn Euch ein Element fehlt, ergänzt es bitte auf einer leeren Karte.
 
 ## Weiterführende Ressourcen
 

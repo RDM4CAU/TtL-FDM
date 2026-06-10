@@ -74,11 +74,26 @@ Mit FDM…
 
 ## Ideen für die Lehre
 
-Es hilft oft ein Blick auf das, was schiefgehen kann: reale Katastrophenszenarien in Form von „Black Stories“.
+Beispielhafte Lernziele
+---
 
-Das Spiel ist online zugänglich: [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
+>Studierende können…
+>
+>…den Begriff Forschungsdatenmanagement erläutern.
+>
+>…die Relevanz von Forschungsdatenmanagement für Forschungsprozesse erläutern.
 
+Beispielhafte Umsetzungsmöglichkeiten
+---
 
+1. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigleiten, die zum FDM gehören.  
+
+2. **Interaktive Wortwolke**  
+   - Studierende sammeln Beispiele für Tätigkeiten im Forschungsdatenmanagement, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert.
+
+3. **Gamifiziert**
+   - Es hilft oft ein Blick auf das, was schiefgehen kann, um die **Relevanz** eines Themas zu verdeutlichen. Das Spiel [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) enthält reale Forschungsdatenkatastrophenszenarien in Form von „Black Stories“. Das Spiel ist online zugänglich und spielbar.
 
 ## Weiterführende Ressourcen
 

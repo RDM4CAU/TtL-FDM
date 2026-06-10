@@ -35,6 +35,4 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 <div style="page-break-after: always;"></div>
 
-# Los geht es!
-
 <!-- MODULES WILL BE INSERTED HERE BY BUILD SCRIPT -->

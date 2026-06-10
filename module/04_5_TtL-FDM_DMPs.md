@@ -82,13 +82,9 @@ Im Rahmen eines projektbasierten Lernens kann beispielsweise ein Teil des Projek
 
 Lernende können ...
 
-... Bestandteile eines Datenmanagementplans benennen.
+...Bestandteile eines Datenmanagementplans benennen.
 
 ...unter Anleitung einen Datenmanagementplan entwickeln.
-
-
-
-TODO
 
 ## Weiterführende Ressourcen
 

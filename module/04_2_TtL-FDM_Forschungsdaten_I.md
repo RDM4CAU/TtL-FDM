@@ -117,8 +117,6 @@ Beispielhafte Lernziele
 Beispielhafte Umsetzungsmöglichkeiten
 ---
 
-Es gibt zahlreiche Möglichkeiten, eine Begriffsklärung in die Lehre einfließen zu lassen, z. B.
-
 1. **Kurzer Vortrag mit Diskussion**  
    - Lehrende stellen Definitionen vor, Studierende diskutieren Beispiele aus eigenen Projekten.  
 
