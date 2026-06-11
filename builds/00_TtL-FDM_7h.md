@@ -863,6 +863,241 @@ Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assm
 
 
 <!-- END MODULE: 04_1_TtL-FDM_Forschungsdatenmanagement_I.md -->
+<!-- MODULE: 04_3_TtL-FDM_Forschungsdatenlebenszyklus_I.md -->
+
+## Forschungsdatenlebenszyklus
+
+<!---
+Grundbegriff Forschungsdatenlebenszyklus
+
+Die Teilnehmenden (TN) erhalten eine Einführung in den Forschungsdatenlebenszyklus. Dabei werden die einzelnen Phasen des Lebenszyklus von Forschungsdaten kurz vorgestellt und erläutert.
+
+Die Einführung unterstützt ein grundlegendes Verständnis dafür, dass Forschungsdaten über verschiedene Phasen eines Forschungsprozesses hinweg erzeugt, verarbeitet, dokumentiert, gespeichert, veröffentlicht und nachgenutzt werden und die Handhabung der Daten in allen Phasen des Prozesses planvoll erfolgen sollte.
+
+Methode: Vortrag im Plenum
+
+Zeit: 5 Min
+
+Lernziele (LZM-FDM):
+
+Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005_0079)
+
+--->
+
+
+<img src="../images/FDM_Zyklus_klein_ohneText.jpg" width="350" align="right">
+
+<P><SMALL>Illustration: Cleo Michelsen, basierend auf dem Forschungsdatenlebenszyklus des UK Data Service</SMALL></P>
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+********************************************************************************
+<img src="../images/Planung_fdm-zyklus_2022.png" width="150" align="right">
+
+**Planung**:
+
+* Auf welche Weise entstehen neue Daten?
+* Werden Daten wiederverwendet?
+* Welche Datentypen, im Sinne von Datenformaten (z. B. Bilddaten, Textdaten oder Messdaten in Tabellen) entstehen?
+* Welche Analysen sind geplant?
+* Welches Datenvolumen ist zu erwarten?
+* Welche rechtlichen und ethischen Aspekte müssen berücksichtigt werden?
+* Wer ist verantwortlich?
+
+---
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+{{2}}
+********************************************************************************
+<img src="../images/erhebung-analyse_fdm-zyklus_2022.png" width="150" align="right">
+
+**Erhebung und Analyse**:
+
+* Welche Ansätze werden verfolgt, um die Daten nachvollziehbar zu dokumentieren?
+* Welche Maßnahmen werden getroffen, um eine hohe Qualität der Daten zu gewährleisten?
+* Welche digitalen Methoden und Werkzeuge (z. B. Software) sind zur Nutzung und Analyse der Daten erforderlich?
+* Auf welche Weise werden die Daten während der Projektlaufzeit gespeichert und gesichert?
+* Wie wird die Sicherheit sensibler Daten während der Projektlaufzeit gewährleistet (Zugriffs- und Nutzungsverwaltung)?
+
+********************************************************************************
+---
+
+<div style="page-break-after: always;"></div>
+
+{{3}}
+********************************************************************************
+
+<img src="../images/veroeffentl-archiv_fdm-zyklus_2022.png" width="150" align="right">
+
+**Archivierung & Veröffentlichung**:
+
+* Welche rechtlichen Besonderheiten bestehen im Zusammenhang mit dem Umgang mit Forschungsdaten in dem Forschungsprojekt?
+* Sind Auswirkungen oder Einschränkungen in Bezug auf die spätere Veröffentlichung bzw. Zugänglichkeit zu erwarten?
+* Auf welche Weise werden nutzungs- und urheberrechtliche Aspekte sowie Eigentumsfragen berücksichtigt?
+* Existieren wichtige wissenschaftliche Kodizes bzw. fachliche Normen, die Berücksichtigung finden sollten?
+
+---
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+{{4}}
+********************************************************************************
+
+<img src="../images/nachnutzung-fdm-zyklus_2022.png" width="150" align="right">
+
+**Nachnutzung**:
+
+* Welche Daten bieten sich für eine Nachnutzung besonders an?
+* Nach welchen Kriterien werden Forschungsdaten ausgewählt, um diese für die Nachnutzung durch andere zur Verfügung zu stellen?
+* Planen Sie die Archivierung Ihrer Daten in einer geeigneten Infrastruktur?
+* Falls ja, wie und wo? Gibt es Sperrfristen?
+* Wann sind die Forschungsdaten für Dritte nutzbar?
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+## Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…Phasen des Forschungsdatenlebenszyklus erläutern.
+>
+>…Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende besprechen die Stationen des Zyklus in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten während der jeweiligen Phasen.
+
+2. **Kleine Gruppenarbeit oder Einzelarbeit**  
+   - Aufgabe: Bringt die Karten in eine sinnvolle Reihenfolge und diskutiert darüber. Wenn Euch ein Element fehlt, ergänzt es bitte auf einer leeren Karte.
+
+## Weiterführende Ressourcen
+
+Forschungsdaten.info: [Der Datenlebenszyklus](https://forschungsdaten.info/fdm-allgemein/informieren-und-planen/datenlebenszyklus).
+
+<!-- END MODULE: 04_3_TtL-FDM_Forschungsdatenlebenszyklus_I.md -->
+<!-- MODULE: 04_4_TtL-FDM_FAIR-Prinzipien.md -->
+
+## FAIR-Prinzipien
+
+<!---
+Grundbegriff FAIR-Prinzipien
+
+Die Teilnehmenden (TN) erhalten eine Einführung in die FAIR-Prinzipien als grundlegendes Konzept für den Umgang mit Forschungsdaten. Dabei werden die einzelnen Prinzipien (Findable, Accessible, Interoperable, Reusable) vorgestellt und in ihren Zielsetzungen erläutert.
+
+Die Einführung schafft ein gemeinsames Verständnis für die Bedeutung von FAIRen Datenpraktiken im Forschungsdatenmanagement und bildet eine Grundlage für deren Anwendung in unterschiedlichen Kontexten.
+
+Methode: Vortrag im Plenum
+
+Zeit: 5 Min
+
+Lernziele (LZM-FDM):
+
+Lernende können die FAIR-Prinzipien benennen. (LZ-ID: 01_007_0117)
+
+Lernende können die FAIR-Prinzipien erläutern. (LZ-ID: 01_007_0118)
+
+--->
+
+{{0-1}}
+****************
+<img src="../images/fair2.jpg" width="450" align="right"> 
+
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
+
+Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.
+
+<small>Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).</small>
+
+****************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+>**F**indable
+
+{{2-3}}
+****************
+Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein. Maschinenlesbare Metadaten sind für das automatische Auffinden von Datensätzen und Diensten unerlässlich und daher ein wesentlicher Bestandteil des FAIRification-Prozesses.
+
+F1. (Meta)data are assigned a globally unique and persistent identifier
+
+F2. Data are described with rich metadata (defined by R1 below)
+
+F3. Metadata clearly and explicitly include the identifier of the data they describe
+
+F4. (Meta)data are registered or indexed in a searchable resource
+
+***************
+
+
+{{1}}
+>**A**ccessible
+
+{{3-4}}
+***********************
+Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
+
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+
+A1.1 The protocol is open, free, and universally implementable
+
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
+
+******************
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+>**I**nteroperable
+
+{{4-5}}
+**********************
+Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
+
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+
+I2. (Meta)data use vocabularies that follow FAIR principles
+
+I3. (Meta)data include qualified references to other (meta)data
+
+**********************
+
+{{1}}
+>**R**eusable
+
+{{5-6}}
+***************
+Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
+
+R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+
+R1.1. (Meta)data are released with a clear and accessible data usage license
+
+R1.2. (Meta)data are associated with detailed provenance
+
+R1.3. (Meta)data meet domain-relevant community standards
+
+**************
+
+<div style="page-break-after: always;"></div>
+
+## Weiterführende Ressourcen
+
+<!-- END MODULE: 04_4_TtL-FDM_FAIR-Prinzipien.md -->
 <!-- MODULE: 04_5_TtL-FDM_DMPs.md -->
 
 ## Datenmanagementpläne
@@ -2212,15 +2447,7 @@ Sie haben genau eine Minute Zeit.
 
 <div style="page-break-after: always;"></div>
 
-# ~~Feedback~~: Na, wie war´s?
 
-> <img src="../images/FragezeichenTyp.jpg" width="100" align="right">
->
->Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Forschungsdatenmanagement teilgenommen haben und fragen: "Na, wie war's"?
->
->Was antworten Sie?
-
-<div style="page-break-after: always;"></div>
 
 
 <!-- END MODULE: 06_TtL-FDM_OneMinutePaper_A.md -->

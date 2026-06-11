@@ -22,12 +22,4 @@ Sie haben genau eine Minute Zeit.
 
 <div style="page-break-after: always;"></div>
 
-# ~~Feedback~~: Na, wie war´s?
 
-> <img src="../images/FragezeichenTyp.jpg" width="100" align="right">
->
->Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Forschungsdatenmanagement teilgenommen haben und fragen: "Na, wie war's"?
->
->Was antworten Sie?
-
-<div style="page-break-after: always;"></div>
