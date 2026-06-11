@@ -87,5 +87,3 @@ Lernende können ...
 ...unter Anleitung einen Datenmanagementplan entwickeln.
 
 ## Weiterführende Ressourcen
-
-

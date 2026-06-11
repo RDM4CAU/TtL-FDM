@@ -312,162 +312,7 @@ Lernziele:
 
 
 <!-- END MODULE: 01_TtL-FDM_Warm-up.md -->
-<!-- MODULE: 02_TtL-FDM_OrientierungThema_I -->
-
-## Orientierung im Thema FDM
-
-<!---
-Orientierung im Themenbereich Forschungsdatenmanagement (FDM)
-
-Die Teilnehmenden (TN) erhalten eine Einführung in das Themenfeld Forschungsdatenmanagement (FDM). Dabei werden zentrale Orientierungshilfen, wie die LZM-FDM sowie weitere Kompetenz- und Lernzielrahmen, vorgestellt. Ziel ist es, eine gemeinsame Ausgangsbasis für das weitere Arbeiten im Workshop zu schaffen.
-
-Die Einführung unterstützt die Einordnung zentraler Inhalte des FDM und regt zur Reflexion eigener Vorstellungen sowie bestehender Lehr- und Vermittlungsansätze im eigenen Kontext an.
-
-Methode: Vortrag im Plenum
-
-Zeit: 5 Min
-
-Lernziele:
-
-- Lernende können Orientierungshilfen, wie die LZM-FDM und andere Kompetenz- oder Lernzielrahmen, im Themenfeld Forschungsdatenmanagement (FDM) benennen.
-- Lernende können zentrale Inhalte des Forschungsdatenmanagements (FDM) benennen.
-- Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM sowie Vorgehensweisen in der eigenen Lehre.
-
---->
-
-![FragezeigenTyp](../images/FragezeichenTyp.jpg)<!-- style: width="150" align="right" -->
-
-Der Themenbereich Forschungsdatenmanagement ist komplex.
-
-Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
-
-## FDM, Kompetenzen und Lernziele
-
->Forschungsdatenmanagement ist ein **breites und vielschichtiges Thema**, das viele unterschiedliche Aspekte umfasst:
->
->>**Forschungsdatenmanagement (FDM)** umfasst alle Aktivitäten, die mit der
->>
->> - **Aufbereitung**,
->> - **Speicherung**,
->> - **Archivierung** und
->> - **Veröffentlichung**
->>
->>von Forschungsdaten verbunden sind.
->>
->>FDM begleitet den Forschungsprozess von den ersten Planungen bis zur Archivierung, Nachnutzung oder Löschung der Daten.[^1]
->
->[^1] [Biernacka et al. (2023)](https://doi.org/10.5281/zenodo.10122153)
-
-> 🤔 **Aber: Was bedeutet das konkret bezüglich der zu unterrichtenden Inhalte?**
-
-### Orientierungswerkzeuge für Lehrende
-
-{{0-1}}
-*******************
-Um sich in dieser Komplexität zu orientieren, können Orientierungswerkzeuge hilfreich sein:
-*******************
-
-{{1-2}}
-*******************
-**Skills4EOSC Minimum Viable Skills Profiles**
-
-Die [**Skills4EOSC Minimum Viable Skills Profiles**](https://www.skills4eosc.eu/resources/publications/mvs) definieren **minimale Kompetenzen**, die Studierende auf verschiedenen Niveaus (Undergraduate, Master) im Bereich **Open Science** erwerben sollten.
-
-=> Die Profile bieten einen groben Überblick über benötigte Kompetenzen, gehen jedoch nichts Detail.
-
-*******************
-
-{{2}}
-*********************
-**Lernzielmatrix (LZM) zum Themenbereich FDM**
-
-Die [**Lernzielmatrix Forschungsdatenmanagement**](https://zenodo.org/records/15025246) bietet:
-
-- einen Überblick über die verschiedenen Themenbereiche und Inhaltsaspekte des FDM.
-- vorformulierte Lernziele für unterschiedliche Zielgruppen und in unterschiedlichen Komplexitätsstufen.
-
-= > Sie kann als Orientierungshilfe für die Planung von Lehre zum Themenbereich FDM dienen und hilft, **relevante Inhalte zu identifizieren, zu priorisieren und Lehre zu planen**.
-
-*******************
-
-### Kompetenzentwicklung in der Lehre
-
-Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfolgt **schrittweise und kontextabhängig**.
-
-Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Inhalte mehr oder weniger relevant sein.
-
-=> Vorhandene Orientierungswerzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
-
-=> Auswahl von für eigenes Fachgebiet relevanten Aspekten, Setzung eigner Schwerpunkte
-
-=> Formulierung von eignen fach- und veranstaltungsspezifischen Lernzielen
-
-=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenestellungen, Lernzielkontrollen usw.
-
-## Weiterführende Ressourcen
-
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
-
-Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025
-
-Lemaire, M., Voigt, A., & Lehmkuhl, U. (2025). Whitepaper: Datenkompetenzen für die historisch arbeitenden Disziplinen. Zenodo. https://doi.org/10.5281/zenodo.15479671
-
-Lernzielmatrix zum Forschungsdatenmanagement @ forschungsdaten.org, online: https://www.forschungsdaten.org/index.php/Lernzielmatrix,  letzter Zugriff 21.01.2026
-
-Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
-
-Skills4EOSC collection of Minimum Viable Skills Profiles (MVS), online: https://www.skills4eosc.eu/resources/publications/mvs, letzter Zugriff 21.01.2026
-
-Torres-Ramos, G., Sowinski, C., Sharma, S., Souyioultzoglou, I., Dostatnia, K., Schirru, L., Green, D., & Whyte, A. (2025). Student - Undergraduate: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923028
-
-<!-- END MODULE: 02_TtL-FDM_OrientierungThema_I -->
-<!-- MODULE: 02_TtL-FDM_OrientierungThema_A -->
-
-## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
-
-<!---
-Orientierung im Themenbereich Forschungsdatenmanagement (FDM) 
-
-Aktivität
-
-Die Teilnehmenden (TN) arbeiten in Kleingruppen mit den zuvor eingeführten Orientierungswerkzeugen (insbesondere der LZM-FDM). Sie überfliegen Themencluster und Inhalte und gleichen diese mit ihren eigenen Vorstellungen vom Forschungsdatenmanagement (FDM) ab.
-
-Im Mittelpunkt steht die Reflexion darüber, welche Inhalte bereits in der eigenen Lehre oder in eigenen Veranstaltungen vermittelt werden und wo mögliche Ergänzungen oder neue Perspektiven sichtbar werden. Die anschließende kurze Plenumsphase dient dem gemeinsamen Abgleich und der Verdichtung zentraler Beobachtungen.
-
-Methode: Gruppenarbeit (Kleingruppen + Plenum)
-
-Zeit: 15 Min (10 Min Kleingruppendiskussion, 5 Min Plenumsreview) / 25 (5 Minuten Erklärung, 10 Minuten Kleingruppendiskussion, 10 Minuten Plenumsreview)
-
-Lernziele:
-
-- Lernende können die LZM-FDM als Orientierungswerkzeug im Themenfeld Forschungsdatenmanagement (FDM) benennen.
-- Lernende können relevante Inhalte des Forschungsdatenmanagements (FDM) identifizieren und einordnen.
-- Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM im Abgleich mit der LZM-FDM.
-- Lernende diskutieren eigene Vorstellungen vom Themenfeld FDM sowie Vorgehensweisen in der eigenen Lehre.
-
---->
-
-
-<img src="../images/kurzberichte.png" width="150" align="right">
-
->**Kleingruppenarbeit in Break-Outs:**
->
->* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
->
->Überfliegen Sie gemeinsam die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
->
->* Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
->* Sind Aspekte aufgeführt, die Sie nicht erwartet hätten oder fehlen Ihnen bestimmte Aspekte?
->* Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
-
->Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
->
->* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz vorstellt.
-
-<div style="page-break-after: always;"></div>
-
-<!-- END MODULE: 02_TtL-FDM_OrientierungThema_A -->
-<!-- MODULE: 03_1_TtL-FDM_Didaktische-Hinweise_I -->
+<!-- MODULE: 03_1_TtL-FDM_Didaktische-Hinweise_I.md -->
 
 ## Planung einer Lehrveranstaltung
 
@@ -594,144 +439,162 @@ Lehrveranstaltungen konzipieren.” Teaching & Learning Academy, Wirtschaftsuniv
 
 Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Objectives. Zenodo. https://doi.org/10.5281/zenodo.15043810
 
-<!-- END MODULE: 03_1_TtL-FDM_Didaktische-Hinweise_I -->
-<!-- MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe -->
+<!-- END MODULE: 03_1_TtL-FDM_Didaktische-Hinweise_I.md -->
+<!-- MODULE: 02_TtL-FDM_OrientierungThema_I.md -->
 
-<!--
-
-author:   Britta Petersen, Linda Zollitsch
-email:    
-version:  0.1.0
-language: de
-narrator: Deutsch male
-
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
-
--->
-
-# FDM-Basics
+## Orientierung im Thema FDM
 
 <!---
+Orientierung im Themenbereich Forschungsdatenmanagement (FDM)
 
-Startfolie Grundbegriffe
+Die Teilnehmenden (TN) erhalten eine Einführung in das Themenfeld Forschungsdatenmanagement (FDM). Dabei werden zentrale Orientierungshilfen, wie die LZM-FDM sowie weitere Kompetenz- und Lernzielrahmen, vorgestellt. Ziel ist es, eine gemeinsame Ausgangsbasis für das weitere Arbeiten im Workshop zu schaffen.
+
+Die Einführung unterstützt die Einordnung zentraler Inhalte des FDM und regt zur Reflexion eigener Vorstellungen sowie bestehender Lehr- und Vermittlungsansätze im eigenen Kontext an.
+
+Methode: Vortrag im Plenum
+
+Zeit: 5 Min
+
+Lernziele:
+
+- Lernende können Orientierungshilfen, wie die LZM-FDM und andere Kompetenz- oder Lernzielrahmen, im Themenfeld Forschungsdatenmanagement (FDM) benennen.
+- Lernende können zentrale Inhalte des Forschungsdatenmanagements (FDM) benennen.
+- Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM sowie Vorgehensweisen in der eigenen Lehre.
 
 --->
 
-<img src="../images/FragezeichenTyp.jpg" width="150" align="right">
+![FragezeigenTyp](../images/FragezeichenTyp.jpg)<!-- style: width="150" align="right" -->
 
-Wir wollen zunächst einige Grundbegriffe klären...
+Der Themenbereich Forschungsdatenmanagement ist komplex.
 
-<!-- END MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe -->
-<!-- MODULE: 04_1_TtL-FDM_Forschungsdatenmanagement_I.md -->
+Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
-## Begriffsdefinition Forschungsdatenmanagement
+## FDM, Kompetenzen und Lernziele
 
-<!---
-Grundbegriff Forschungsdatenmanagement
+>Forschungsdatenmanagement ist ein **breites und vielschichtiges Thema**, das viele unterschiedliche Aspekte umfasst:
+>
+>>**Forschungsdatenmanagement (FDM)** umfasst alle Aktivitäten, die mit der
+>>
+>> - **Aufbereitung**,
+>> - **Speicherung**,
+>> - **Archivierung** und
+>> - **Veröffentlichung**
+>>
+>>von Forschungsdaten verbunden sind.
+>>
+>>FDM begleitet den Forschungsprozess von den ersten Planungen bis zur Archivierung, Nachnutzung oder Löschung der Daten.[^1]
+>
+>[^1] [Biernacka et al. (2023)](https://doi.org/10.5281/zenodo.10122153)
 
-Die Teilnehmenden (TN) erhalten eine kurze Einführung in den Begriff Forschungsdatenmanagement (FDM). Dabei werden grundlegende Merkmale, Zielsetzungen und typische Tätigkeiten im Forschungsdatenmanagement angesprochen.
+> 🤔 **Aber: Was bedeutet das konkret bezüglich der zu unterrichtenden Inhalte?**
 
-Die Einführung schafft eine gemeinsame begriffliche Grundlage für die weitere Auseinandersetzung mit Themen und Praktiken des FDM im Verlauf des Workshops.
-
-Methode: Vortrag im Plenum, Zuruf durch TN
-
-Zeit: 2 Min
-
-Lernziele (LZM-FDM):
-
-Lernende können den Begriff Forschungsdatenmanagement erläutern. (LZ-ID: 01_001_000x)
-
-Lernende können Beispiele für Tätigkeiten im Forschungsdatenmanagement benennen. (LZ-ID: 01_001_000x)
-
-Lernende können Relevanz des Forschungsdatenmanagement für Forschungsprozesse erläutern. (LZ-ID: 01_001_000x)
-
---->
+### Orientierungswerkzeuge für Lehrende
 
 {{0-1}}
-******************
-Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmanagement"** folgendermaßen:
-
-> Der Begriff Forschungsdatenmanagement bezeichnet strukturierte Maßnahmen im Kontext der Arbeit mit Forschungsdaten, die u. a. darauf abzielen, **Daten unabhängig von** den an der Erhebung **beteiligten Personen** **langfristig nutz- bzw. nachnutzbar** zu machen und somit die Effizienz der Forschung zu steigern (z. B. im Kontext der Forschung einer Arbeitsgruppe, aber auch mit Blick auf den weltweiten wissenschaftlichen Fortschritt). Ein weiteres Ziel besteht in der **Umsetzung rechtlicher Vorgaben** und **ethischer guter Praktiken** im Umgang mit sensiblen Daten, wie beispielsweise personenbezogenen Daten. Forschungsdatenmanagement umfasst nicht nur das Veröffentlichen von Daten (Open Data), sondern auch Maßnahmen entlang der vorangehenden Schritte des gesamten Datenlebenszyklus sowie der Datenarchivierung und -nachnutzung.
->
->(*"Glossar". forschungsdaten.info, letzter Zugriff 30.01.2026*)
-*************
+*******************
+Um sich in dieser Komplexität zu orientieren, können Orientierungswerkzeuge hilfreich sein:
+*******************
 
 {{1-2}}
 *******************
+**Skills4EOSC Minimum Viable Skills Profiles**
 
-> 🤔 **Was bedeutet das konkret?**
->
->**Welche Tätigkeiten und Maßnhamen werden im FDM ausgeführt?**
+Die [**Skills4EOSC Minimum Viable Skills Profiles**](https://www.skills4eosc.eu/resources/publications/mvs) definieren **minimale Kompetenzen**, die Studierende auf verschiedenen Niveaus (Undergraduate, Master) im Bereich **Open Science** erwerben sollten.
+
+=> Die Profile bieten einen groben Überblick über benötigte Kompetenzen, gehen jedoch nichts Detail.
 
 *******************
 
 {{2}}
+*********************
+**Lernzielmatrix (LZM) zum Themenbereich FDM**
+
+Die [**Lernzielmatrix Forschungsdatenmanagement**](https://zenodo.org/records/15025246) bietet:
+
+- einen Überblick über die verschiedenen Themenbereiche und Inhaltsaspekte des FDM.
+- vorformulierte Lernziele für unterschiedliche Zielgruppen und in unterschiedlichen Komplexitätsstufen.
+
+= > Sie kann als Orientierungshilfe für die Planung von Lehre zum Themenbereich FDM dienen und hilft, **relevante Inhalte zu identifizieren, zu priorisieren und Lehre zu planen**.
+
 *******************
-Das Train-the-Trainer Konzept zum Forschungsdatenmanagements (Biernacka et al. 2023) definiert den Begriff **"Forschungsdatenmanagement"** folgendermaßen:
 
-> Das Forschungsdatenmanagement ist an allen Schritten des Forschungsprozesses beteiligt. Die zentralen Aufgaben des Forschungsdatenmanagements sind:
->
->- Planung des Umgangs mit Forschungsdaten zu Beginn eines Forschungsprojektes sowie ggf. Darstellung der geplanten Maßnahmen in Förderanträgen.
->- Festlegen von Ordnerstruktur und Dateinamenskonventionen.
->- Dokumentation von Forschungsdaten und Auszeichnung mit Metadaten.
->- Backup und Langzeitarchivierung von Forschungsdaten
->- IT-Sicherheit und Zugriffsrechte für Forschungsdaten
->- Langzeitarchivierung von Forschungsdaten
->- Publikation von Forschungsdaten
->- Auffinden und Nachnutzen bestehender Forschungsdaten
->- Berücksichtigung von Datenschutz und Urheberrecht im Umgang mit Forschungsdaten
-********************
-<div style="page-break-after: always;"></div>
+### Kompetenzentwicklung in der Lehre
 
-## Warum ist Datenmanagement im Forschungsprozess wichtig?
+Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfolgt **schrittweise und kontextabhängig**.
 
-Mit FDM…
+Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Inhalte mehr oder weniger relevant sein.
 
-- verbessern wir die Auffindbarkeit von Forschungsdaten
-- ermöglichen wir Wissenserhalt und -weitergabe
-- werden Kooperationen und Zusammenarbeit einfacher
-- erhöhen wir die eigene Sichtbarkeit in der wiss. Community
-- verbessern wir die Verständlichkeit der (eigenen) Forschungsdaten
-- werden Daten zitierbar
-- stärken wir die Nachnutzbarkeit von Forschungsergebnissen
-- erfüllen wir Voraussetzungen von Fördermittelgebern
-- erfüllen wir Anforderungen an die gute wissenschaftliche Praxis
+=> Vorhandene Orientierungswerzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
 
-## Ideen für die Lehre
+=> Auswahl von für eigenes Fachgebiet relevanten Aspekten, Setzung eigner Schwerpunkte
 
-Beispielhafte Lernziele
----
+=> Formulierung von eignen fach- und veranstaltungsspezifischen Lernzielen
 
->Studierende können…
->
->…den Begriff Forschungsdatenmanagement erläutern.
->
->…die Relevanz von Forschungsdatenmanagement für Forschungsprozesse erläutern.
-
-Beispielhafte Umsetzungsmöglichkeiten
----
-
-1. **Kurzer Vortrag mit Diskussion**  
-   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigleiten, die zum FDM gehören.  
-
-2. **Interaktive Wortwolke**  
-   - Studierende sammeln Beispiele für Tätigkeiten im Forschungsdatenmanagement, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert.
-
-3. **Gamifiziert**
-   - Es hilft oft ein Blick auf das, was schiefgehen kann, um die **Relevanz** eines Themas zu verdeutlichen. Das Spiel [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) enthält reale Forschungsdatenkatastrophenszenarien in Form von „Black Stories“. Das Spiel ist online zugänglich und spielbar.
+=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenestellungen, Lernzielkontrollen usw.
 
 ## Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.
+Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025
 
-Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assmann, C., Lehmann, A., Boelter, S., & Meyer, R. (2025). Research Data ScaryTales (5.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17463392
+Lemaire, M., Voigt, A., & Lehmkuhl, U. (2025). Whitepaper: Datenkompetenzen für die historisch arbeitenden Disziplinen. Zenodo. https://doi.org/10.5281/zenodo.15479671
+
+Lernzielmatrix zum Forschungsdatenmanagement @ forschungsdaten.org, online: https://www.forschungsdaten.org/index.php/Lernzielmatrix,  letzter Zugriff 21.01.2026
+
+Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
+
+Skills4EOSC collection of Minimum Viable Skills Profiles (MVS), online: https://www.skills4eosc.eu/resources/publications/mvs, letzter Zugriff 21.01.2026
+
+Torres-Ramos, G., Sowinski, C., Sharma, S., Souyioultzoglou, I., Dostatnia, K., Schirru, L., Green, D., & Whyte, A. (2025). Student - Undergraduate: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923028
+
+<!-- END MODULE: 02_TtL-FDM_OrientierungThema_I.md -->
+<!-- MODULE: 02_TtL-FDM_OrientierungThema_A.md -->
+
+## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
+
+<!---
+Orientierung im Themenbereich Forschungsdatenmanagement (FDM) 
+
+Aktivität
+
+Die Teilnehmenden (TN) arbeiten in Kleingruppen mit den zuvor eingeführten Orientierungswerkzeugen (insbesondere der LZM-FDM). Sie überfliegen Themencluster und Inhalte und gleichen diese mit ihren eigenen Vorstellungen vom Forschungsdatenmanagement (FDM) ab.
+
+Im Mittelpunkt steht die Reflexion darüber, welche Inhalte bereits in der eigenen Lehre oder in eigenen Veranstaltungen vermittelt werden und wo mögliche Ergänzungen oder neue Perspektiven sichtbar werden. Die anschließende kurze Plenumsphase dient dem gemeinsamen Abgleich und der Verdichtung zentraler Beobachtungen.
+
+Methode: Gruppenarbeit (Kleingruppen + Plenum)
+
+Zeit: 15 Min (10 Min Kleingruppendiskussion, 5 Min Plenumsreview) / 25 (5 Minuten Erklärung, 10 Minuten Kleingruppendiskussion, 10 Minuten Plenumsreview)
+
+Lernziele:
+
+- Lernende können die LZM-FDM als Orientierungswerkzeug im Themenfeld Forschungsdatenmanagement (FDM) benennen.
+- Lernende können relevante Inhalte des Forschungsdatenmanagements (FDM) identifizieren und einordnen.
+- Lernende reflektieren eigene Vorstellungen vom Themenfeld FDM im Abgleich mit der LZM-FDM.
+- Lernende diskutieren eigene Vorstellungen vom Themenfeld FDM sowie Vorgehensweisen in der eigenen Lehre.
+
+--->
 
 
-<!-- END MODULE: 04_1_TtL-FDM_Forschungsdatenmanagement_I.md -->
+<img src="../images/kurzberichte.png" width="150" align="right">
+
+>**Kleingruppenarbeit in Break-Outs:**
+>
+>* Stellen Sie sich einander vor, berichten Sie gegenseitig in welchen Fachbereichen Sie tätig sind.
+>
+>Überfliegen Sie gemeinsam die in der [Lernzielmatrix](https://zenodo.org/records/15025246) zum Themenbereich FDM aufgeführten Themenbereiche/Inhaltsaspekte und diskutieren Sie in Ihrer Gruppe:
+>
+>* Decken sich die aufgeführten Aspekte mit Ihren Vorstellungen?
+>* Sind Aspekte aufgeführt, die Sie nicht erwartet hätten oder fehlen Ihnen bestimmte Aspekte?
+>* Wenn Sie an Ihre eigene Lehre denken, gibt es Aspekte, die bereits vermittelt werden?
+
+>Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019029&cot=14
+>
+>* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz vorstellt.
+
+<div style="page-break-after: always;"></div>
+
+<!-- END MODULE: 02_TtL-FDM_OrientierungThema_A.md -->
 <!-- MODULE: 04_TtL-FDM_GWP-und-Open-Science.md -->
 
 ## GWP & Open Science
@@ -863,6 +726,237 @@ FAIR = Open?
 ## Weiterführende Ressourcen
 
 <!-- END MODULE: 04_TtL-FDM_GWP-und-Open-Science.md -->
+<!-- MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe.md -->
+
+<!--
+
+author:   Britta Petersen, Linda Zollitsch
+email:    
+version:  0.1.0
+language: de
+narrator: Deutsch male
+
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+
+comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
+
+-->
+
+# FDM-Basics
+
+<!---
+
+Startfolie Grundbegriffe
+
+--->
+
+<img src="../images/FragezeichenTyp.jpg" width="150" align="right">
+
+Wir wollen zunächst einige Grundbegriffe klären...
+
+<!-- END MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe.md -->
+<!-- MODULE: 04_1_TtL-FDM_Forschungsdatenmanagement_I.md -->
+
+## Begriffsdefinition Forschungsdatenmanagement
+
+<!---
+Grundbegriff Forschungsdatenmanagement
+
+Die Teilnehmenden (TN) erhalten eine kurze Einführung in den Begriff Forschungsdatenmanagement (FDM). Dabei werden grundlegende Merkmale, Zielsetzungen und typische Tätigkeiten im Forschungsdatenmanagement angesprochen.
+
+Die Einführung schafft eine gemeinsame begriffliche Grundlage für die weitere Auseinandersetzung mit Themen und Praktiken des FDM im Verlauf des Workshops.
+
+Methode: Vortrag im Plenum, Zuruf durch TN
+
+Zeit: 2 Min
+
+Lernziele (LZM-FDM):
+
+Lernende können den Begriff Forschungsdatenmanagement erläutern. (LZ-ID: 01_001_000x)
+
+Lernende können Beispiele für Tätigkeiten im Forschungsdatenmanagement benennen. (LZ-ID: 01_001_000x)
+
+Lernende können Relevanz des Forschungsdatenmanagement für Forschungsprozesse erläutern. (LZ-ID: 01_001_000x)
+
+--->
+
+{{0-1}}
+******************
+Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmanagement"** folgendermaßen:
+
+> Der Begriff Forschungsdatenmanagement bezeichnet strukturierte Maßnahmen im Kontext der Arbeit mit Forschungsdaten, die u. a. darauf abzielen, **Daten unabhängig von** den an der Erhebung **beteiligten Personen** **langfristig nutz- bzw. nachnutzbar** zu machen und somit die Effizienz der Forschung zu steigern (z. B. im Kontext der Forschung einer Arbeitsgruppe, aber auch mit Blick auf den weltweiten wissenschaftlichen Fortschritt). Ein weiteres Ziel besteht in der **Umsetzung rechtlicher Vorgaben** und **ethischer guter Praktiken** im Umgang mit sensiblen Daten, wie beispielsweise personenbezogenen Daten. Forschungsdatenmanagement umfasst nicht nur das Veröffentlichen von Daten (Open Data), sondern auch Maßnahmen entlang der vorangehenden Schritte des gesamten Datenlebenszyklus sowie der Datenarchivierung und -nachnutzung.
+>
+>(*"Glossar". forschungsdaten.info, letzter Zugriff 30.01.2026*)
+*************
+
+{{1-2}}
+*******************
+
+> 🤔 **Was bedeutet das konkret?**
+>
+>**Welche Tätigkeiten und Maßnhamen werden im FDM ausgeführt?**
+
+*******************
+
+{{2}}
+*******************
+Das Train-the-Trainer Konzept zum Forschungsdatenmanagements (Biernacka et al. 2023) definiert den Begriff **"Forschungsdatenmanagement"** folgendermaßen:
+
+> Das Forschungsdatenmanagement ist an allen Schritten des Forschungsprozesses beteiligt. Die zentralen Aufgaben des Forschungsdatenmanagements sind:
+>
+>- Planung des Umgangs mit Forschungsdaten zu Beginn eines Forschungsprojektes sowie ggf. Darstellung der geplanten Maßnahmen in Förderanträgen.
+>- Festlegen von Ordnerstruktur und Dateinamenskonventionen.
+>- Dokumentation von Forschungsdaten und Auszeichnung mit Metadaten.
+>- Backup und Langzeitarchivierung von Forschungsdaten
+>- IT-Sicherheit und Zugriffsrechte für Forschungsdaten
+>- Langzeitarchivierung von Forschungsdaten
+>- Publikation von Forschungsdaten
+>- Auffinden und Nachnutzen bestehender Forschungsdaten
+>- Berücksichtigung von Datenschutz und Urheberrecht im Umgang mit Forschungsdaten
+********************
+<div style="page-break-after: always;"></div>
+
+## Warum ist Datenmanagement im Forschungsprozess wichtig?
+
+Mit FDM…
+
+- verbessern wir die Auffindbarkeit von Forschungsdaten
+- ermöglichen wir Wissenserhalt und -weitergabe
+- werden Kooperationen und Zusammenarbeit einfacher
+- erhöhen wir die eigene Sichtbarkeit in der wiss. Community
+- verbessern wir die Verständlichkeit der (eigenen) Forschungsdaten
+- werden Daten zitierbar
+- stärken wir die Nachnutzbarkeit von Forschungsergebnissen
+- erfüllen wir Voraussetzungen von Fördermittelgebern
+- erfüllen wir Anforderungen an die gute wissenschaftliche Praxis
+
+## Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…den Begriff Forschungsdatenmanagement erläutern.
+>
+>…die Relevanz von Forschungsdatenmanagement für Forschungsprozesse erläutern.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigleiten, die zum FDM gehören.  
+
+2. **Interaktive Wortwolke**  
+   - Studierende sammeln Beispiele für Tätigkeiten im Forschungsdatenmanagement, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert.
+
+3. **Gamifiziert**
+   - Es hilft oft ein Blick auf das, was schiefgehen kann, um die **Relevanz** eines Themas zu verdeutlichen. Das Spiel [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) enthält reale Forschungsdatenkatastrophenszenarien in Form von „Black Stories“. Das Spiel ist online zugänglich und spielbar.
+
+## Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.
+
+Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assmann, C., Lehmann, A., Boelter, S., & Meyer, R. (2025). Research Data ScaryTales (5.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17463392
+
+
+<!-- END MODULE: 04_1_TtL-FDM_Forschungsdatenmanagement_I.md -->
+<!-- MODULE: 04_5_TtL-FDM_DMPs.md -->
+
+## Datenmanagementpläne
+
+{{0-1}}
+**********
+
+>**Datenmanagementpläne beinhalten …**
+>
+> - … alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojekts hinreichend beschreiben und dokumentieren.
+>
+> - „[… die] Analyse des Workflows von der Erzeugung der Daten bis zu deren Nutzung"^1^
+>
+><small>^1^ Ludwig, J.; Enke, H. (Hrsg.): Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013. ISBN: 978-3-86488-032-2</small>
+
+*********
+{{1-2}}
+**********
+
+>Der Datenmanagementplan dokumentiert die (geplante) Erhebung, Speicherung, Dokumentation, Pflege, Verarbeitung, Weitergabe, Veröffentlichung und Aufbewahrung der Daten, ebenso wie die erforderlichen Ressourcen, rechtlichen Randbedingungen und verantwortlichen Personen. Somit trägt ein DMP zur Qualität, langfristigen Nutzbarkeit und Sicherheit der Daten bei und unterstützt zum Beispiel bei der Umsetzung der FAIR-Prinzipien.^2^ 
+>
+><small>^2^ [Forschungsdaten.info](https://forschungsdaten.info/praxis-kompakt/glossar/#c269828)</small>
+
+*********
+
+<div style="page-break-after: always;"></div>
+
+### Bestandteile eines DMP
+
+>**Ein DMP sollte Informationen zu...**
+>
+> - Administration (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+>
+> - Projekt- und Datensatzbeschreibung
+>
+> - Datentypen, -formate, -umfang
+>
+> - Angaben zu Metadaten und Standards
+>
+> - Datenaustausch und -zugang
+>
+> - Archivierung und Sicherung der Daten
+>
+> - Verantwortlichkeiten und Rechtliche Aspekte
+>
+> - Kosten
+>
+>**beeinhalten.**
+>
+>**--> Der Umfang kann zwischen wenigen Absätzen und mehreren Seiten variieren!**
+
+<div style="page-break-after: always;"></div>
+
+### Anforderungen der Förderorganisationen
+
+| Förderorganisation | Forderung                              | Abgabe bei Antrag                            | Inhalt                  | Bericht          |
+| ------------------ | -------------------------------------- | -------------------------------------------- | ----------------------- | ---------------- |
+| DFG                | Angaben zum Umgang mit Forschungsdaten | als integraler Bestandteil des Antragstextes | DFG-Checkliste          | Projektende      |
+| BMBF               | Plan erforderlich je nach Förderlinie  | ja, wenn erforderlich                        | programmabhängig        | programmabhängig |
+| EC Horizon Europe  | DMP                                    | nein, innerhalb der ersten 6 Projektmonate   | Horizon Europe Template | bei Änderungen & Projektende      |
+| VW Stiftung        | DMP                                    | ja                                           | "Basis DMP-Template"    | living document  | 
+
+=> Während die Templates der nationalen Förderer sich eher am Datenlebenszyklus orgientieren, orientiert sich das Template der EU an den FAIR-Prinzipien.
+
+<div style="page-break-after: always;"></div>
+
+### DMP Templates & Tools
+
+>- Wir führen regelmäßig Workshops zur Erstellung von DMPs an der Wissenschaftlichen Weiterbildung durch.
+>
+> Sie finden ein **DMP-Template** auf den Seiten des **Zentralen Forschungsdatenmanagements**: https://www.uni-kiel.de/de/universitaet/handlungsfelder/digitale-transformation/forschungsdatenmanagement/services
+>
+>- Weiterführende Informationen sowie eine Liste an **DMP-Tools** stellt [**forschungsdaten.info**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/) zur Verfügung.
+>
+>- Eine voll funktionsfähige Demoversion von RDMO erreichen Sie hier: https://rdmo.aip.de/ 
+
+<div style="page-break-after: always;"></div>
+
+## DMPs in der Lehre thematisieren
+
+Im Rahmen eines projektbasierten Lernens kann beispielsweise ein Teil des Projekts darin bestehen, das methodische Vorgehen in der Datenerhebung, die zu erwartenden Daten sowie die geplante Datenanalyse zu beschreiben.
+
+**Mögliche Lernziele**:
+
+Lernende können ...
+
+...Bestandteile eines Datenmanagementplans benennen.
+
+...unter Anleitung einen Datenmanagementplan entwickeln.
+
+## Weiterführende Ressourcen
+
+
+<!-- END MODULE: 04_5_TtL-FDM_DMPs.md -->
 <!-- MODULE: 04_TtL-FDM_Ordner-und-Dateibenennung.md -->
 
 ## Ordner- und Dateibenennung 📂
@@ -1228,152 +1322,6 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 
 <!-- END MODULE: 04_TtL-FDM_Ordner-und-Dateibenennung.md -->
-<!-- MODULE: 04_6_1_TtL-FDM_Dokumentation_I.md -->
-
-## Datendokumentation 📝
-
-{{0-1}}
-********************
-
->Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
->
->Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
->
->Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
-
-*~~Lernziel~~: Lernende können Methoden der Datendokumentation bewerten.*
-
-*~~Lernziel~~: Lernende können Datenqualität analysieren und bewerten.*
-
-*~~Lernziel~~: Lernende können verschiedene Aspekte von Datenqualität erläutern.*
-
-********************
-
-### Bestandteile einer Datendokumentation
-
-**Eine gute Datendokumentation enthält Informationen zu:**
-
-* Kontext: Projekthistorie, Absicht/Zielsetzung, Hypothesen, ...
-* Methoden: Sampling, Umstände der Erhebung, technische Rahmenbedingungen, ...
-* Datenstrukturen, Beziehungen zwischen Objekten
-* Wertebereiche, Qualitätskriterien, Gültigkeit
-* Änderungen im Projektverlauf, Versionierung
-* Informationen zu Datenzugang und Nutzungsbedingungen
-* Informationen zu Kontaktmöglichkeiten
-
----
-
-**Fokus Datenqualität**:
-
-* Erläuterung der verwendeten Terminologie, ggf. Definitionen/kontrollierten Vokabularen und Ontologien bzw. Thesauri
-* ggf. vordefinierte Wertebereiche, Format-Vorgaben (z.B. Datum YYYY-MM-DD)
-* Aussagekräftige Bezeichnungen von Spaltenköpfen (Sonderzeichen vermeiden)
-* Namen, Bezeichnungen für Variablen, Einheiten und ihre Werte dokumentieren
-* Erklärungen für Codes/Klassifikationsschemata
-* Kodierung fehlende Werte/Gründe für fehlende Werte
-* Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
-* Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
-
-<div style="page-break-after: always;"></div>
-
-### Warum dokumentieren?
-
-{{0-1}}
-********************
-Ohne Dokumentation laufen wir Gefahr...
-
->- Daten nicht wiederzufinden,
->- die Entstehung von Daten nicht mehr nachvollziehen zu können,
->- Daten wegen fehlender Kontextinformationen nicht mehr interpretieren zu können,
->- Dateien zu verwechseln (veraltete oder konkurrierende Versionen),
->- Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können.
->
-><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
-
-siehe auch: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
-
-********************
-
-<div style="page-break-after: always;"></div>
-
-### Dokumentation & GWP
-
-{{0-1}}
-********************
-**Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!**
-
->*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*
->
-><P><SMALL>[Bundesministerium für Bildung und Forschung](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenqualitaet-in-der-wissenschaft-sichern/datenqualitaet-in-der-wissenschaft-sichern_node.html) (2019): Datenqualität in der Wissenschaft sichern.</SMALL></P>
-
-********************
-
-{{1}}
-********************
-Hierzu ein...
-
-**...kurzer Rechercheauftrag**:
-
-Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https://zenodo.org/records/14281892) beschäftigt sich mit der Dokumentation?
-
-********************
-
-{{2}}
-********************
-
-**Leitlinie 12: Dokumentation**
-„Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]"
-
-<P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
-</SMALL></P>
-
-********************
-
-<div style="page-break-after: always;"></div>
-
-### Dokumentationsformen
-
-Daten können auf verschiedene Weise dokumentiert werden. Dabei muss ggf. für jedes Forschungsprojekt individuell entschieden werden, welche Dokumentationsform am geeignetsten ist. Gegebenenfalls kann eine Kombination von verschiedenen Dokumentationsformen nötig sein.
-
-Mögliche Dokumentationsformen könnten sein:
-
->- in einer ReadMe-Datei
->- in einer Metadatenbank
->- in einem projektinternen Wiki
->- in einem (elektronischen) Laborbuch
->- in einem Datenmanagementplan (DMP)
->- innerhalb der Ordnerstruktur und Dateibenennung
->- in der Datei selber bzw. in den Metainformationen der Datei.
->
->https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
-
-
-#### Beispiele
-
-Beispiel für eine Readme-Vorlage:
-
-{{1}}
-********************
-https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
-
-<img src="../images/datendoku_readme-beispiel.png">
-
-********************
-
-{{2}}
-********************
-Beispiele für Data Dictionary und Codebook
-
-<img src="../images/datendoku_dictionary-codebook.png">
-
-********************
-
-<div style="page-break-after: always;"></div>
-
-## Weiterführende Ressourcen
-
-
-<!-- END MODULE: 04_6_1_TtL-FDM_Dokumentation_I.md -->
 <!-- MODULE: 04_6_1_TtL-FDM_Dokumentation_numDaten_A.md -->
 
 ## Datendokumentation 📝
@@ -1538,6 +1486,152 @@ Selting, Margret et al. (2009): Gesprächsanalytisches Transkriptionssystem 2 (G
 
 
 <!-- END MODULE: 04_6_2_TtL-FDM_Dokumentation_qualiDaten_A.md -->
+<!-- MODULE: 04_6_1_TtL-FDM_Dokumentation_I.md -->
+
+## Datendokumentation 📝
+
+{{0-1}}
+********************
+
+>Nicht nur für eine Nachnutzung von Forschungsdaten durch Dritte, sondern auch für die zukünftige Nutzung durch die Datenerzeuger:innen selbst, ist eine möglichst ausführliche Dokumentation von Forschungsdaten enorm wichtig.
+>
+>Dokumentationen sind in der Regel nicht zielführend für die Beantwortung der wissenschaftlichen Fragestellung an der Forschende gerade arbeiten. Sie werden daher häufig als "lästige Zusatzarbeit" verstanden.
+>
+>Es ist daher enorm wichtig, die Relevanz einer guten Dokumentation aufzuzeigen und Routinen für das Dokumentieren von Forschungsdaten zu erarbeiten und zu vermitteln.
+
+*~~Lernziel~~: Lernende können Methoden der Datendokumentation bewerten.*
+
+*~~Lernziel~~: Lernende können Datenqualität analysieren und bewerten.*
+
+*~~Lernziel~~: Lernende können verschiedene Aspekte von Datenqualität erläutern.*
+
+********************
+
+### Bestandteile einer Datendokumentation
+
+**Eine gute Datendokumentation enthält Informationen zu:**
+
+* Kontext: Projekthistorie, Absicht/Zielsetzung, Hypothesen, ...
+* Methoden: Sampling, Umstände der Erhebung, technische Rahmenbedingungen, ...
+* Datenstrukturen, Beziehungen zwischen Objekten
+* Wertebereiche, Qualitätskriterien, Gültigkeit
+* Änderungen im Projektverlauf, Versionierung
+* Informationen zu Datenzugang und Nutzungsbedingungen
+* Informationen zu Kontaktmöglichkeiten
+
+---
+
+**Fokus Datenqualität**:
+
+* Erläuterung der verwendeten Terminologie, ggf. Definitionen/kontrollierten Vokabularen und Ontologien bzw. Thesauri
+* ggf. vordefinierte Wertebereiche, Format-Vorgaben (z.B. Datum YYYY-MM-DD)
+* Aussagekräftige Bezeichnungen von Spaltenköpfen (Sonderzeichen vermeiden)
+* Namen, Bezeichnungen für Variablen, Einheiten und ihre Werte dokumentieren
+* Erklärungen für Codes/Klassifikationsschemata
+* Kodierung fehlende Werte/Gründe für fehlende Werte
+* Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
+* Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
+
+<div style="page-break-after: always;"></div>
+
+### Warum dokumentieren?
+
+{{0-1}}
+********************
+Ohne Dokumentation laufen wir Gefahr...
+
+>- Daten nicht wiederzufinden,
+>- die Entstehung von Daten nicht mehr nachvollziehen zu können,
+>- Daten wegen fehlender Kontextinformationen nicht mehr interpretieren zu können,
+>- Dateien zu verwechseln (veraltete oder konkurrierende Versionen),
+>- Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können.
+>
+><p><small>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/</small></p>
+
+siehe auch: https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
+
+********************
+
+<div style="page-break-after: always;"></div>
+
+### Dokumentation & GWP
+
+{{0-1}}
+********************
+**Darüberhinaus gehört eine angemessene Dokumentation zur guten wissenschaftlichen Praxis!**
+
+>*Die Qualität von Daten zeichnet sich in der Wissenschaft unter anderem durch Transparenz und Nachvollziehbarkeit der Datensätze aus. Entsprechend der FAIR-Prinzipien sollten die Daten auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein. Für die (Nach-)Nutzung von Forschungsdaten ist es wichtig, dass sie nicht nur methodisch korrekt erhoben, sondern auch gut dokumentiert vorliegen. Nur so ergeben sich im wissenschaftlichen Arbeiten valide Ergebnisse, die möglichst replizierbar sind.*
+>
+><P><SMALL>[Bundesministerium für Bildung und Forschung](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenqualitaet-in-der-wissenschaft-sichern/datenqualitaet-in-der-wissenschaft-sichern_node.html) (2019): Datenqualität in der Wissenschaft sichern.</SMALL></P>
+
+********************
+
+{{1}}
+********************
+Hierzu ein...
+
+**...kurzer Rechercheauftrag**:
+
+Welche Leitlinie der [DFG Leitlinien zur guten wissenschaftlichen Praxis](https://zenodo.org/records/14281892) beschäftigt sich mit der Dokumentation?
+
+********************
+
+{{2}}
+********************
+
+**Leitlinie 12: Dokumentation**
+„Wissenschaftler:innen dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]"
+
+<P><SMALL>Deutsche Forschungsgemeinschaft. (2024). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://zenodo.org/records/14281892, S. 17.  
+</SMALL></P>
+
+********************
+
+<div style="page-break-after: always;"></div>
+
+### Dokumentationsformen
+
+Daten können auf verschiedene Weise dokumentiert werden. Dabei muss ggf. für jedes Forschungsprojekt individuell entschieden werden, welche Dokumentationsform am geeignetsten ist. Gegebenenfalls kann eine Kombination von verschiedenen Dokumentationsformen nötig sein.
+
+Mögliche Dokumentationsformen könnten sein:
+
+>- in einer ReadMe-Datei
+>- in einer Metadatenbank
+>- in einem projektinternen Wiki
+>- in einem (elektronischen) Laborbuch
+>- in einem Datenmanagementplan (DMP)
+>- innerhalb der Ordnerstruktur und Dateibenennung
+>- in der Datei selber bzw. in den Metainformationen der Datei.
+>
+>https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/
+
+
+#### Beispiele
+
+Beispiel für eine Readme-Vorlage:
+
+{{1}}
+********************
+https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
+
+<img src="../images/datendoku_readme-beispiel.png">
+
+********************
+
+{{2}}
+********************
+Beispiele für Data Dictionary und Codebook
+
+<img src="../images/datendoku_dictionary-codebook.png">
+
+********************
+
+<div style="page-break-after: always;"></div>
+
+## Weiterführende Ressourcen
+
+
+<!-- END MODULE: 04_6_1_TtL-FDM_Dokumentation_I.md -->
 <!-- MODULE: 04_TtL-FDM_Nachnutzung.md -->
 
 ## Nachnutzung ♻️
@@ -1870,7 +1964,7 @@ Forschungsorientierte Lehre: Leitfaden – Begriffsverständnis und Umsetzungsm�
 . Zugriff am 30 Jan. 2026.
 
 <!-- END MODULE: 03_2_TtL-FDM_Lehre-Formate-Methoden_I.md -->
-<!-- MODULE: 05_TtL-FDM_Wrap-Up -->
+<!-- MODULE: 05_TtL-FDM_Wrap-Up.md -->
 
 <!--
 
@@ -1926,8 +2020,8 @@ Movie time!
 <div style="page-break-after: always;"></div>
 
 
-<!-- END MODULE: 05_TtL-FDM_Wrap-Up -->
-<!-- MODULE: 06_TtL-FDM_FDM-an-der-CAU_I -->
+<!-- END MODULE: 05_TtL-FDM_Wrap-Up.md -->
+<!-- MODULE: 06_TtL-FDM_FDM-an-der-CAU_I.md -->
 
 <!--
 
@@ -2064,7 +2158,7 @@ Zögern Sie nicht, uns zu kontaktieren:
 ***********
 
 
-<!-- END MODULE: 06_TtL-FDM_FDM-an-der-CAU_I -->
+<!-- END MODULE: 06_TtL-FDM_FDM-an-der-CAU_I.md -->
 <!-- MODULE: 06_TtL-FDM_Wuensche_A.md -->
 
 <!--
@@ -2130,7 +2224,7 @@ Sie haben genau eine Minute Zeit.
 
 
 <!-- END MODULE: 06_TtL-FDM_OneMinutePaper_A.md -->
-<!-- MODULE: 06_TtL-FDM_Feedback_WieWars_A -->
+<!-- MODULE: 06_TtL-FDM_Feedback_WieWars_A.md -->
 
 <!--
 
@@ -2157,7 +2251,7 @@ comment:  This document provides a brief introduction to research data managemen
 <div style="page-break-after: always;"></div>
 
 
-<!-- END MODULE: 06_TtL-FDM_Feedback_WieWars_A -->
+<!-- END MODULE: 06_TtL-FDM_Feedback_WieWars_A.md -->
 <!-- MODULE: 06_TtL-FDM_Herzlichen-Dank_I.md -->
 
 <!--
