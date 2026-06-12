@@ -121,9 +121,26 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 ### Ideen für die Lehre
 
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…die FAIR-Prinzipien benennen.
+>
+>…die Relevanz der FAIR-Prinzipien erläutern
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende besprechen die FAIR-Prinzipien in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten, die den FAIR-Prinzipien entsprechen.
+
+2. **Kleine Gruppenarbeit oder Einzelarbeit**  
+   - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
 
 
-### Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
