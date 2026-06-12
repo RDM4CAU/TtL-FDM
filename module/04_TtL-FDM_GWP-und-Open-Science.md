@@ -128,14 +128,6 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 (Kunst, Sabine & Degkwitz, Andreas. (2019). Open Science - the new paradigm for research and education?. 10.18452/19871.)
 
 ********************************************************************************
-
-{{5}}
-********************************************************************************
-
-FAIR = Open?
-
-********************************************************************************
-
 <div style="page-break-after: always;"></div>
 
 ## Weiterführende Ressourcen

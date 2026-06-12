@@ -90,4 +90,12 @@ Die Plattform risources.dfg.de der DFG bietet einen zentralen Zugang zu verschie
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+
+### Ideen für die Lehre
+
+
+Einen Publikationsprozess gefahrlos auf dem Testsystem durchspielen: 
+https://datenrepositorium00.rz.uni-kiel.de
+
+
+### Weiterführende Ressourcen
