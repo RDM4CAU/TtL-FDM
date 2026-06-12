@@ -97,7 +97,7 @@ Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, S
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Forschendes Lernen: Hinweise für Theorie und Praxis.” Hochschule für Wirtschaft und Gesellschaft Ludwigshafen, https://www.hwg-lu.de/fileadmin/user_upload/service/studium-und-lehre/hochschuldidaktik/Handreichungen_und_Links/Handreichung_Forschendes_Lernen.pdf
 . Zugriff am 30 Jan. 2026
