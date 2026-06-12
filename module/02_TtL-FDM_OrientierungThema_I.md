@@ -80,15 +80,15 @@ Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfo
 
 Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Inhalte mehr oder weniger relevant sein.
 
-=> Vorhandene Orientierungswerzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
+=> Vorhandene Orientierungswerkzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
 
-=> Auswahl von für eigenes Fachgebiet relevanten Aspekten, Setzung eigner Schwerpunkte
+=> Auswahl von relevanten Aspekten für das eigene Fachgebiet, Setzung eigner Schwerpunkte
 
 => Formulierung von eignen fach- und veranstaltungsspezifischen Lernzielen
 
-=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenestellungen, Lernzielkontrollen usw.
+=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenerstellungen, Lernzielkontrollen usw.
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
