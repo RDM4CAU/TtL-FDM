@@ -51,8 +51,8 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 * längeres Suchen von Dateien oder das Vergleichen verschiedener Versionen von Dateien vermieden wird,
 * Änderungen nachvollziehbar sind,
 * die Dateien nicht versehentlich gelöscht oder überschrieben werden,
-* um die Zusammenarbeit zu verbessern und
-* Automatisierungsprozesse zu ermöglichen.
+* die Zusammenarbeit verbessert wird, und
+* um Automatisierungsprozesse zu ermöglichen.
 
 ********************************************************************************
 
@@ -371,4 +371,4 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen

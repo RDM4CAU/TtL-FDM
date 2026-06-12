@@ -12,7 +12,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
-## Datendokumentation 📝
+## Datendokumentation
 
 {{0-1}}
 ********************
@@ -152,4 +152,4 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
