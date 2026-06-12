@@ -27,7 +27,7 @@
 
 >**Ein DMP sollte Informationen zu...**
 >
-> - Administration (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+> - Administration (Projektname, Datenurheber:in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
 >
 > - Projekt- und Datensatzbeschreibung
 >
@@ -39,7 +39,7 @@
 >
 > - Archivierung und Sicherung der Daten
 >
-> - Verantwortlichkeiten und Rechtliche Aspekte
+> - Verantwortlichkeiten und rechtliche Aspekte
 >
 > - Kosten
 >
@@ -74,16 +74,23 @@
 
 <div style="page-break-after: always;"></div>
 
-## DMPs in der Lehre thematisieren
+
+### Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…Bestandteile eines Datenmanagementplans benennen.
+>
+>…die unter Anleitung einen Datenmanagementplan entwickeln.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
 
 Im Rahmen eines projektbasierten Lernens kann beispielsweise ein Teil des Projekts darin bestehen, das methodische Vorgehen in der Datenerhebung, die zu erwartenden Daten sowie die geplante Datenanalyse zu beschreiben.
 
-**Mögliche Lernziele**:
 
-Lernende können ...
 
-...Bestandteile eines Datenmanagementplans benennen.
-
-...unter Anleitung einen Datenmanagementplan entwickeln.
-
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
