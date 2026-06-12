@@ -129,6 +129,6 @@ Beispielhafte Umsetzungsmöglichkeiten
 2. **Kleine Gruppenarbeit oder Einzelarbeit**  
    - Aufgabe: Bringt die Karten in eine sinnvolle Reihenfolge und diskutiert darüber. Wenn Euch ein Element fehlt, ergänzt es bitte auf einer leeren Karte.
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Forschungsdaten.info: [Der Datenlebenszyklus](https://forschungsdaten.info/fdm-allgemein/informieren-und-planen/datenlebenszyklus).

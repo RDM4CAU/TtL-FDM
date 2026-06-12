@@ -69,13 +69,15 @@ Gute Wissenschaftliche Praxis...
 
 #### Ideen für die Lehre
 
-**Beispielfafte Lernziele**
+Beispielfafte Lernziele
+---
 
 >Die Lernenden können...
 >
 >... Prinzipien der Guten Wissenschaftlichen Praxis benennen.
 
-**Beispielhafte Umsetzungsmöglichkeiten**
+Beispielhafte Umsetzungsmöglichkeiten
+---
 
 Kurzer Input 
 
@@ -138,4 +140,4 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 ********************************************************************************
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen

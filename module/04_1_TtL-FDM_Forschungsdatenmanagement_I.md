@@ -36,7 +36,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 
 > 🤔 **Was bedeutet das konkret?**
 >
->**Welche Tätigkeiten und Maßnhamen werden im FDM ausgeführt?**
+>**Welche Tätigkeiten und Maßnahmen werden im FDM ausgeführt?**
 
 *******************
 
@@ -65,7 +65,7 @@ Mit FDM…
 - verbessern wir die Auffindbarkeit von Forschungsdaten
 - ermöglichen wir Wissenserhalt und -weitergabe
 - werden Kooperationen und Zusammenarbeit einfacher
-- erhöhen wir die eigene Sichtbarkeit in der wiss. Community
+- erhöhen wir die eigene Sichtbarkeit in der wissenschaftlichen Community
 - verbessern wir die Verständlichkeit der (eigenen) Forschungsdaten
 - werden Daten zitierbar
 - stärken wir die Nachnutzbarkeit von Forschungsergebnissen
@@ -87,7 +87,7 @@ Beispielhafte Umsetzungsmöglichkeiten
 ---
 
 1. **Kurzer Vortrag mit Diskussion**  
-   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigleiten, die zum FDM gehören.  
+   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigkeiten, die zum FDM gehören.  
 
 2. **Interaktive Wortwolke**  
    - Studierende sammeln Beispiele für Tätigkeiten im Forschungsdatenmanagement, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert.
@@ -95,7 +95,7 @@ Beispielhafte Umsetzungsmöglichkeiten
 3. **Gamifiziert**
    - Es hilft oft ein Blick auf das, was schiefgehen kann, um die **Relevanz** eines Themas zu verdeutlichen. Das Spiel [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) enthält reale Forschungsdatenkatastrophenszenarien in Form von „Black Stories“. Das Spiel ist online zugänglich und spielbar.
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
