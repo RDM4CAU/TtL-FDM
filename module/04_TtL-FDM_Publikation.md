@@ -93,9 +93,28 @@ Die Plattform risources.dfg.de der DFG bietet einen zentralen Zugang zu verschie
 
 ### Ideen für die Lehre
 
+Beispielhafte Lernziele
+---
 
-Einen Publikationsprozess gefahrlos auf dem Testsystem durchspielen: 
-https://datenrepositorium00.rz.uni-kiel.de
+>Studierende können…
+>
+>…Unterschiede zwischen verschiedenen Formen von Datenpublikationen erläutern.
+>
+>…typische Bestandteile einer Datenpublikation benennen.
+>
+>… Relevanz und Nutzen einer Datenpublikation erläutern.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Vorbild sein!**
+   - Eigene Forschungsdaten gemäß der FAIR-Prinzipien publizieren.
+
+2. **Publizieren üben**
+   - Einen Publikationsprozess gefahrlos auf unserem Testsystem durchspielen: https://datenrepositorium00.rz.uni-kiel.de (Achtung: Nur aus dem Uninetz erreichbar!)
 
 
-### Weiterführende Ressourcen
+#### Weiterführende Ressourcen
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Engelhardt, C., Biernacka, K., Coffey, A., Cornet, R., Danciu, A., Demchenko, Y., Downes, S., Erdmann, C., Garbuglia, F., Germer, K., Helbig, K., Hellström, M., Hettne, K., Hibbert, D., Jetten, M., Karimova, Y., Kryger Hansen, K., Kuusniemi, M. E., Letizia, V., … Zhou, B. (2022). D7.4 How to be FAIR with your data. A teaching and training handbook for higher education institutions (V1.2.1). Zenodo. https://doi.org/10.5281/zenodo.6674301

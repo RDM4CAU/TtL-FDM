@@ -109,7 +109,7 @@ Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 
 <div style="page-break-after: always;"></div>
 
-## Ideen für die Lehre
+### Ideen für die Lehre
 
 Beispielhafte Lernziele
 ---
@@ -118,17 +118,23 @@ Beispielhafte Lernziele
 >
 >…Phasen des Forschungsdatenlebenszyklus erläutern.
 >
->…Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen.
+>…eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen.
 
 Beispielhafte Umsetzungsmöglichkeiten
 ---
 
 1. **Kurzer Vortrag mit Diskussion**  
-   - Lehrende besprechen die Stationen des Zyklus in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten während der jeweiligen Phasen.
+   - Lehrende besprechen das Modell sowie die Stationen des Forschungsdatenlebenszyklus in einer Lehrveranstaltung. Diskutieren Sie dabei für den Fachbereich typische Tätigkeiten während der jeweiligen Phasen.
 
-2. **Kleine Gruppenarbeit oder Einzelarbeit**  
-   - Aufgabe: Bringt die Karten in eine sinnvolle Reihenfolge und diskutiert darüber. Wenn Euch ein Element fehlt, ergänzt es bitte auf einer leeren Karte.
+2. **Kleine Gruppenarbeit (auch als Einzelarbeit geeignet)**  
+   - Mit Bezeichnungen der Stationen beschriftete analoge oder digitale Karten verteilen (1 Karte/Station) und den Arbeitsauftrag erteilen: Bringen Sie die Karten in eine für ein Forschungsvorhaben/Ihr Forschungsvorhaben/den Forschungsprozess Ihrer Bachelorarbeit sinnvolle Reihenfolge. Wenn ein Element fehlt, bitte auf einer leeren Karte ergänzen. Ergebnisse im Plenum diskutieren.
+
+💡 Bezüge zum eigenen Fach bzw. dem eigenen Forschungsprojekt herstellen, um Begriffe und Modell für Studierende greifbarer zu machen.  
 
 #### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
 Forschungsdaten.info: [Der Datenlebenszyklus](https://forschungsdaten.info/fdm-allgemein/informieren-und-planen/datenlebenszyklus).

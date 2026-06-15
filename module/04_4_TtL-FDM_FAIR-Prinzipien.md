@@ -139,9 +139,22 @@ Beispielhafte Umsetzungsmöglichkeiten
 2. **Kleine Gruppenarbeit oder Einzelarbeit**  
    - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
 
+3. **Gamifiziert** 
+   - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
+
 
 #### Weiterführende Ressourcen
 
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+GO FAIR Initiative. (n.d.). FAIR principles. GO FAIR. Abgerufen am 15. Juni 2026, von https://www.go-fair.org/fair-principles/
+
+FAIR Data Maturity Model Working Group. (2020). FAIR Data Maturity Model. Specification and Guidelines (1.0). Zenodo. https://doi.org/10.15497/rda00050
+
+Kraft, A. (2017, 12. September). Die FAIR Data Prinzipien für Forschungsdaten. TIB Blog. https://blog.tib.eu/2017/09/12/die-fair-data-prinzipien-fuer-forschungsdaten/
+
 Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
+
+Redaktion von forschungsdaten.info. „FAIRe Daten“. forschungsdaten.info, 26. Januar 2026. https://forschungsdaten.info/fdm-allgemein/veroeffentlichen-und-archivieren/faire-daten
 
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18

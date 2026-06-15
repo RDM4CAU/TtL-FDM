@@ -72,7 +72,7 @@ Mit FDM…
 - erfüllen wir Voraussetzungen von Fördermittelgebern
 - erfüllen wir Anforderungen an die gute wissenschaftliche Praxis
 
-## Ideen für die Lehre
+### Ideen für die Lehre
 
 Beispielhafte Lernziele
 ---
@@ -94,6 +94,8 @@ Beispielhafte Umsetzungsmöglichkeiten
 
 3. **Gamifiziert**
    - Es hilft oft ein Blick auf das, was schiefgehen kann, um die **Relevanz** eines Themas zu verdeutlichen. Das Spiel [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) enthält reale Forschungsdatenkatastrophenszenarien in Form von „Black Stories“. Das Spiel ist online zugänglich und spielbar.
+
+💡 Bezüge zum eigenen Fach herstellen, um den Begriff für Studierende greifbarer zu machen.  
 
 #### Weiterführende Ressourcen
 

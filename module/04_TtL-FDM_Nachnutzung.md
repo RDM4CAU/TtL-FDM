@@ -278,3 +278,5 @@ Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datens�
 <div style="page-break-after: always;"></div>
 
 #### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153

@@ -371,4 +371,37 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
+### Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…den Begriff Dateibenennungskonvention erläutern.
+>
+>…die Relevanz von systematischen Dateibenennungen erläutern.
+>
+>…Lernende können eigenständig Dateibenennungskonventionen entwickeln.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Vorgaben machen & Vorbild sein!**
+   - Lernenden klare Vorgaben bzgl. der Dateibenennung, z. B. für Hausarbeiten machen. Vorgaben zur Dateibenennung bei den eigenen mit den Studierenden geteilten Dateien einhalten!
+
+2. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende stellen Empfehlungen zur Dateibenennung vor.Bisheriges Vorgehen und Erfahrungen diskutieren.
+
+2. **Einzel- oder Gruppenarbeit**  
+   - Entwicklung einer Dateibenennungskonvention als Einzel- oder Gruppenarbeit in Auftrag geben. Ergebnisse z. B. im Plenum oder via Partnerarbeit als Peer-Review diskutieren.
+
 #### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Engelhardt, C., Biernacka, K., Coffey, A., Cornet, R., Danciu, A., Demchenko, Y., Downes, S., Erdmann, C., Garbuglia, F., Germer, K., Helbig, K., Hellström, M., Hettne, K., Hibbert, D., Jetten, M., Karimova, Y., Kryger Hansen, K., Kuusniemi, M. E., Letizia, V., … Zhou, B. (2022). D7.4 How to be FAIR with your data. A teaching and training handbook for higher education institutions (V1.2.1). Zenodo. https://doi.org/10.5281/zenodo.6674301
+
+Klump, J., Wyborn, L., Downs, R., Asmi, A., Wu, M., Ryder, G., & Martin, J. (2020). Principles and best practices in data versioning for all data sets big and small. Version 1.1. Research Data Alliance. [DOI: 10.15497/RDA00042](https://doi.org/10.15497/RDA00042).
+
+Wilbrandt, J. (2026, April 29). Data Organization Made Easy: Comprehensive Folder Structure Template for Early Carrer Life/Natural Science Resaearchers. Zenodo. https://doi.org/10.5281/zenodo.20119397
