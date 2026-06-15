@@ -426,7 +426,7 @@ Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich se
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
@@ -524,15 +524,15 @@ Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfo
 
 Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Inhalte mehr oder weniger relevant sein.
 
-=> Vorhandene Orientierungswerzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
+=> Vorhandene Orientierungswerkzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
 
-=> Auswahl von für eigenes Fachgebiet relevanten Aspekten, Setzung eigner Schwerpunkte
+=> Auswahl von relevanten Aspekten für das eigene Fachgebiet, Setzung eigner Schwerpunkte
 
 => Formulierung von eignen fach- und veranstaltungsspezifischen Lernzielen
 
-=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenestellungen, Lernzielkontrollen usw.
+=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenerstellungen, Lernzielkontrollen usw.
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
@@ -654,16 +654,26 @@ Gute Wissenschaftliche Praxis...
 
 #### Ideen für die Lehre
 
-Einbindung der Richtlinien der CAU zur guten wissenschaftlichen Praxis in projektbasiertes Lernen.
+Beispielfafte Lernziele
+---
 
-**Mögliche Lernziele**
+>Die Lernenden können...
+>
+>... Prinzipien der Guten Wissenschaftlichen Praxis benennen.
 
-Die Lernenden können...
+Beispielhafte Umsetzungsmöglichkeiten
+---
 
-... Prinzipien der Guten Wissenschaftlichen Praxis benennen.
+Kurzer Input 
 
+- Lesen der CAU Richtlinie zur guten wissenschaftlichen Praxis
 
-TODO
+Kleingruppen- oder Einzelarbeit
+
+- Diskutieren der Inhalte der CAU Richtlinie zur guten wissenschaftlichen Praxis mit fokus auf fachspezifische Inhalte
+
+- Projektbasiertes Arbeiten mit der CAU-Richtlinie als Basis
+
 
 ### Open Science
 
@@ -713,17 +723,17 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 (Kunst, Sabine & Degkwitz, Andreas. (2019). Open Science - the new paradigm for research and education?. 10.18452/19871.)
 
 ********************************************************************************
-
-{{5}}
-********************************************************************************
-
-FAIR = Open?
-
-********************************************************************************
-
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+### Ideen für die Lehre
+
+
+
+#### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+
 
 <!-- END MODULE: 04_TtL-FDM_GWP-und-Open-Science.md -->
 <!-- MODULE: 04_0_TtL-FDM_FDM-Grundbegriffe.md -->
@@ -794,7 +804,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 
 > 🤔 **Was bedeutet das konkret?**
 >
->**Welche Tätigkeiten und Maßnhamen werden im FDM ausgeführt?**
+>**Welche Tätigkeiten und Maßnahmen werden im FDM ausgeführt?**
 
 *******************
 
@@ -823,14 +833,14 @@ Mit FDM…
 - verbessern wir die Auffindbarkeit von Forschungsdaten
 - ermöglichen wir Wissenserhalt und -weitergabe
 - werden Kooperationen und Zusammenarbeit einfacher
-- erhöhen wir die eigene Sichtbarkeit in der wiss. Community
+- erhöhen wir die eigene Sichtbarkeit in der wissenschaftlichen Community
 - verbessern wir die Verständlichkeit der (eigenen) Forschungsdaten
 - werden Daten zitierbar
 - stärken wir die Nachnutzbarkeit von Forschungsergebnissen
 - erfüllen wir Voraussetzungen von Fördermittelgebern
 - erfüllen wir Anforderungen an die gute wissenschaftliche Praxis
 
-## Ideen für die Lehre
+### Ideen für die Lehre
 
 Beispielhafte Lernziele
 ---
@@ -845,7 +855,7 @@ Beispielhafte Umsetzungsmöglichkeiten
 ---
 
 1. **Kurzer Vortrag mit Diskussion**  
-   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigleiten, die zum FDM gehören.  
+   - Lehrende stellen Definitionen vor, Studierende sammeln/diskutieren Tätigkeiten, die zum FDM gehören.  
 
 2. **Interaktive Wortwolke**  
    - Studierende sammeln Beispiele für Tätigkeiten im Forschungsdatenmanagement, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert.
@@ -853,7 +863,9 @@ Beispielhafte Umsetzungsmöglichkeiten
 3. **Gamifiziert**
    - Es hilft oft ein Blick auf das, was schiefgehen kann, um die **Relevanz** eines Themas zu verdeutlichen. Das Spiel [Research Data Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) enthält reale Forschungsdatenkatastrophenszenarien in Form von „Black Stories“. Das Spiel ist online zugänglich und spielbar.
 
-## Weiterführende Ressourcen
+💡 Bezüge zum eigenen Fach herstellen, um den Begriff für Studierende greifbarer zu machen.  
+
+#### Weiterführende Ressourcen
 
 Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
@@ -962,7 +974,7 @@ Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID: 01_005
 
 <div style="page-break-after: always;"></div>
 
-## Ideen für die Lehre
+### Ideen für die Lehre
 
 Beispielhafte Lernziele
 ---
@@ -971,18 +983,24 @@ Beispielhafte Lernziele
 >
 >…Phasen des Forschungsdatenlebenszyklus erläutern.
 >
->…Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen.
+>…eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen.
 
 Beispielhafte Umsetzungsmöglichkeiten
 ---
 
 1. **Kurzer Vortrag mit Diskussion**  
-   - Lehrende besprechen die Stationen des Zyklus in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten während der jeweiligen Phasen.
+   - Lehrende besprechen das Modell sowie die Stationen des Forschungsdatenlebenszyklus in einer Lehrveranstaltung. Diskutieren Sie dabei für den Fachbereich typische Tätigkeiten während der jeweiligen Phasen.
 
-2. **Kleine Gruppenarbeit oder Einzelarbeit**  
-   - Aufgabe: Bringt die Karten in eine sinnvolle Reihenfolge und diskutiert darüber. Wenn Euch ein Element fehlt, ergänzt es bitte auf einer leeren Karte.
+2. **Kleine Gruppenarbeit (auch als Einzelarbeit geeignet)**  
+   - Mit Bezeichnungen der Stationen beschriftete analoge oder digitale Karten verteilen (1 Karte/Station) und den Arbeitsauftrag erteilen: Bringen Sie die Karten in eine für ein Forschungsvorhaben/Ihr Forschungsvorhaben/den Forschungsprozess Ihrer Bachelorarbeit sinnvolle Reihenfolge. Wenn ein Element fehlt, bitte auf einer leeren Karte ergänzen. Ergebnisse im Plenum diskutieren.
 
-## Weiterführende Ressourcen
+💡 Bezüge zum eigenen Fach bzw. dem eigenen Forschungsprojekt herstellen, um Begriffe und Modell für Studierende greifbarer zu machen.  
+
+#### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
 Forschungsdaten.info: [Der Datenlebenszyklus](https://forschungsdaten.info/fdm-allgemein/informieren-und-planen/datenlebenszyklus).
 
@@ -1029,7 +1047,7 @@ Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als
 
 {{2-3}}
 ****************
-Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein. Maschinenlesbare Metadaten sind für das automatische Auffinden von Datensätzen und Diensten unerlässlich und daher ein wesentlicher Bestandteil des FAIRification-Prozesses.
+Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein.
 
 F1. (Meta)data are assigned a globally unique and persistent identifier
 
@@ -1095,7 +1113,59 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+### FAIR-Prinzipien im Überblick
+
+![FAIR-Pronzipien](../images/fair_beispiele.png "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2")
+
+### FAIR vs OPEN 
+
+{{0-1}}
+>Was denken Sie?
+>
+>FAIR = Open?
+
+{{1}}
+![FAIRvsOPEN](../images/FAIRvsOPEN.png)
+
+### Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…die FAIR-Prinzipien benennen.
+>
+>…die Relevanz der FAIR-Prinzipien erläutern
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende besprechen die FAIR-Prinzipien in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten, die den FAIR-Prinzipien entsprechen.
+
+2. **Kleine Gruppenarbeit oder Einzelarbeit**  
+   - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
+
+3. **Gamifiziert** 
+   - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
+
+
+#### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+GO FAIR Initiative. (n.d.). FAIR principles. GO FAIR. Abgerufen am 15. Juni 2026, von https://www.go-fair.org/fair-principles/
+
+FAIR Data Maturity Model Working Group. (2020). FAIR Data Maturity Model. Specification and Guidelines (1.0). Zenodo. https://doi.org/10.15497/rda00050
+
+Kraft, A. (2017, 12. September). Die FAIR Data Prinzipien für Forschungsdaten. TIB Blog. https://blog.tib.eu/2017/09/12/die-fair-data-prinzipien-fuer-forschungsdaten/
+
+Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
+
+Redaktion von forschungsdaten.info. „FAIRe Daten“. forschungsdaten.info, 26. Januar 2026. https://forschungsdaten.info/fdm-allgemein/veroeffentlichen-und-archivieren/faire-daten
+
+Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
 
 <!-- END MODULE: 04_4_TtL-FDM_FAIR-Prinzipien.md -->
 <!-- MODULE: 04_5_TtL-FDM_DMPs.md -->
@@ -1129,7 +1199,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 >**Ein DMP sollte Informationen zu...**
 >
-> - Administration (Projektname, Datenurheber*in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
+> - Administration (Projektname, Datenurheber:in, weitere Mitwirkende, Kontakt, Förderprogramm usw.)
 >
 > - Projekt- und Datensatzbeschreibung
 >
@@ -1141,7 +1211,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 >
 > - Archivierung und Sicherung der Daten
 >
-> - Verantwortlichkeiten und Rechtliche Aspekte
+> - Verantwortlichkeiten und rechtliche Aspekte
 >
 > - Kosten
 >
@@ -1176,20 +1246,28 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
-## DMPs in der Lehre thematisieren
+
+### Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…Bestandteile eines Datenmanagementplans benennen.
+>
+>…die unter Anleitung einen Datenmanagementplan entwickeln.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
 
 Im Rahmen eines projektbasierten Lernens kann beispielsweise ein Teil des Projekts darin bestehen, das methodische Vorgehen in der Datenerhebung, die zu erwartenden Daten sowie die geplante Datenanalyse zu beschreiben.
 
-**Mögliche Lernziele**:
+#### Weiterführende Ressourcen
 
-Lernende können ...
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-...Bestandteile eines Datenmanagementplans benennen.
-
-...unter Anleitung einen Datenmanagementplan entwickeln.
-
-## Weiterführende Ressourcen
-
+Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
 <!-- END MODULE: 04_5_TtL-FDM_DMPs.md -->
 <!-- MODULE: 04_TtL-FDM_Ordner-und-Dateibenennung.md -->
@@ -1233,8 +1311,8 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 * längeres Suchen von Dateien oder das Vergleichen verschiedener Versionen von Dateien vermieden wird,
 * Änderungen nachvollziehbar sind,
 * die Dateien nicht versehentlich gelöscht oder überschrieben werden,
-* um die Zusammenarbeit zu verbessern und
-* Automatisierungsprozesse zu ermöglichen.
+* die Zusammenarbeit verbessert wird, und
+* um Automatisierungsprozesse zu ermöglichen.
 
 ********************************************************************************
 
@@ -1553,7 +1631,40 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+### Ideen für die Lehre
+
+Beispielhafte Lernziele
+---
+
+>Studierende können…
+>
+>…den Begriff Dateibenennungskonvention erläutern.
+>
+>…die Relevanz von systematischen Dateibenennungen erläutern.
+>
+>…Lernende können eigenständig Dateibenennungskonventionen entwickeln.
+
+Beispielhafte Umsetzungsmöglichkeiten
+---
+
+1. **Vorgaben machen & Vorbild sein!**
+   - Lernenden klare Vorgaben bzgl. der Dateibenennung, z. B. für Hausarbeiten machen. Vorgaben zur Dateibenennung bei den eigenen mit den Studierenden geteilten Dateien einhalten!
+
+2. **Kurzer Vortrag mit Diskussion**  
+   - Lehrende stellen Empfehlungen zur Dateibenennung vor.Bisheriges Vorgehen und Erfahrungen diskutieren.
+
+2. **Einzel- oder Gruppenarbeit**  
+   - Entwicklung einer Dateibenennungskonvention als Einzel- oder Gruppenarbeit in Auftrag geben. Ergebnisse z. B. im Plenum oder via Partnerarbeit als Peer-Review diskutieren.
+
+#### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Engelhardt, C., Biernacka, K., Coffey, A., Cornet, R., Danciu, A., Demchenko, Y., Downes, S., Erdmann, C., Garbuglia, F., Germer, K., Helbig, K., Hellström, M., Hettne, K., Hibbert, D., Jetten, M., Karimova, Y., Kryger Hansen, K., Kuusniemi, M. E., Letizia, V., … Zhou, B. (2022). D7.4 How to be FAIR with your data. A teaching and training handbook for higher education institutions (V1.2.1). Zenodo. https://doi.org/10.5281/zenodo.6674301
+
+Klump, J., Wyborn, L., Downs, R., Asmi, A., Wu, M., Ryder, G., & Martin, J. (2020). Principles and best practices in data versioning for all data sets big and small. Version 1.1. Research Data Alliance. [DOI: 10.15497/RDA00042](https://doi.org/10.15497/RDA00042).
+
+Wilbrandt, J. (2026, April 29). Data Organization Made Easy: Comprehensive Folder Structure Template for Early Carrer Life/Natural Science Resaearchers. Zenodo. https://doi.org/10.5281/zenodo.20119397
 
 
 <!-- END MODULE: 04_TtL-FDM_Ordner-und-Dateibenennung.md -->
@@ -1723,7 +1834,7 @@ Selting, Margret et al. (2009): Gesprächsanalytisches Transkriptionssystem 2 (G
 <!-- END MODULE: 04_6_2_TtL-FDM_Dokumentation_qualiDaten_A.md -->
 <!-- MODULE: 04_6_1_TtL-FDM_Dokumentation_I.md -->
 
-## Datendokumentation 📝
+## Datendokumentation
 
 {{0-1}}
 ********************
@@ -1863,8 +1974,11 @@ Beispiele für Data Dictionary und Codebook
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
 <!-- END MODULE: 04_6_1_TtL-FDM_Dokumentation_I.md -->
 <!-- MODULE: 04_TtL-FDM_Nachnutzung.md -->
@@ -2134,7 +2248,9 @@ Mit nachgenutzen Forschungsdaten kann das **Evaluieren der Qualität von Datens�
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
+
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
 <!-- END MODULE: 04_TtL-FDM_Nachnutzung.md -->
 <!-- MODULE: 03_2_TtL-FDM_Lehre-Formate-Methoden_I.md -->
@@ -2190,7 +2306,7 @@ Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, S
 
 <div style="page-break-after: always;"></div>
 
-## Weiterführende Ressourcen
+#### Weiterführende Ressourcen
 
 Forschendes Lernen: Hinweise für Theorie und Praxis.” Hochschule für Wirtschaft und Gesellschaft Ludwigshafen, https://www.hwg-lu.de/fileadmin/user_upload/service/studium-und-lehre/hochschuldidaktik/Handreichungen_und_Links/Handreichung_Forschendes_Lernen.pdf
 . Zugriff am 30 Jan. 2026
