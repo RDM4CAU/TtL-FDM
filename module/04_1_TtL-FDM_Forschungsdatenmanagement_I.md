@@ -99,8 +99,8 @@ Beispielhafte Umsetzungsmöglichkeiten
 
 #### Weiterführende Ressourcen
 
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+- Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.
+- Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.
 
-Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assmann, C., Lehmann, A., Boelter, S., & Meyer, R. (2025). Research Data ScaryTales (5.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17463392
+- Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assmann, C., Lehmann, A., Boelter, S., & Meyer, R. (2025). Research Data ScaryTales (5.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17463392

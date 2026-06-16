@@ -16,7 +16,6 @@ Lernziele:
 --->
 
 <img src="../images/Fachlandkarte_TTL_halb_2022.jpg" alt="Fachlandkarte" width="350" align="right">
-Illustration: Cleo Michelsen
 
 Unsere Agenda für heute
 

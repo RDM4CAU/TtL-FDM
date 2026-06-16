@@ -128,7 +128,10 @@ Beispielhafte Lernziele
 >
 >…die FAIR-Prinzipien benennen.
 >
->…die Relevanz der FAIR-Prinzipien erläutern
+>…die Relevanz der FAIR-Prinzipien erläutern.
+>
+>…Daten im Hinblick auf die FAIR-Prinzipien bewerten.
+
 
 Beispielhafte Umsetzungsmöglichkeiten
 ---
@@ -136,25 +139,27 @@ Beispielhafte Umsetzungsmöglichkeiten
 1. **Kurzer Vortrag mit Diskussion**  
    - Lehrende besprechen die FAIR-Prinzipien in einer Lehrveranstaltung. Diskutieren Sie für den Fachbereich typische Tätigkeiten, die den FAIR-Prinzipien entsprechen.
 
-2. **Kleine Gruppenarbeit oder Einzelarbeit**  
-   - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
+2. **Unterschied zwischen FAIR und OPEN diskutieren**
+   - Diskutieren Sie die Unterschiede zwischen den FAIR-Prinzipien und den Open Science Prinzipien. 
 
-3. **Gamifiziert** 
-   - Aufgabe: Diskutieren Sie anhand von Beispielen oder konkreten Projekten, was getan werden muss, um einzelne Aspekte der FAIR-Prinzipien umzusetzen.
+3. **Datensätze bewerten oder aufbereiten lassen**
+   - Stellen Sie ausgewählte Datensätze zur Verfügung, die von Studierenden anhand der FAIR-Prinzipien bewertet und ggf. hinsichtlich der Erfüllung der FAIR-Prinzipien aufbereitet werden.
 
+4. **Video-Input als Diskussionsanlass**
+   - Schauen Sie das Video: [Data Sharing and Management Snafu in 3 Short Acts](Data Sharing and Management Snafu in 3 Short Acts). Lassen Sie Studierende herausarbeiten, auf jeweils welche der FAIR-Prinzipien sich die verschiedenen Szenen beziehen lassen.
 
 #### Weiterführende Ressourcen
 
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+- Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-GO FAIR Initiative. (n.d.). FAIR principles. GO FAIR. Abgerufen am 15. Juni 2026, von https://www.go-fair.org/fair-principles/
+- GO FAIR Initiative. (n.d.). FAIR principles. GO FAIR. Abgerufen am 15. Juni 2026, von https://www.go-fair.org/fair-principles/
 
-FAIR Data Maturity Model Working Group. (2020). FAIR Data Maturity Model. Specification and Guidelines (1.0). Zenodo. https://doi.org/10.15497/rda00050
+- FAIR Data Maturity Model Working Group. (2020). FAIR Data Maturity Model. Specification and Guidelines (1.0). Zenodo. https://doi.org/10.15497/rda00050
 
-Kraft, A. (2017, 12. September). Die FAIR Data Prinzipien für Forschungsdaten. TIB Blog. https://blog.tib.eu/2017/09/12/die-fair-data-prinzipien-fuer-forschungsdaten/
+- Kraft, A. (2017, 12. September). Die FAIR Data Prinzipien für Forschungsdaten. TIB Blog. https://blog.tib.eu/2017/09/12/die-fair-data-prinzipien-fuer-forschungsdaten/
 
-Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
+- Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
-Redaktion von forschungsdaten.info. „FAIRe Daten“. forschungsdaten.info, 26. Januar 2026. https://forschungsdaten.info/fdm-allgemein/veroeffentlichen-und-archivieren/faire-daten
+- Redaktion von forschungsdaten.info. „FAIRe Daten“. forschungsdaten.info, 26. Januar 2026. https://forschungsdaten.info/fdm-allgemein/veroeffentlichen-und-archivieren/faire-daten
 
-Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
+- Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18

@@ -77,30 +77,10 @@ Studierende können mit realen offenen Forschungsdaten praxisnahe Anwendungen, S
 
 <div style="page-break-after: always;"></div>
 
-# ~~Gruppenarbeit~~: Eigene Ideen für die Lehre
-
-> <img src="../images/kurzberichte.png" width="150" align="right">
->
->**Kleingruppenarbeit**
->
->Tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrveranstaltungen das Thema Nachnutzung von Forschungsdaten thematisiert werden könnte (oder bereits thematisiert wird).  
->
->Entwickeln und sammeln Sie Idee(n) für Lehrformate, konkrete Aufgabenstellungen oder Übungen zur Sensibilisierung oder Vermittlung von Sachkenntnissen und Methoden zum Themabereich Forschungsdatenmanagement.
->
->  - Welche Lernziele ließen sich verfolgen?
->
->  - Welche Lehr-/Lernszenarien wären denkbar?
->
->  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
->
->Notieren Sie die wichtigsten Punkte Ihrer Diskussionen und Ihre Ideen auf dem Miro-Board.
-
-<div style="page-break-after: always;"></div>
-
 #### Weiterführende Ressourcen
 
-Forschendes Lernen: Hinweise für Theorie und Praxis.” Hochschule für Wirtschaft und Gesellschaft Ludwigshafen, https://www.hwg-lu.de/fileadmin/user_upload/service/studium-und-lehre/hochschuldidaktik/Handreichungen_und_Links/Handreichung_Forschendes_Lernen.pdf
-. Zugriff am 30 Jan. 2026
+- Forschendes Lernen: Hinweise für Theorie und Praxis.” Hochschule für Wirtschaft und Gesellschaft Ludwigshafen, https://www.hwg-lu.de/fileadmin/user_upload/service/studium-und-lehre/hochschuldidaktik/Handreichungen_und_Links/Handreichung_Forschendes_Lernen.pdf
+. Zugriff am 30.01.2026
 
-Forschungsorientierte Lehre: Leitfaden – Begriffsverständnis und Umsetzungsmöglichkeiten am KIT. Personalentwicklung und Berufliche Ausbildung (PEBA), Karlsruher Institut für Technologie, https://www.ipek.kit.edu/downloads/Forschungsorientierte_Lehre.pdf
-. Zugriff am 30 Jan. 2026.
+- Forschungsorientierte Lehre: Leitfaden – Begriffsverständnis und Umsetzungsmöglichkeiten am KIT. Personalentwicklung und Berufliche Ausbildung (PEBA), Karlsruher Institut für Technologie, https://www.ipek.kit.edu/downloads/Forschungsorientierte_Lehre.pdf
+. Zugriff am 30.01.2026

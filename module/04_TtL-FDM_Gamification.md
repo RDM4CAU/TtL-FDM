@@ -49,4 +49,4 @@ Typische Gamification-Elemente sind bspw. das Sammeln von Punkten, das Erreichen
 
 #### Weiterführende Ressourcen
 
-Dockhorn, R., Engelhardt, C., Petersen, B., & Manske, A. (2026, February 25). Games and Gamification in Research Data Management: Engaging methods to foster better data practices. RDA Deutschland Tagung 2026, Potsdam, Germany. Zenodo. https://doi.org/10.5281/zenodo.19386540
+- Dockhorn, R., Engelhardt, C., Petersen, B., & Manske, A. (2026, February 25). Games and Gamification in Research Data Management: Engaging methods to foster better data practices. RDA Deutschland Tagung 2026, Potsdam, Germany. Zenodo. https://doi.org/10.5281/zenodo.19386540

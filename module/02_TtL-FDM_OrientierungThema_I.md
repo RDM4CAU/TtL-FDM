@@ -59,6 +59,9 @@ Die [**Skills4EOSC Minimum Viable Skills Profiles**](https://www.skills4eosc.eu/
 
 => Die Profile bieten einen groben Überblick über benötigte Kompetenzen, gehen jedoch nichts Detail.
 
+
+![skills4eosc minimal skillset master](../images/skills4eosc-master-p5.png "Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025")<!-- style="width:60%" -->
+
 *******************
 
 {{2}}
@@ -76,30 +79,30 @@ Die [**Lernzielmatrix Forschungsdatenmanagement**](https://zenodo.org/records/15
 
 ### Kompetenzentwicklung in der Lehre
 
-Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfolgt **schrittweise und kontextabhängig**.
-
-Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Inhalte mehr oder weniger relevant sein.
-
-=> Vorhandene Orientierungswerkzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
-
-=> Auswahl von relevanten Aspekten für das eigene Fachgebiet, Setzung eigner Schwerpunkte
-
-=> Formulierung von eignen fach- und veranstaltungsspezifischen Lernzielen
-
-=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenerstellungen, Lernzielkontrollen usw.
+>Der Erwerb von FDM-Kompetenzen (oft auch als "Datenkompetenzen" bezeichnet) erfolgt **schrittweise und kontextabhängig**.
+>
+>Je nach Disziplin, Forschungsmethodik und institutionellem Kontext können unterschiedliche Inhalte mehr oder weniger relevant sein.
+>
+>=> Vorhandene Orientierungswerkzeuge zur Orientierung, Themenfindung und Lernzieldefinierung nutzen.
+>
+>=> Auswahl von relevanten Aspekten für das eigene Fachgebiet, Setzung eigner Schwerpunkte
+>
+>=> Formulierung von eignen fach- und veranstaltungsspezifischen Lernzielen
+>
+>=> Ausarbeitung Lehr-/Lernmaterial, eigene Beispiele, Aufgabenerstellungen, Lernzielkontrollen usw.
 
 #### Weiterführende Ressourcen
 
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+- Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025
+- Green, D., Sharma, S., Souyioultzoglou, I., Torres-Ramos, G., Sowinski, C., Dostatnia, K., Schirru, L., Whyte, A., Martinez Lavanchy, P. M., Leister, C., & Saurugger, B. (2025). Student - Masters Level: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923025
 
-Lemaire, M., Voigt, A., & Lehmkuhl, U. (2025). Whitepaper: Datenkompetenzen für die historisch arbeitenden Disziplinen. Zenodo. https://doi.org/10.5281/zenodo.15479671
+- Lemaire, M., Voigt, A., & Lehmkuhl, U. (2025). Whitepaper: Datenkompetenzen für die historisch arbeitenden Disziplinen. Zenodo. https://doi.org/10.5281/zenodo.15479671
 
-Lernzielmatrix zum Forschungsdatenmanagement @ forschungsdaten.org, online: https://www.forschungsdaten.org/index.php/Lernzielmatrix,  letzter Zugriff 21.01.2026
+- Lernzielmatrix zum Forschungsdatenmanagement @ forschungsdaten.org, online: https://www.forschungsdaten.org/index.php/Lernzielmatrix,  letzter Zugriff 21.01.2026
 
-Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
+- Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
 
-Skills4EOSC collection of Minimum Viable Skills Profiles (MVS), online: https://www.skills4eosc.eu/resources/publications/mvs, letzter Zugriff 21.01.2026
+- Skills4EOSC collection of Minimum Viable Skills Profiles (MVS), online: https://www.skills4eosc.eu/resources/publications/mvs, letzter Zugriff 21.01.2026
 
-Torres-Ramos, G., Sowinski, C., Sharma, S., Souyioultzoglou, I., Dostatnia, K., Schirru, L., Green, D., & Whyte, A. (2025). Student - Undergraduate: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923028
+- Torres-Ramos, G., Sowinski, C., Sharma, S., Souyioultzoglou, I., Dostatnia, K., Schirru, L., Green, D., & Whyte, A. (2025). Student - Undergraduate: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.16923028

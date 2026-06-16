@@ -118,28 +118,28 @@ Beispielhafte Umsetzungsmöglichkeiten
 ---
 
 1. **Kurzer Vortrag mit Diskussion**  
-   - Lehrende stellen Definitionen vor, Studierende diskutieren Beispiele aus eigenen Projekten.  
+   - Lehrende stellen die Definition des Begriffs Forschungsdaten vor, Studierende diskutieren Beispiele aus eigenen Projekten.  
 
 2. **Interaktive Wortwolke**  
-   - Studierende sammeln Beispiele für Forschungsdaten, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert.  
+   - Studierende sammeln Beispiele für Forschungsdaten, z. B. via eines Online-Tools, wie [answergarden.ch](https://answergarden.ch/) o. ä., und erstellen gemeinsam eine Wortwolke. Anschließend wird die Sammlung diskutiert und eine Definition des Begriffes vorgestellt.  
 
 3. **Rechercheauftrag**  
-   - „Finden Sie Beispiele für Forschungsdaten in aktuellen Studien Ihres Fachgebiets.“  
+   - „Finden Sie Beispiele für Forschungsdaten in aktuellen Studien Ihres Fachgebiets.“ Diskutieren Sie die Ergebnisse. 
 
 4. **Arbeitsauftrag im Praktikum/Seminar**  
-   - „Listen Sie alle Forschungsdaten auf, die während dieser Veranstaltung entstehen.“  
+   - „Listen Sie alle Forschungsdaten auf, die während dieser Veranstaltung/während dieses Experiments entstehen.“  
 
 💡 Bezüge zum eigenen Fach herstellen, um den Begriff für Studierende greifbarer zu machen.  
 
 #### Weiterführende Ressourcen
 
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+- Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-Deutsche Forschungsgemeinschaft. “Umgang mit Forschungsdaten.” DFG – Deutsche Forschungsgemeinschaft, https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/forschungsdaten
+- Deutsche Forschungsgemeinschaft. “Umgang mit Forschungsdaten.” DFG – Deutsche Forschungsgemeinschaft, https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/forschungsdaten
 . Zugriff am 30 Jan. 2026
 
-Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
+- Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, "Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten", https://doi.org/10.25625/EKEEFB, GRO.data, V2
 
-Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
+- Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
 
-Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.
+- Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 27. Januar 2026. https://forschungsdaten.info/praxis-kompakt/glossar/.

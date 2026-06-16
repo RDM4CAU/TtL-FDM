@@ -138,13 +138,13 @@ Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich se
 
 #### Weiterführende Ressourcen
 
-Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
+- Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-Christian-Albrechts-Universität zu Kiel, Geschäftsbereich Qualitätsentwicklung, Referat Lehrentwicklung, Einfach gute Methoden, verfügbar unter: https://einfachgutelehre.uni-kiel.de/methoden, letzter Zugriff am 30.01.2026
+- Christian-Albrechts-Universität zu Kiel, Geschäftsbereich Qualitätsentwicklung, Referat Lehrentwicklung, Einfach gute Methoden, verfügbar unter: https://einfachgutelehre.uni-kiel.de/methoden, letzter Zugriff am 30.01.2026
 
-Didaktische Planungsprozesse. einfachlehren – Hochschuldidaktik Portal, Technische Universität Darmstadt, 15 Feb. 2023, https://www.einfachlehren.tu-darmstadt.de/themensammlung/details_13056.de.jsp
+- Didaktische Planungsprozesse. einfachlehren – Hochschuldidaktik Portal, Technische Universität Darmstadt, 15 Feb. 2023, https://www.einfachlehren.tu-darmstadt.de/themensammlung/details_13056.de.jsp
 . letzter Zugriff am 30 Jan. 2026
 
-Lehrveranstaltungen konzipieren.” Teaching & Learning Academy, Wirtschaftsuniversität Wien, https://learn.wu.ac.at/open/tlac/lehrveranstaltungenkonzipieren, letzter Zugriff am 30 Jan. 2026
+- Lehrveranstaltungen konzipieren.” Teaching & Learning Academy, Wirtschaftsuniversität Wien, https://learn.wu.ac.at/open/tlac/lehrveranstaltungenkonzipieren, letzter Zugriff am 30 Jan. 2026
 
-Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Objectives. Zenodo. https://doi.org/10.5281/zenodo.15043810
+- Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Objectives. Zenodo. https://doi.org/10.5281/zenodo.15043810
